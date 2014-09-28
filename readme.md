@@ -6,7 +6,9 @@
 
 Open your terminal and run this command:
 
-`npm install --global javascripting`
+```
+npm install --global javascripting
+```
 
 The `--global` option installs this module globally so that you can run it as a command in your terminal.
 
