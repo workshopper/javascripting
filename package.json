@@ -5,13 +5,14 @@
   "repository": {
     "url": "git://github.com/sethvincent/javascripting.git"
   },
-  "author": "sethvincent"
+  "author": "sethvincent",
   "bin": {
-    "example-adventure": "runner.js"
+    "javascripting": "runner.js"
   },
   "dependencies": {
     "adventure": "^2.8.0",
     "adventure-verify": "^2.2.0",
-    "cli-md": "^0.1.0"
+    "cli-md": "^0.1.0",
+    "example-adventure": "^1.0.1"
   }
 }

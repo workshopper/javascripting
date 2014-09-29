@@ -1,22 +1,19 @@
-var md = require('cli-md');
-var path = require('path');
 var fs = require('fs');
+var path = require('path');
+var md = require('cli-md');
+var run = require('../../run-solution');
 
 exports.problem = md(
-  fs.readFileSync(path.join(__dirname, 'readme.md'), 'utf8')
+  fs.readFileSync(path.join(__dirname, 'problem.md'), 'utf8')
+);
+
+exports.solution = md(
+  fs.readFileSync(path.join(__dirname, 'solution.md'), 'utf8')
 );
 
 exports.verify = function (args, cb) {
-  if (/answer/.test(args)) {
-    console.log('correct\n');
-    cb(true);
-  }
-  else if (/otheranswer/i.test(args)) {
-    console.log('almost\n');
-    cb(false);
-  }
-  else {
-    console.log('nope.\n');
-    cb(false);
-  }
+  run(args[0], function (err, result) {
+    if (/hello/.test(result)) cb(true);
+    else cb(false);
+  });
 };
