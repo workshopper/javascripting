@@ -11,8 +11,6 @@
   },
   "dependencies": {
     "adventure": "^2.8.0",
-    "adventure-verify": "^2.2.0",
-    "cli-md": "^0.1.0",
-    "example-adventure": "^1.0.1"
+    "cli-md": "^0.1.0"
   }
 }
