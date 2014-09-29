@@ -13,7 +13,7 @@ exports.solution = md(
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/hello/.test(result)) cb(true);
+    if (/55/.test(result)) cb(true);
     else cb(false);
   });
 };
