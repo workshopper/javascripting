@@ -13,7 +13,7 @@ exports.solution = md(
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/123456789/.test(result)) cb(true);
+    if (/2/.test(result)) cb(true);
     else cb(false);
   });
 };

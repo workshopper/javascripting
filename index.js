@@ -6,10 +6,10 @@ var jsing = adventure('javascripting');
 
 var problems = require('./menu.json');
 
-problems.forEach(function (prob) {
-  var p = prob.toLowerCase().replace(' ', '-');
+problems.forEach(function (problem) {
+  var p = problem.toLowerCase().replace(/\s/g, '-');
   var dir = path.join(__dirname, 'problems', p);
-  jsing.add(prob, function () { return require(dir); });
+  jsing.add(problem, function () { return require(dir); });
 });
 
 jsing.execute(process.argv.slice(2));
