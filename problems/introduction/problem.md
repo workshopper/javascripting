@@ -1,20 +1,33 @@
 ---
-# JAVASCRIPTING
+# INTRODUCTION
 
-Navigate the menu with the arrow keys. Choose a level with the return key.
+Create a folder for this workshop. 
 
-To see all `javascripting` commands, choose the `HELP` option from the menu.
+Run this command, renaming the folder or changing the path however you need:
 
-## The first challenge
+`mkdir javascripting`
 
-Create a file named `introduction.js`. Add this text:
+Change directory into the `javascripting` folder:
+
+`cd javascripting`
+
+Create a file named `introduction.js`.
+
+Add this text to the file:
 
 ```js
 console.log('hello');
 ```
-
-Next, check to see if your program is correct by running this command:
+  
+Check to see if your program is correct by running this command:
 
 `javascripting verify introduction.js`
+
+---  
+  
+
+  
+> **Need help?**
+> View the README for this workshop: github.com/sethvincent/javascripting
 
 ---

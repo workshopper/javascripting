@@ -1,6 +1,6 @@
 # JAVASCRIPTING
 
-> Learn JavaScript on the command line.
+> Learn JavaScript by adventuring around in the terminal.
 
 ## Install with `npm`
 
@@ -14,7 +14,7 @@ The `--global` option installs this module globally so that you can run it as a 
 
 ## Run the workshop
 
-Run the following command in your terminal:
+Open your terminal and run the following command:
 
 ```
 javascripting
@@ -24,7 +24,7 @@ You'll see the menu:
 
 ![javascripting screenshot](screenshot.png)
 
-Navigate the menu with the arrow keys. Choose a level with the return key.
+Navigate the menu with the arrow keys. Choose a challenge by hitting enter.
 
 
 ## License
