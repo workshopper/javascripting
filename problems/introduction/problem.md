@@ -27,7 +27,5 @@ Check to see if your program is correct by running this command:
   
 
   
-> **Need help?**
-> View the README for this workshop: github.com/sethvincent/javascripting
+> **Need help?** View the README for this workshop: github.com/sethvincent/javascripting
 
----

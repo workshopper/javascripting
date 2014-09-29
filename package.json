@@ -7,7 +7,7 @@
   },
   "author": "sethvincent",
   "bin": {
-    "javascripting": "runner.js"
+    "javascripting": "index.js"
   },
   "dependencies": {
     "adventure": "^2.8.0",

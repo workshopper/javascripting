@@ -4,11 +4,11 @@ var md = require('cli-md');
 var run = require('../../run-solution');
 
 exports.problem = md(
-  fs.readFileSync(path.join(__dirname, 'problem.md'), 'utf8')
+  fs.readFileSync(path.join(__dirname, 'problem.md')).toString()
 );
 
 exports.solution = md(
-  fs.readFileSync(path.join(__dirname, 'solution.md'), 'utf8')
+  fs.readFileSync(path.join(__dirname, 'solution.md')).toString()
 );
 
 exports.verify = function (args, cb) {

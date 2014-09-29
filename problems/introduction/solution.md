@@ -2,14 +2,20 @@
 
 # YOU DID IT!
 
-In the upcoming challenges we'll describe more in depth what's happening.
+Anything between the parentheses of `console.log()` are printed to the terminal.
 
-## The most important bit for now:
+So this: 
 
-`console.log()` prints the values that are between the parentheses to the terminal.
+```js
+console.log('hello');
+```
 
-So `console.log("COOOOL")` will print `COOOOL` the terminal.
+prints `hello` to the terminal.
 
-We will use this in many of the upcoming challenges.
+Currently we are printing a **string** of characters to the terminal: `hello`.
+
+In the next challenge we focus on learning about **strings**.
+
+Run `javascripting` in the console to choose the next challenge.
 
 ---

@@ -13,7 +13,8 @@ exports.solution = md(
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/hello/.test(result)) cb(true);
+    console.log(typeof result)
+    if (result == 14) cb(true);
     else cb(false);
   });
 };
