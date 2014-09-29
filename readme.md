@@ -20,12 +20,11 @@ Run the following command in your terminal:
 javascripting
 ```
 
-Navigate the menu by with the arrow keys. Choose a level with the return key.
-
 You'll see the menu:
 
 ![javascripting screenshot](screenshot.png)
 
+Navigate the menu with the arrow keys. Choose a level with the return key.
 
 
 ## License
