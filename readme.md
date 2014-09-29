@@ -35,6 +35,17 @@ Navigate the menu with the up & down arrow keys.
 Choose a challenge by hitting enter.
 
 
+## TODOS:
+
+Add these challenges:
+
+- "ACCESSING ARRAY VALUES"
+- "OBJECT KEYS"
+- "FUNCTION ARGUMENTS"
+- "FUNCTION RETURN VALUES"
+- "THIS"
+- "SCOPE"
+
 ## License
 
 MIT

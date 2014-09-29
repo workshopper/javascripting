@@ -1,10 +1,10 @@
 ---
 
-# YEAH, PIZZA ARRAY
+# YAY, A PIZZA ARRAY!
 
-Great, that is an array!
+You successfully create an array!
 
-In the next challenge we will experiment with manipulating arrays.
+In the next challenge we will explore filtering arrays.
 
 Run `javascripting` in the console to choose the next challenge.
 
