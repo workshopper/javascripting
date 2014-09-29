@@ -18,7 +18,7 @@ npm install --global javascripting
 
 The `--global` option installs this module globally so that you can run it as a command in your terminal.
 
-### Run the workshop
+## Run the workshop
 
 Open your terminal and run the following command:
 
@@ -30,7 +30,9 @@ You'll see the menu:
 
 ![javascripting screenshot](screenshot.png)
 
-Navigate the menu with the arrow keys. Choose a challenge by hitting enter.
+Navigate the menu with the up & down arrow keys. 
+
+Choose a challenge by hitting enter.
 
 
 ## License
