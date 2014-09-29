@@ -13,7 +13,8 @@ exports.solution = md(
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/55/.test(result)) cb(true);
+    var expected = "[ 'cats', 'dogs', 'rats' ]\n";
+    if (result === expected) cb(true);
     else cb(false);
   });
 };

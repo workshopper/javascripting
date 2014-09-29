@@ -1,3 +1,4 @@
+var assert = require('assert');
 var fs = require('fs');
 var path = require('path');
 var md = require('cli-md');
@@ -13,7 +14,8 @@ exports.solution = md(
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/hello/.test(result)) cb(true);
+    var expected = "[ 'tomato sauce', 'cheese', 'pepperoni' ]\n";
+    if (result.replace('"', "'") === expected) cb(true);
     else cb(false);
   });
 };
