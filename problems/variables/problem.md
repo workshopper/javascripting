@@ -20,7 +20,7 @@ var example = 'some string';
 
 Note that it starts with the `var` keyword and uses the equals sign between the variable name and the value that it references.
 
-For this challenge, create a file named `variables.js`.
+Create a file named `variables.js`.
 
 In that file create a variable named `example`.
 

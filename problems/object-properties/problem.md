@@ -28,7 +28,9 @@ The two lines of code above will both return `yummy`.
 
 ## The challenge:
 
-Create a variable named `food` like this:
+Create a file named `object-properties.js`.
+
+In that file, define a variable named `food` like this:
 
 ```js
 var food = {

@@ -25,6 +25,6 @@ Use `console.log()` to print that number to the terminal.
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify revising-strings.js`
+`javascripting verify rounding-numbers.js`
 
 ---
