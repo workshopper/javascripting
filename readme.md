@@ -6,7 +6,7 @@
 
 Make sure Node.js is installed on your computer.
 
-Install it from [nodejs.org/downloads](http://nodejs.org/downloads)
+Install it from [nodejs.org/download](http://nodejs.org/download)
 
 ### Install with `npm`
 
