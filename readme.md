@@ -1,6 +1,9 @@
 # JAVASCRIPTING
 
-> Learn JavaScript by adventuring around in the terminal.
+> Learn JavaScript by adventuring around in the terminal.  
+
+
+> _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
 
 ## Install
 
