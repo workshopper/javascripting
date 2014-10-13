@@ -2,8 +2,11 @@
 
 # ROUNDING NUMBERS
 
-Numbers can be integers, like `2`, `14`, or `4353`, or they can be decimals,  
-also known as floats, like `3.14`, `1.5`, or '100.7893423'.
+We can do basic math using familiar operators like `+`, `-`, `*`, `/`, and `%`.
+
+For more complex math, we can use the `Math` object.
+
+In this challenge we'll use the `Math` object to round numbers.
 
 ## The challenge:
 

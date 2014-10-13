@@ -16,7 +16,7 @@ The variable `i` is used to track how many times the loop has run.
 The statement `i<=10;` indicates the limit of the loop. 
 It will continue to loop if `i` is less than or equal to `10`.
 
-The statement `i++` increase the variable `i` by 1 each loop.
+The statement `i++` increases the variable `i` by 1 each loop.
 
 ## The challenge:
 
@@ -26,7 +26,7 @@ In that file define a variable named `total` and make it equal the number `0`.
 
 Define a second variable named `limit` and make it equal the number `10`.
 
-For each loop, add the number `i` to the `total` variable.
+Create a for loop. On each loop, add the number `i` to the `total` variable.
 
 You can use a statement like this one:
 

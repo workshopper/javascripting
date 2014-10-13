@@ -14,7 +14,7 @@ var example = {
 console.log(example['pizza']);
 ```
 
-The above code will print the string `yummy'` to the terminal.
+The above code will print the string `'yummy'` to the terminal.
 
 Alternately, you can use **dot notation** to get identical results:
 

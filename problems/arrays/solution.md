@@ -2,7 +2,7 @@
 
 # YAY, A PIZZA ARRAY!
 
-You successfully create an array!
+You successfully created an array!
 
 In the next challenge we will explore filtering arrays.
 
