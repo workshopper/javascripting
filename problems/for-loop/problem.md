@@ -26,7 +26,7 @@ In that file define a variable named `total` and make it equal the number `0`.
 
 Define a second variable named `limit` and make it equal the number `10`.
 
-Create a for loop. On each loop, add the number `i` to the `total` variable.
+Create a for loop in 10 iterations. On each loop, add the number `i` to the `total` variable.
 
 You can use a statement like this one:
 
