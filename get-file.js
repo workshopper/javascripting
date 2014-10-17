@@ -7,5 +7,5 @@ module.exports = function (filepath) {
     .replace(/&#39;/g, "'")
     .replace(/&quot;/g, '"')
     .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '<');
+    .replace(/&gt;/g, '>');
 };
