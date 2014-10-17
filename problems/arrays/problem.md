@@ -10,7 +10,7 @@ var pets = ['cat', 'dog', 'rat'];
 
 ### The challenge:
 
-Create a filed named `arrays.js`.
+Create a file named `arrays.js`.
 
 In that file define a variable named `pizzaToppings` that references an array that contains three strings in this order: `tomato sauce, cheese, pepperoni`.
 
