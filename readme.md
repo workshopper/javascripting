@@ -42,7 +42,6 @@ Choose a challenge by hitting enter.
 
 Add these challenges:
 
-- "IF/ELSE STATEMENTS
 - "ACCESSING ARRAY VALUES"
 - "OBJECT KEYS"
 - "FUNCTION ARGUMENTS"
