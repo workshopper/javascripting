@@ -1,6 +1,6 @@
 ---
 
-# THE TOTAL IS 55
+# THE TOTAL IS 45
 
 That is a basic introduction to for loops, which are handy in a number of situations, particularly in combination with other data types like strings and arrays.
 
