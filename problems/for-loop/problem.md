@@ -5,16 +5,16 @@
 For loops look like this:
 
 ```js
-for (var i=0; i<=10; i++) {
-  // log the numbers 0 through 10
+for (var i = 0; i < 10; i++) {
+  // log the numbers 0 through 9
   console.log(i)
 }
 ```
 
 The variable `i` is used to track how many times the loop has run.
 
-The statement `i<=10;` indicates the limit of the loop. 
-It will continue to loop if `i` is less than or equal to `10`.
+The statement `i < 10;` indicates the limit of the loop. 
+It will continue to loop if `i` is less than `10`.
 
 The statement `i++` increases the variable `i` by 1 each loop.
 
