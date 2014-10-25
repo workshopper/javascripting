@@ -41,6 +41,8 @@ Choose a challenge by hitting enter.
 
 Open an issue in the nodeschool/discussions repo: https://github.com/nodeschool/discussions
 
+Include the name `javascripting` and the name of the challenge you're working on in the title of the issue.
+
 ## TODOS:
 
 Add these challenges:
