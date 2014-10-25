@@ -37,6 +37,9 @@ Navigate the menu with the up & down arrow keys.
 
 Choose a challenge by hitting enter.
 
+## Need help with an exercise?
+
+Open an issue in the nodeschool/discussions repo: https://github.com/nodeschool/discussions
 
 ## TODOS:
 
