@@ -6,6 +6,8 @@ exports.problem = getFile(path.join(__dirname, 'problem.md'));
 
 exports.solution = getFile(path.join(__dirname, 'solution.md'));
 
+exports.fail = getFile(path.join(__dirname, 'troubleshooting.md'));
+
 var expected = "{ toppings: [ 'cheese', 'sauce', 'pepperoni' ],\n"
   + "  crust: 'deep dish',\n"
   + "  serves: 2 }\n";
