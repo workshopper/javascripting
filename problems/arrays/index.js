@@ -9,7 +9,7 @@ exports.solution = getFile(path.join(__dirname, 'solution.md'));
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
     var expected = "[ 'tomato sauce', 'cheese', 'pepperoni' ]\n";
-    if (result.replace('"', "'") === expected) cb(true);
+    if (result && result.replace('"', "'") === expected) cb(true);
     else cb(false);
   });
 };
