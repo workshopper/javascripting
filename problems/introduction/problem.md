@@ -11,7 +11,9 @@ Change directory into the `javascripting` folder:
 
 `cd javascripting`
 
-Create a file named `introduction.js`.
+Create a file named `introduction.js`:
+
+`touch introduction.js`
 
 Add this text to the file:
 
