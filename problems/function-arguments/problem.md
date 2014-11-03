@@ -2,7 +2,7 @@
 
 # FUNCTION ARGUMENTS
 
-A function can be declared to receive arguments any number of arguments. Arguments can be from any type. An argument could be a string, a number, an array, an object and even another function.
+A function can be declared to receive any number of arguments. Arguments can be from any type. An argument could be a string, a number, an array, an object and even another function.
 
 Here is an example:
 
