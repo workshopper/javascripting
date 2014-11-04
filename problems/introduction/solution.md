@@ -14,7 +14,7 @@ prints `hello` to the terminal.
 
 Currently we are printing a **string** of characters to the terminal: `hello`.
 
-In the next challenge we focus on learning about **strings**.
+In the next challenge we focus on learning about **variables**.
 
 Run `javascripting` in the console to choose the next challenge.
 
