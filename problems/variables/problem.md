@@ -2,7 +2,7 @@
 
 # VARIABLES
 
-A variable is a reference to a value. Define a variable using the `var` keyword.
+A variable is a name that can reference a specific value. Variables are declared using `var` followed by the variable's name.
 
 Here's an example:
 
@@ -10,7 +10,7 @@ Here's an example:
 var example;
 ```
 
-The above variable is **declared**, but it isn't defined.
+The above variable is **declared**, but it isn't defined (it does not yet reference a specific value).
 
 Here's an example of defining a variable, making it reference a specific value:
 
@@ -18,13 +18,13 @@ Here's an example of defining a variable, making it reference a specific value:
 var example = 'some string';
 ```
 
-Note that it starts with the `var` keyword and uses the equals sign between the variable name and the value that it references.
+Note that it is **declared** using `var` and uses the equals sign to **define** the value that it references. This is colloquially known as "Making a variable equal a value".
 
 Create a file named `variables.js`.
 
-In that file create a variable named `example`.
+In that file declare a variable named `example`.
 
-**Make the `example` variable reference the value `some string`.**
+**Make the variable `example` equal to the value `'some string'`.**
 
 Then use `console.log()` to print the `example` variable to the console.
 
