@@ -41,7 +41,11 @@ Choose a challenge by hitting enter.
 
 ![first challenge](javascripting.gif)
 
-In the gif I'm using the command line editor `nano` ([here are some basic usage tips for nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano)).  You can use any editor you like. [atom](http://atom.io) or [brackets](http://brackets.io/) are both good options.
+In the gif I'm using the command line editor `nano` ([here are some basic usage tips for nano](https://github.com/sethvincent/dev-envs-book/blob/master/chapters/05-editors.md#nano)).  
+
+You can use any editor you like. 
+
+[atom](http://atom.io) or [brackets](http://brackets.io/) are both good options.
 
 ## Need help with an exercise?
 
