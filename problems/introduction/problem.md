@@ -1,9 +1,9 @@
 ---
 # INTRODUCTION
 
-Create a folder for this workshop. 
+To keep things organized, let's create a folder for this workshop. 
 
-Run this command, renaming the folder or changing the path however you need:
+Run this command to make a directory called `javascripting` (or something else if you like):
 
 `mkdir javascripting`
 
@@ -15,13 +15,13 @@ Create a file named `introduction.js`:
 
 `touch introduction.js`
 
-Add this text to the file:
+Open the file in your favorite editor, and add this text:
 
 ```js
 console.log('hello');
 ```
-  
-Check to see if your program is correct by running this command:
+
+Save the file, then check to see if your program is correct by running this command:
 
 `javascripting verify introduction.js`
 
@@ -29,5 +29,5 @@ Check to see if your program is correct by running this command:
   
 
   
-> **Need help?** View the README for this workshop: github.com/sethvincent/javascripting
+> **Need help?** View the README for this workshop: http://github.com/sethvincent/javascripting
 
