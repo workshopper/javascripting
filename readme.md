@@ -37,6 +37,12 @@ Navigate the menu with the up & down arrow keys.
 
 Choose a challenge by hitting enter.
 
+### Take a look at this gif that shows the first challenge:
+
+![first challenge](javascripting.gif)
+
+It uses the command line editor `nano`. You can use any editor you like. [atom](http://atom.io) or [brackets](http://brackets.io/) are both good options.
+
 ## Need help with an exercise?
 
 Open an issue in the nodeschool/discussions repo: https://github.com/nodeschool/discussions
@@ -49,7 +55,6 @@ Add these challenges:
 
 - "ACCESSING ARRAY VALUES"
 - "OBJECT KEYS"
-- "FUNCTION ARGUMENTS"
 - "FUNCTION RETURN VALUES"
 - "THIS"
 - "SCOPE"
