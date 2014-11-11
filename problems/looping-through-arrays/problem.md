@@ -40,7 +40,7 @@ You will use a statement like this inside the for loop:
 pets[i] = pets[i] + 's';
 ```
 
-Use `console.log()` to print the `pets` array to the terminal.
+After the for loop, use `console.log()` to print the `pets` array to the terminal.
 
 Check to see if your program is correct by running this command:
 
