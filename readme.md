@@ -5,13 +5,13 @@
 
 > _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
 
-## Install
+## Install Node.js
 
 Make sure Node.js is installed on your computer.
 
 Install it from [nodejs.org/download](http://nodejs.org/download)
 
-### Install with `npm`
+### Install 'javascripting' with `npm`
 
 Open your terminal and run this command:
 
