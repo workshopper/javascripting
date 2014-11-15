@@ -2,21 +2,21 @@
 
 # IF STATEMENT
 
-Conditional statements are used to, based in a specified boolean condition, alter the control flow of a program.
+Conditional statements are used to alter the control flow of a program, based on a specified boolean condition.
 
-A conditional statement look like this:
+A conditional statement looks like this:
 
 ```js
-if(n > 1) {
+if (n > 1) {
   console.log('the variable n is greater than 1.');
 } else {
-  console.log('the variable n is less or equal than 1.');
+  console.log('the variable n is less than or equal to 1.');
 }
 ```
 
-Inside parenthesis you must enter a logic statement, meaning that should be either true or false. 
+Inside parentheses you must enter a logic statement, meaning that the result of the statement is either true or false. 
 
-The else block is optional and contains the code that will be executed if the statement it's false.
+The else block is optional and contains the code that will be executed if the statement is false.
 
 ## The challenge
 
@@ -27,7 +27,7 @@ In that file, declare a variable named `fruit`.
 Make the `fruit` variable reference the value **orange**.
 
 Then use `console.log()` to print **The fruit name has more than five characters.** if the length of the value of `fruit` is greater than five.
-Print **The fruit name has less or equal than five characters.** otherwise.
+Print **The fruit name has five characters or less.** otherwise.
 
 Check to see if your program is correct by running this command:
 
