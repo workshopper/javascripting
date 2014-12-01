@@ -13,7 +13,7 @@ Change directory into the `javascripting` folder:
 
 Create a file named `introduction.js`:
 
-`touch introduction.js`
+`touch introduction.js` or if you're on windows, `type NUL > introduction.js`
 
 Open the file in your favorite editor, and add this text:
 
