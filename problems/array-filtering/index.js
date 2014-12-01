@@ -15,3 +15,7 @@ exports.verify = function (args, cb) {
     else cb(false);
   });
 };
+
+exports.run = function (args) {
+  require(path.resolve(process.cwd(), args[0]));
+};
