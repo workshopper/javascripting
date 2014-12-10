@@ -10,7 +10,7 @@ exports.fail = getFile(path.join(__dirname, 'troubleshooting.md'));
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/The fruit name has more than five characters./.test(result)) cb(true);
+    if (/^The fruit name has more than five characters.\n$/.test(result)) cb(true);
     else cb(false);
   });
 };

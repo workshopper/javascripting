@@ -10,7 +10,7 @@ exports.fail = getFile(path.join(__dirname, 'troubleshooting.md'));
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/this is a string/.test(result)) cb(true);
+    if (/^this is a string\n$/.test(result)) cb(true);
     else cb(false);
   });
 };
