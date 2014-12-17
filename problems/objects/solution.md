@@ -2,7 +2,7 @@
 
 # PIZZA OBJECT IS A GO.
 
-You sucessfully create an object!
+You successfully created an object!
 
 In the next challenge we will focus on accessing object properties.
 
