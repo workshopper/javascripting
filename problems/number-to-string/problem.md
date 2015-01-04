@@ -8,7 +8,7 @@ In those instances you will use the `.toString()` method. Here's an example:
 
 ```js
 var n = 256;
-n.toString();
+n = n.toString();
 ```
 
 ## The challenge
