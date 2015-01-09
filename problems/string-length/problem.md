@@ -19,7 +19,7 @@ Create a file named string-length.js.
 
 In that file, create a variable named `example`.
 
-**Make the `example` variable reference the string `example string`.**
+**Assign the `example` variable to the string `'example string'`.**
 
 Use `console.log` to print the **length** of the string to the terminal.
 
