@@ -4,7 +4,7 @@
 
 You will often need to know how many characters are in a string.
 
-For this you will use thing `.length` property. Here's an example:
+For this you will use the `.length` property. Here's an example:
 
 ```js
 var example = 'example string';
@@ -19,7 +19,7 @@ Create a file named string-length.js.
 
 In that file, create a variable named `example`.
 
-**Assign the `example` variable to the string `'example string'`.**
+**Assign the string `'example string'` to the variable `example`.**
 
 Use `console.log` to print the **length** of the string to the terminal.
 
