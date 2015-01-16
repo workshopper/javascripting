@@ -26,14 +26,11 @@ module.exports = function(solution, attempt, cb) {
         return cb(true);
       }
 
-      console.error("\nSolution:\n------------------------");
-      console.error(solutionResult);
-      console.error("Your attempt:\n------------------------");
-      console.error(attemptResult);
-      console.error("Difference:\n------------------------");
-      console.error(generateDiff(solutionResult, attemptResult));
-
-      cb(false);
+      cb(false, {
+        solution: solutionResult,
+        attempt:  attemptResult,
+        diff:     generateDiff(solutionResult, attemptResult)
+      });
 
     });
 
