@@ -2,7 +2,7 @@ var path = require('path');
 var getFile = require('../../get-file');
 var compare = require('../../compare-solution');
 
-var problemName = __dirname.split('/');
+var problemName = __dirname.split(path.sep);
 problemName = problemName[problemName.length-1];
 
 exports.problem  = getFile(path.join(__dirname, 'problem.md'));
