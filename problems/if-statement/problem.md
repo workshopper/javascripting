@@ -18,7 +18,11 @@ Inside parentheses you must enter a logic statement, meaning that the result of 
 
 The else block is optional and contains the code that will be executed if the statement is false.
 
+<<<<<<< HEAD
 ## The challenge
+=======
+## The challenge:
+>>>>>>> Added challenge word to some problems to difference the practice to explaination
 
 Create a file named `if-statement.js`.
 
