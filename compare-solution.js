@@ -14,9 +14,12 @@ module.exports = function(solution, attempt, cb) {
     }
 
     run(attempt, function(err, attemptResult) {
-
       if(err && err.code !== 8) {
         console.error(err);
+      if(err) {
+        if(err.code !== 8) {
+          console.error(err);
+        }
         return cb(false);
       }
 
@@ -27,6 +30,7 @@ module.exports = function(solution, attempt, cb) {
       cb(false, {
         solution: solutionResult,
         attempt:  err || attemptResult,
+        attempt:  attemptResult,
         diff:     generateDiff(solutionResult, attemptResult)
       });
 
@@ -55,5 +59,5 @@ function generateDiff(solution, attempt) {
   });
 
   return result;
-
+  }
 }

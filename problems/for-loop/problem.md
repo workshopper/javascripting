@@ -30,6 +30,10 @@ Create a for loop with a variable `i` starting at 0 and increasing by 1 each tim
 
 On each iteration of the loop, add the number `i` to the `total` variable. To do this, you can use this statement:
 
+Create a for loop in 10 iterations. On each loop, add the number `i` to the `total` variable.
+
+You can use a statement like this one:
+
 ```js
 total += i;
 ```

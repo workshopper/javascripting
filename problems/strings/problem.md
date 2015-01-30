@@ -14,6 +14,12 @@ It can be single or double quotes:
 
 Try to stay consistent. In this workshop we'll only use single quotes.
 
+##Note
+
+Try to stay consistent. In this workshop we'll only use single quotes.
+
+### The challenge:
+
 For this challenge, create a file named `strings.js`.
 
 In that file create a variable named `someString` like this:

@@ -11,6 +11,8 @@ Change directory into the `javascripting` folder:
 
 `cd javascripting`
 
+### The challenge:
+
 Create a file named `introduction.js`:
 
 `touch introduction.js` or if you're on windows, `type NUL > introduction.js`
