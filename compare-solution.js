@@ -14,16 +14,12 @@ module.exports = function(solution, attempt, cb) {
     }
 
     run(attempt, function(err, attemptResult) {
-
-<<<<<<< HEAD
       if(err && err.code !== 8) {
         console.error(err);
-=======
       if(err) {
         if(err.code !== 8) {
           console.error(err);
         }
->>>>>>> Added challenge word to some problems to difference the practice to explaination
         return cb(false);
       }
 
@@ -33,11 +29,8 @@ module.exports = function(solution, attempt, cb) {
 
       cb(false, {
         solution: solutionResult,
-<<<<<<< HEAD
         attempt:  err || attemptResult,
-=======
         attempt:  attemptResult,
->>>>>>> Added challenge word to some problems to difference the practice to explaination
         diff:     generateDiff(solutionResult, attemptResult)
       });
 
@@ -66,9 +59,5 @@ function generateDiff(solution, attempt) {
   });
 
   return result;
-
-<<<<<<< HEAD
+  }
 }
-=======
-}
->>>>>>> Added challenge word to some problems to difference the practice to explaination

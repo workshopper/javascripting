@@ -20,11 +20,9 @@ var example = 'some string';
 
 Note that it is **declared** using `var` and uses the equals sign to **define** the value that it references. This is colloquially known as "Making a variable equal a value".
 
-<<<<<<< HEAD
-=======
+
 ### The challenge:
 
->>>>>>> Added challenge word to some problems to difference the practice to explaination
 Create a file named `variables.js`.
 
 In that file declare a variable named `example`.

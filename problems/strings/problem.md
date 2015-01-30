@@ -11,18 +11,15 @@ It can be single or double quotes:
 
 "this is also a string"
 ```
-<<<<<<< HEAD
 
 Try to stay consistent. In this workshop we'll only use single quotes.
 
-=======
 ##Note
 
 Try to stay consistent. In this workshop we'll only use single quotes.
 
 ### The challenge:
 
->>>>>>> Added challenge word to some problems to difference the practice to explaination
 For this challenge, create a file named `strings.js`.
 
 In that file create a variable named `someString` like this:

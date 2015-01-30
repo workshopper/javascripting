@@ -15,11 +15,8 @@ Make sure there is a period between `example` and `length`.
 
 The above code will return a **number** for the total number of characters in the string.
 
-<<<<<<< HEAD
-=======
 ### The challenge:
 
->>>>>>> Added challenge word to some problems to difference the practice to explaination
 Create a file named string-length.js.
 
 In that file, create a variable named `example`.

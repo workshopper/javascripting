@@ -1,5 +1,4 @@
 # JAVASCRIPTING
-<<<<<<< HEAD
 
 > Learn JavaScript by adventuring around in the terminal.  
 
@@ -16,7 +15,6 @@ Having issues with javascripting? Get help troubleshooting in the [nodeschool di
 
 
 > _Looking for more interactive tutorials like this? Go to [nodeschool.io](http://nodeschool.io)._
->>>>>>> Added challenge word to some problems to difference the practice to explaination
 
 ## Install Node.js
 
