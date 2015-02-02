@@ -18,7 +18,11 @@ Here's an example of defining a variable, making it reference a specific value:
 var example = 'some string';
 ```
 
-Note that it is **declared** using `var` and uses the equals sign to **define** the value that it references. This is colloquially known as "Making a variable equal a value".
+# NOTE 
+
+That it is **declared** using `var` and uses the equals sign to **define** the value that it references. This is colloquially known as "Making a variable equal a value".
+
+## The challenge:
 
 Create a file named `variables.js`.
 
