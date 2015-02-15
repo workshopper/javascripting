@@ -10,7 +10,7 @@ In this challenge we'll use the `Math` object to round numbers.
 
 ## The challenge:
 
-Create a file named rounding-numbers.js.
+Create a file named `rounding-numbers.js`.
 
 In that file define a variable named `roundUp` that references the float `1.5`.
 

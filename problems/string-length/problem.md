@@ -15,7 +15,7 @@ Make sure there is a period between `example` and `length`.
 
 The above code will return a **number** for the total number of characters in the string.
 
-Create a file named string-length.js.
+Create a file named `string-length.js`.
 
 In that file, create a variable named `example`.
 

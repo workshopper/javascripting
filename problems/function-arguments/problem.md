@@ -22,11 +22,11 @@ The above example will print to the terminal `hello world`.
 
 ## The challenge:
 
-Create a file named function-arguments.js.
+Create a file named `function-arguments.js`.
 
-In that file, define a function named `math` that takes three arguments. It's important for you to understand that arguments names are only used to reference them. 
+In that file, define a function named `math` that takes three arguments. It's important for you to understand that arguments names are only used to reference them.
 
-Name each argument as you like. 
+Name each argument as you like.
 
 The function `math` should multiply the second and third arguments, then add the first argument to the outcome of the multiplication and return the value obtained.
 
@@ -34,6 +34,6 @@ After that, inside the parentheses of `console.log()`, call the `math()` functio
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify function-arguments.js` 
+`javascripting verify function-arguments.js`
 
 ---

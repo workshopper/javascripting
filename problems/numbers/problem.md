@@ -7,7 +7,7 @@ also known as floats, like `3.14`, `1.5`, or `100.7893423`.
 
 ## The challenge:
 
-Create a file named numbers.js.
+Create a file named `numbers.js`.
 
 In that file define a variable named `example` that references the integer `123456789`.
 
