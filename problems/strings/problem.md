@@ -11,8 +11,11 @@ It can be single or double quotes:
 
 "this is also a string"
 ```
+#NOTE
 
 Try to stay consistent. In this workshop we'll only use single quotes.
+
+## The challenge:
 
 For this challenge, create a file named `strings.js`.
 

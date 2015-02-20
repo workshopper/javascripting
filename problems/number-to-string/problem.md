@@ -11,7 +11,7 @@ var n = 256;
 n = n.toString();
 ```
 
-## The challenge
+## The challenge:
 
 Create a file named `number-to-string.js`.
 
