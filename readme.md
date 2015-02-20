@@ -61,7 +61,6 @@ Include the name `javascripting` and the name of the challenge you're working on
 
 Add these challenges:
 
-- "ACCESSING ARRAY VALUES"
 - "OBJECT KEYS"
 - "FUNCTION RETURN VALUES"
 - "THIS"
