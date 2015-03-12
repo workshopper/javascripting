@@ -42,7 +42,7 @@ var food = ['apple', 'pizza', 'pear'];
 ```
 
 
-Use `console.log()` to print the `second value of array to the terminal.
+Use `console.log()` to print the `second` value of array to the terminal.
 
 Check to see if your program is correct by running this command:
 
