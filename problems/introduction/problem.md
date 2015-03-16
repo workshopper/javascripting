@@ -13,7 +13,7 @@ Change directory into the `javascripting` folder:
 
 Create a file named `introduction.js`:
 
-`touch introduction.js` or if you're on windows, `type NUL > introduction.js`
+`touch introduction.js` or if you're on windows, `type NUL > introduction.js` (`type` is part of the command!)
 
 Open the file in your favorite editor, and add this text:
 
@@ -26,8 +26,8 @@ Save the file, then check to see if your program is correct by running this comm
 `javascripting verify introduction.js`
 
 ---  
-  
 
-  
+
+
 > **Need help?** View the README for this workshop: http://github.com/sethvincent/javascripting
 
