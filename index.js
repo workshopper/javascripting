@@ -2,7 +2,11 @@
 
 var path = require('path');
 var adventure = require('workshopper-adventure/adventure');
-var jsing = adventure('javascripting');
+var jsing = adventure({
+    name: 'javascripting'
+  , appDir: __dirname
+  , languages: ['en', 'ja']
+});
 
 var problems = require('./menu.json');
 
