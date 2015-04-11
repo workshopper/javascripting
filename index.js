@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var path = require('path');
-var adventure = require('adventure');
+var adventure = require('workshopper-adventure/adventure');
 var jsing = adventure('javascripting');
 
 var problems = require('./menu.json');
