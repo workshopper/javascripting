@@ -8,16 +8,18 @@ module.exports = function createProblem(dirname) {
   var problemName = dirname.split(path.sep);
   problemName = problemName[problemName.length-1];
 
-  exports.problem  = getFile(path.join(dirname, 'problem.md'));
-  exports.solution = getFile(path.join(dirname, 'solution.md'));
-
-  var solutionPath = path.resolve(dirname, "../../solutions", problemName, "index.js");
-  var troubleshootingPath = path.join(dirname, '../../troubleshooting.md');
+  exports.init = function (workshopper) {
+    var postfix = workshopper.lang === 'en' ? '' : '_' + workshopper.lang; 
+    this.problem  = getFile(path.join(dirname, 'problem' + postfix + '.md'));
+    this.solution = getFile(path.join(dirname, 'solution' + postfix + '.md'));
+    this.solutionPath = path.resolve(dirname, "../../solutions", problemName, "index.js");
+    this.troubleshootingPath = path.join(dirname, '../../troubleshooting' + postfix + '.md');
+  }
 
   exports.verify = function (args, cb) {
 
     var attemptPath = path.resolve(process.cwd(), args[0]);
-    compare(solutionPath, attemptPath, function(match, obj) {
+    compare(this.solutionPath, attemptPath, function(match, obj) {
 
       if(match) {
         return cb(true);
@@ -28,7 +30,7 @@ module.exports = function createProblem(dirname) {
         return;
       }
 
-      var message = getFile(troubleshootingPath);
+      var message = getFile(this.troubleshootingPath);
 
       message = message.replace(/%solution%/g, obj.solution);
       message = message.replace(/%attempt%/g, obj.attempt);
@@ -39,7 +41,7 @@ module.exports = function createProblem(dirname) {
 
       cb(false);
 
-    });
+    }.bind(this));
   };
 
   exports.run = function (args) {
