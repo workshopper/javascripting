@@ -11,10 +11,10 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "adventure": "^2.8.0",
     "cli-md": "^0.1.0",
     "colors": "^1.0.3",
-    "diff": "^1.2.1"
+    "diff": "^1.2.1",
+    "workshopper-adventure": "^3.0.0"
   },
   "license": "MIT"
 }
