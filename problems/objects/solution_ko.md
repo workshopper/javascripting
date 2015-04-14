@@ -1,10 +1,10 @@
 ---
 
-# PIZZA OBJECT IS A GO.
+# 피자 객체, 준비 완료.
 
-You successfully created an object!
+객체 만들기에 성공했습니다!
 
-In the next challenge we will focus on accessing object properties.
+다음 과제에서는 객체 속성에 접근해 보겠습니다.
 
 다음 과제로 가시려면 콘솔에서 `javascripting`을 실행하세요.
 

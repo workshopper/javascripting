@@ -1,10 +1,10 @@
 ---
 
-# CORRECT. PIZZA IS THE ONLY FOOD.
+# 그렇습니다. 피자만이 답입니다.
 
-Good job accessing that property.
+속성 접근하기에 성공했습니다.
 
-The next challenge is all about **functions**.
+다음 과제는 **함수**에 관한 것입니다.
 
 다음 과제로 가시려면 콘솔에서 `javascripting`을 실행하세요.
 
