@@ -14,7 +14,7 @@ example = example.replace('exists', 'is awesome');
 console.log(example);
 ```
 
-`example` 변수가 참조하는 값을 바꾸는 것에 주의하세요. 등호를 다시 사용해야 합니다. 이 번에는 `example.replace()` 메소드를 등호의 오른편에 두었습니다.
+`example` 변수가 참조하는 값을 바꾸는 것에 주의하세요. 등호를 다시 사용해야 합니다. 이번에는 `example.replace()` 메소드를 등호의 오른편에 두었습니다.
 
 ## 도전 과제
 

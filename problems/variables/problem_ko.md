@@ -26,7 +26,7 @@ var example = 'some string';
 
 `variables.js`라는 파일을 만듭니다.
 
-그 파일안에서 `example`라는 변수를 선언합니다.
+그 파일 안에서 `example`라는 변수를 선언합니다.
 
 **`example` 변수를 `'some string'` 값과 같게 만듭니다.**
 **Make the variable `example` equal to the value `'some string'`.**

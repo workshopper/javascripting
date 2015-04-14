@@ -37,7 +37,7 @@ Invalid notation:
 Create a file named `accessing-array-values.js`.
 
 In that file, define array `food` :
-```js 
+```js
 var food = ['apple', 'pizza', 'pear'];
 ```
 

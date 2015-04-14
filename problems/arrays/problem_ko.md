@@ -2,7 +2,7 @@
 
 # 배열
 
-배열은 값의 목록입니다. 여기에 예게자 있습니다.
+배열은 값의 목록입니다. 예를 들면 다음과 같습니다.
 
 ```js
 var pets = ['cat', 'dog', 'rat'];
@@ -12,9 +12,9 @@ var pets = ['cat', 'dog', 'rat'];
 
 `arrays.js`라는 이름의 파일을 만듭니다.
 
-In that file define a variable named `pizzaToppings` that references an array that contains three strings in this order: `tomato sauce, cheese, pepperoni`.
+이 파일에 `tomato sauce, cheese, pepperoni`의 순서대로 세 개의 문자열을 포함하는 배열을 참조하도록 `pizzaToppings`라는 변수를 선언합니다.
 
-Use `console.log()` to print the `pizzaToppings` array to the terminal.
+`console.log()`를 사용해 `pizzaToppings` 배열을 터미널에 출력합니다.
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 

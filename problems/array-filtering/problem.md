@@ -2,7 +2,7 @@
 
 # ARRAY FILTERING
 
-There are many ways to manipulate arrays. 
+There are many ways to manipulate arrays.
 
 One common task is filtering arrays to only contain certain values.
 
