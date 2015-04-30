@@ -7,7 +7,7 @@
 		, "REVISING STRINGS":       "修改字符串"
 		, "NUMBERS":                "数字"
 		, "ROUNDING NUMBERS":       "数字取整"
-		, "NUMBER TO STRING":       "NUMBER TO STRING"
+		, "NUMBER TO STRING":       "数字转字符串"
 		, "IF STATEMENT":           "IF STATEMENT"
 		, "FOR LOOP":               "FOR LOOP"
 		, "ARRAYS":                 "ARRAYS"
