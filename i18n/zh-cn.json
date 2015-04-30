@@ -8,7 +8,7 @@
 		, "NUMBERS":                "数字"
 		, "ROUNDING NUMBERS":       "数字取整"
 		, "NUMBER TO STRING":       "数字转字符串"
-		, "IF STATEMENT":           "IF STATEMENT"
+		, "IF STATEMENT":           "IF 语句"
 		, "FOR LOOP":               "FOR LOOP"
 		, "ARRAYS":                 "ARRAYS"
 		, "ARRAY FILTERING":        "ARRAY FILTERING"
