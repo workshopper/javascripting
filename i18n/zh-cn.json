@@ -1,0 +1,22 @@
+{
+	"exercise": {
+		  "INTRODUCTION":           "入门"
+		, "VARIABLES":              "VARIABLES"
+		, "STRINGS":                "STRINGS"
+		, "STRING LENGTH":          "STRING LENGTH"
+		, "REVISING STRINGS":       "REVISING STRINGS"
+		, "NUMBERS":                "NUMBERS"
+		, "ROUNDING NUMBERS":       "ROUNDING NUMBERS"
+		, "NUMBER TO STRING":       "NUMBER TO STRING"
+		, "IF STATEMENT":           "IF STATEMENT"
+		, "FOR LOOP":               "FOR LOOP"
+		, "ARRAYS":                 "ARRAYS"
+		, "ARRAY FILTERING":        "ARRAY FILTERING"
+		, "ACCESSING ARRAY VALUES": "ACCESSING ARRAY VALUES"
+		, "LOOPING THROUGH ARRAYS": "LOOPING THROUGH ARRAYS"
+		, "OBJECTS":                "OBJECTS"
+		, "OBJECT PROPERTIES":      "OBJECT PROPERTIES"
+		, "FUNCTIONS":              "FUNCTIONS"
+		, "FUNCTION ARGUMENTS":     "FUNCTION ARGUMENTS"
+	}
+}
