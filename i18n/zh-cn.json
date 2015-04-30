@@ -6,7 +6,7 @@
 		, "STRING LENGTH":          "字符串长度"
 		, "REVISING STRINGS":       "修改字符串"
 		, "NUMBERS":                "数字"
-		, "ROUNDING NUMBERS":       "ROUNDING NUMBERS"
+		, "ROUNDING NUMBERS":       "数字取整"
 		, "NUMBER TO STRING":       "NUMBER TO STRING"
 		, "IF STATEMENT":           "IF STATEMENT"
 		, "FOR LOOP":               "FOR LOOP"
