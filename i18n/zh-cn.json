@@ -1,7 +1,7 @@
 {
 	"exercise": {
 		  "INTRODUCTION":           "入门"
-		, "VARIABLES":              "VARIABLES"
+		, "VARIABLES":              "变量"
 		, "STRINGS":                "STRINGS"
 		, "STRING LENGTH":          "STRING LENGTH"
 		, "REVISING STRINGS":       "REVISING STRINGS"
