@@ -4,7 +4,7 @@
 		, "VARIABLES":              "变量"
 		, "STRINGS":                "字符串"
 		, "STRING LENGTH":          "字符串长度"
-		, "REVISING STRINGS":       "REVISING STRINGS"
+		, "REVISING STRINGS":       "修改字符串"
 		, "NUMBERS":                "NUMBERS"
 		, "ROUNDING NUMBERS":       "ROUNDING NUMBERS"
 		, "NUMBER TO STRING":       "NUMBER TO STRING"
