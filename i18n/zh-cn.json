@@ -5,7 +5,7 @@
 		, "STRINGS":                "字符串"
 		, "STRING LENGTH":          "字符串长度"
 		, "REVISING STRINGS":       "修改字符串"
-		, "NUMBERS":                "NUMBERS"
+		, "NUMBERS":                "数字"
 		, "ROUNDING NUMBERS":       "ROUNDING NUMBERS"
 		, "NUMBER TO STRING":       "NUMBER TO STRING"
 		, "IF STATEMENT":           "IF STATEMENT"
