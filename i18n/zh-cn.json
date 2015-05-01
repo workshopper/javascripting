@@ -14,7 +14,7 @@
 		, "ARRAY FILTERING":        "数组过滤"
 		, "ACCESSING ARRAY VALUES": "访问数组中的值"
 		, "LOOPING THROUGH ARRAYS": "依次访问数组中的值"
-		, "OBJECTS":                "OBJECTS"
+		, "OBJECTS":                "对象"
 		, "OBJECT PROPERTIES":      "OBJECT PROPERTIES"
 		, "FUNCTIONS":              "FUNCTIONS"
 		, "FUNCTION ARGUMENTS":     "FUNCTION ARGUMENTS"
