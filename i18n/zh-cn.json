@@ -17,6 +17,6 @@
 		, "OBJECTS":                "对象"
 		, "OBJECT PROPERTIES":      "对象的属性"
 		, "FUNCTIONS":              "函数"
-		, "FUNCTION ARGUMENTS":     "FUNCTION ARGUMENTS"
+		, "FUNCTION ARGUMENTS":     "函数的参数"
 	}
 }
