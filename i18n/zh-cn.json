@@ -11,7 +11,7 @@
 		, "IF STATEMENT":           "IF 语句"
 		, "FOR LOOP":               "FOR 循环"
 		, "ARRAYS":                 "数组"
-		, "ARRAY FILTERING":        "ARRAY FILTERING"
+		, "ARRAY FILTERING":        "数组过滤"
 		, "ACCESSING ARRAY VALUES": "ACCESSING ARRAY VALUES"
 		, "LOOPING THROUGH ARRAYS": "LOOPING THROUGH ARRAYS"
 		, "OBJECTS":                "OBJECTS"
