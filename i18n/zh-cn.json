@@ -10,7 +10,7 @@
 		, "NUMBER TO STRING":       "数字转字符串"
 		, "IF STATEMENT":           "IF 语句"
 		, "FOR LOOP":               "FOR 循环"
-		, "ARRAYS":                 "ARRAYS"
+		, "ARRAYS":                 "数组"
 		, "ARRAY FILTERING":        "ARRAY FILTERING"
 		, "ACCESSING ARRAY VALUES": "ACCESSING ARRAY VALUES"
 		, "LOOPING THROUGH ARRAYS": "LOOPING THROUGH ARRAYS"
