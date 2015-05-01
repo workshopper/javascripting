@@ -12,7 +12,7 @@
 		, "FOR LOOP":               "FOR 循环"
 		, "ARRAYS":                 "数组"
 		, "ARRAY FILTERING":        "数组过滤"
-		, "ACCESSING ARRAY VALUES": "ACCESSING ARRAY VALUES"
+		, "ACCESSING ARRAY VALUES": "访问数组中的值"
 		, "LOOPING THROUGH ARRAYS": "LOOPING THROUGH ARRAYS"
 		, "OBJECTS":                "OBJECTS"
 		, "OBJECT PROPERTIES":      "OBJECT PROPERTIES"
