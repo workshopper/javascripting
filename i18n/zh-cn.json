@@ -16,7 +16,7 @@
 		, "LOOPING THROUGH ARRAYS": "依次访问数组中的值"
 		, "OBJECTS":                "对象"
 		, "OBJECT PROPERTIES":      "对象的属性"
-		, "FUNCTIONS":              "FUNCTIONS"
+		, "FUNCTIONS":              "函数"
 		, "FUNCTION ARGUMENTS":     "FUNCTION ARGUMENTS"
 	}
 }
