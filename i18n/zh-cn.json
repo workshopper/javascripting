@@ -1,0 +1,22 @@
+{
+	"exercise": {
+		  "INTRODUCTION":           "入门"
+		, "VARIABLES":              "变量"
+		, "STRINGS":                "字符串"
+		, "STRING LENGTH":          "字符串长度"
+		, "REVISING STRINGS":       "修改字符串"
+		, "NUMBERS":                "数字"
+		, "ROUNDING NUMBERS":       "数字取整"
+		, "NUMBER TO STRING":       "数字转字符串"
+		, "IF STATEMENT":           "IF 语句"
+		, "FOR LOOP":               "FOR 循环"
+		, "ARRAYS":                 "数组"
+		, "ARRAY FILTERING":        "数组过滤"
+		, "ACCESSING ARRAY VALUES": "访问数组中的值"
+		, "LOOPING THROUGH ARRAYS": "依次访问数组中的值"
+		, "OBJECTS":                "对象"
+		, "OBJECT PROPERTIES":      "对象的属性"
+		, "FUNCTIONS":              "函数"
+		, "FUNCTION ARGUMENTS":     "函数的参数"
+	}
+}
