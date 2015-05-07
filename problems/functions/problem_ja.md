@@ -40,6 +40,6 @@ return food + ' tasted really good.';
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify functions.js`
+`javascripting verify functions.js`
 
 ---

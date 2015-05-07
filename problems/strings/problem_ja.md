@@ -28,6 +28,6 @@ var someString = 'this is a string';
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify strings.js`
+`javascripting verify strings.js`
 
 ---

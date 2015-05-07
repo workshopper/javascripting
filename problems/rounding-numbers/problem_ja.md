@@ -29,6 +29,6 @@ Math.round(0.5);
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify rounding-numbers.js`
+`javascripting verify rounding-numbers.js`
 
 ---

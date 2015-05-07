@@ -27,6 +27,6 @@ example.length
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify string-length.js`
+`javascripting verify string-length.js`
 
 ---

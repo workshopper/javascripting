@@ -35,6 +35,6 @@ example('hello', 'world');
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify function-arguments.js`
+`javascripting verify function-arguments.js`
 
 ---

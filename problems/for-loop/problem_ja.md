@@ -39,6 +39,6 @@ total += i;
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify for-loop.js`
+`javascripting verify for-loop.js`
 
 ---

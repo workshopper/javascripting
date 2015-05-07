@@ -21,6 +21,6 @@ var pets = ['cat', 'dog', 'rat'];
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify arrays.js`
+`javascripting verify arrays.js`
 
 ---

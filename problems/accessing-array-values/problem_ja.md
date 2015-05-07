@@ -46,6 +46,6 @@ var food = ['apple', 'pizza', 'pear'];
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify accessing-array-values.js`
+`javascripting verify accessing-array-values.js`
 
 ---
