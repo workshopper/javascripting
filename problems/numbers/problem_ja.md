@@ -16,6 +16,6 @@ JavaScriptの数値は `2` 、`14` 、`4353` のような整数と
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify numbers.js`
+`javascripting verify numbers.js`
 
 ---

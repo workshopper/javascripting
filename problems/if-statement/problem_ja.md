@@ -31,6 +31,6 @@ if (n > 1) {
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify if-statement.js`
+`javascripting verify if-statement.js`
 
 ---

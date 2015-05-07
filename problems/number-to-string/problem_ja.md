@@ -23,6 +23,6 @@ n = n.toString();
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify number-to-string.js`
+`javascripting verify number-to-string.js`
 
 ---

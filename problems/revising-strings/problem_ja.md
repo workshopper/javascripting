@@ -29,6 +29,6 @@ console.log(example);
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting-jp verify revising-strings.js`
+`javascripting verify revising-strings.js`
 
 ---
