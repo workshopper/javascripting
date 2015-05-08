@@ -7,24 +7,25 @@ Una **string** representa una cadena de caracteres y se puede definir con comill
 Por ejemplo:
 
 ```js
-'esto es una string'
+'this is a string'
 
-"esto también es una string"
+"this is also a string"
 ```
+#NOTA
 
-Trata de permanecer consistente. En este workshop usaremos comillas simples.
+Trata de permanecer consistente. En este workshop usaremos solamente comillas simples.
 
-## El ejercicio
+## El ejercicio:
 
 Para este ejercicio, crea un archivo llamado `strings.js`.
 
 En ese archivo define una variable llamada `string1` de la siguiente forma:
 
 ```js
-var string1 = 'esto es una string';
+var someString = 'this is a string';
 ```
 
-Utiliza `console.log` para imprimir la variable `string1` a la terminal.
+Utiliza `console.log` para imprimir la variable **someString** a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
