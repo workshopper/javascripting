@@ -30,7 +30,7 @@ foo(); // 4, 2, 48
 IIFE, Immediately Invoked Function Expression( Expresión de Functión Invocada Inmediatamente ), es un patrón común para crear ámbitos locales.
 Por ejemplo:
 ```js
-	(function(){ // La expresión de la función está entre parentesis
+	(function(){ // La expresión de la función está entre paréntesis
 		// las variables definidas aquí
 		// no pueden ser accedidas por fuera
 	})(); // la función es inmediatamente invocada
