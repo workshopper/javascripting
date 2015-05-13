@@ -24,7 +24,7 @@ El ejemplo anterior imprimirá `hello world` a la terminal.
 
 ## El ejercicio:
 
-Crea un archivo llamando argumentos-de-funciones.js.
+Crea un archivo llamando `argumentos-de-funciones.js`.
 
 En ese archivo, define una función llamada `math` que recibe trés argumentos. Es importante que entiendas que los nombres de los argumentos son únicamente utilizados para referenciarlos. 
 

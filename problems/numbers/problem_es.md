@@ -7,7 +7,7 @@ cómo `3.14`, `1.5` o `100.7893423`.
 
 ## El ejercicio:
 
-Crea un archivo llamado numeros.js
+Crea un archivo llamado `numeros.js`
 
 En ese archivo define una variable llamada `ejemplo` qué referencie el entero `123456789`.
 
