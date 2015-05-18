@@ -18,5 +18,6 @@
         , "OBJECT PROPERTIES":      "PROPIEDADES DE OBJECTOS"
         , "FUNCTIONS":              "FUNCIONES"
         , "FUNCTION ARGUMENTS":     "ARGUMENTOS DE FUNCIONES"
+        , "SCOPE":                  "CONTEXTO"
     }
 }
