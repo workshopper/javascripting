@@ -10,24 +10,25 @@ Tendrá ciertas **llaves** y cada una se verá referenciada a un **valor**.
 Por ejemplo:
 
 ```js
-var comida = {
-  pizza: 'muy rica',
-  noquis: 'no pueden faltar los 29'
+var foodPreferences = {
+  pizza: 'yum',
+  salad: 'gross'
 }
 ```
-En el ejemplo anterior podemos ver que las **llaves** del objeto `comida` son **pizza** y **noquis**. Sus valores son `muy rica` y `no pueden faltar los 29` respectivamente.
+
+En el ejemplo anterior podemos ver que las **llaves** del objeto `foodPreferences` son **pizza** y **salad**. Sus valores son `yum` y `gross` respectivamente.
 
 ## El ejercicio:
 
-Crea un archivo llamado `objetos.js`.
+Crea un archivo llamado `objects.js`.
 
 En ese archivo, define una variable llamada `pizza` de la siguiente forma:
 
 ```js
 var pizza = {
-  ingredientes: ['queso', 'salsa de tomate', 'aceitunas'],
-  coccion: 'a la piedra',
-  porciones: 8
+  toppings: ['cheese', 'sauce', 'pepperoni'],
+  crust: 'deep dish',
+  serves: 2
 }
 ```
 
@@ -35,6 +36,6 @@ Utiliza `console.log()` para imprimir el objeto `pizza` a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify objetos.js`
+`javascripting verify objects.js`
 
 ---

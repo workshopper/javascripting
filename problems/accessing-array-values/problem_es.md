@@ -9,35 +9,35 @@ El número de índice comienza en cero y finaliza en el valor de la propiedad lo
 A continuación, un ejemplo:
 
 ```js
-	var mascotas = ['gato', 'perro', 'rata'];
+	var pets = ['cat', 'dog', 'rat'];
 
-	console.log(mascotas[0]);
+	console.log(pets[0]);
 ```
 
-El código de arriba, imprime el primer elemento del array de `mascotas` - string `gato`
+El código de arriba, imprime el primer elemento del array de `pets` - string `cat`
 
-Los elementos del Array se deben acceder, únicamente, usando la notación de paréntesis.
+Los elementos del Array se deben acceder, únicamente, mediante corchetes.
 
 Notación de punto es inválida.
 
 Notación válida:
 
 ```js
-	console.log(mascotas[0]);
+	console.log(pets[0]);
 ```
 
 Notación inválida:
 ```
-	console.log(mascotas.1);
+	console.log(pets.1);
 ```
 
 ## El ejercicio:
 
 Crea un archivo llamado `accediendo-valores-array.js`
 
-En ese archivo, define un array llamado `comida` :
+En ese archivo, define un array llamado `food` :
 ```js
-var comida = ['manzana', 'pizza', 'pera'];
+var food = ['apple', 'pizza', 'pear'];
 ```
 
 Usa `console.log()` para imprimir el `segundo` valor del array en la terminal.

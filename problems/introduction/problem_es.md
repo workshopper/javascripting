@@ -1,7 +1,7 @@
 ---
 # INTRODUCCIÓN
 
-Crea una carpeta para este whorkshop.
+Para mantener el orden, procederemos a crear una carpeta para este workshop.
 
 Ejecuta el siguiente comando, cambiando el nombre de la carpeta o colocando el path que necesites:
 
@@ -11,17 +11,18 @@ Cambia de directorio a la carpeta que acabas de crear:
 
 `cd javascripting`
 
-Crea un archivo llamado `intro.js`:
+Crea un archivo llamado `introduction.js` utilizando:
+`touch introduction.js`, o si utilizas Windows `type NUL > introduction.js` (`type` es parte del comando!)
 
 Agrega el siguiente texto al archivo:
 
 ```js
-console.log('hola');
+console.log('hello');
 ```
   
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify intro.js`
+`javascripting verify introduction.js`
 
 ---  
   
