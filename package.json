@@ -14,7 +14,7 @@
     "cli-md": "^0.1.0",
     "colors": "^1.0.3",
     "diff": "^1.2.1",
-    "workshopper-adventure": "^3.0.2"
+    "workshopper-adventure": "git://github.com/martinheidegger/workshopper.git#adventure"
   },
   "license": "MIT"
 }
