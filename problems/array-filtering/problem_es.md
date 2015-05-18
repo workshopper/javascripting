@@ -13,32 +13,32 @@ Para esto podemos utilizar el método `.filter`.
 Por ejemplo:
 
 ```js
-var mascotas = ['gato', 'perro', 'elefante'];
+var pets = ['cat', 'dog', 'elephant'];
 
-var filtrados = mascotas.filter(function (mascota) {
-  return (mascota !== 'elephant');
+var filtered = pets.filter(function (pet) {
+  return (pet !== 'elephant');
 });
 ```
 
-La variable `filtrados` será igual a un array que contiene solo `gato` y `perro`.
+La variable `filtered` será igual a un array que contiene solo `cat` y `dog`.
 
 ## El ejercicio:
 
 Crea un archivo llamado `filtrado-de-arrays.js`.
 
-En ese archivo, define una variable llamada `numeros` que referencie al siguiente array:
+En ese archivo, define una variable llamada `numbers` que referencie al siguiente array:
 
 ```js
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
-Luego, define una variable llamada `filtrados` que referencie el resultado de `numeros.filter()`.
+Luego, define una variable llamada `filtered` que referencie el resultado de `numbers.filter()`.
 
 La función que recibe `.filter()` será algo cómo lo siguiente:
 
 ```js
-function numerosPares (numero) {
-  return numero % 2 === 0;
+function evenNumbers (number) {
+  return number % 2 === 0;
 }
 ```
 

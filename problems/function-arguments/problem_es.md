@@ -24,7 +24,7 @@ El ejemplo anterior imprimirá `hello world` a la terminal.
 
 ## El ejercicio:
 
-Crea un archivo llamando argumentos-de-funciones.js.
+Crea un archivo llamando `function-arguments.js`.
 
 En ese archivo, define una función llamada `math` que recibe trés argumentos. Es importante que entiendas que los nombres de los argumentos son únicamente utilizados para referenciarlos. 
 
@@ -36,6 +36,6 @@ Luego de eso, dentro de los paréntesis de `console.log()`, llamá la función `
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify argumentos-de-funciones.js` 
+`javascripting verify function-arguments.js` 
 
 ---
