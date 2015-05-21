@@ -11,10 +11,10 @@ Functions defined inside other functions, known as nested functions, have access
 Pay attention to the comments in the code below:
 
 ```js
-var a = 4;	// a is a global variable, it can be accesed by the functions below
+var a = 4;	// a is a global variable, it can be accessed by the functions below
 
 function foo() {
-	var b = a * 3;	// b cannot be accesed outside foo function, but can be accesed by functions
+	var b = a * 3;	// b cannot be accessed outside foo function, but can be accessed by functions
 					// defined inside foo
 	function bar(c) {
 	var b = 2;  // another `b` variable is created inside bar function scope
@@ -32,7 +32,7 @@ example:
 ```js
 	(function(){ // the function expression is surrounded by parenthesis
 		// variables defined here
-		// can't be accesed outside
+		// can't be accessed outside
 	})(); // the function is immediately invoked
 ```
 ## The challenge:
