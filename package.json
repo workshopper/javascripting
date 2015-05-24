@@ -14,7 +14,7 @@
     "cli-md": "^0.1.0",
     "colors": "^1.0.3",
     "diff": "^1.2.1",
-    "workshopper-adventure": "^3.4.4"
+    "workshopper-adventure": "^3.4.5"
   },
   "license": "MIT"
 }
