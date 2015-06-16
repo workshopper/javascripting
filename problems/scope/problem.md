@@ -66,4 +66,9 @@ so the output is `a: 1, b: 8,c: 6`
 ```js
 console.log("a: "+a+", b: "+b+",c: "+c);
 ```
+
+Check to see if your program is correct by running this command:
+
+`javascripting verify scope.js`
+
 ---
