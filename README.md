@@ -25,7 +25,16 @@ npm install --global javascripting
 
 The `--global` option installs this module globally so that you can run it as a command in your terminal.
 
-> Having issues with installation? If you get an EACCESS error you can prefix the command with `sudo`, but also take a look at this npm documentation for fixing permissions so that you don't have to use `sudo`: https://docs.npmjs.com/getting-started/fixing-npm-permissions
+#### Having issues with installation?
+
+If you get an `EACCESS` error, the simplest way to fix this is to rerun the command, prefixed with sudo:
+
+```
+sudo npm install --global javascripting
+```
+
+You can also fix the permissions so that you don't have to use `sudo`. Take a look at this npm documentation:
+https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
 ## Run the workshop
 
