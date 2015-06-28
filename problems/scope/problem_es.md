@@ -64,6 +64,6 @@ var a = 1, b = 2, c = 3;
 Usa tu conocimiento sobre el ámbito de las variables y ubica el siguiente código dentro de alguna de las funciones
 en `scope.js` para que la salida sea `a: 1, b: 8,c: 6`
 ```js
-console.log("a: "+a+", b: "+b+",c: "+c);
+console.log("a: "+a+", b: "+b+", c: "+c);
 ```
 ---

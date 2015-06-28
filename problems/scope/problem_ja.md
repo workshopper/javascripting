@@ -71,6 +71,6 @@ var a = 1, b = 2, c = 3;
 そして、目指す出力は `a: 1, b: 8,c: 6` です。
 
 ```js
-console.log("a: "+a+", b: "+b+",c: "+c);
+console.log("a: "+a+", b: "+b+", c: "+c);
 ```
 ---
