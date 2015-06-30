@@ -5,7 +5,7 @@ var adventure = require('workshopper-adventure/adventure');
 var jsing = adventure({
     name: 'javascripting'
   , appDir: __dirname
-  , languages: ['en', 'ja', 'ko', 'es', 'zh-cn']
+  , languages: ['en', 'ja', 'ko', 'es', 'zh-cn', 'pt-br']
 });
 
 var problems = require('./menu.json');
