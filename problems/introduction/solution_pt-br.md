@@ -2,7 +2,7 @@
 
 # VOCÊ CONSEGUIU!
 
-Qualquer coisa entre o parênteses de `console.log()` é impresso no terminal.
+Qualquer coisa entre os parênteses de `console.log()` é impresso no terminal.
 
 Então isto: 
 

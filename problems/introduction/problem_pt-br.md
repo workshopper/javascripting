@@ -1,7 +1,7 @@
 ---
 # INTRODUÇÃO
 
-Para manter uma boa organização, vamos criar uma pasta pare este workshop. 
+Para manter uma boa organização, vamos criar uma pasta para este workshop.
 
 Execute este comando para criar um diretório chamado `javascripting`:
 
