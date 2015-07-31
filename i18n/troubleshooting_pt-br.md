@@ -3,14 +3,14 @@
 # Mas não se desespere!
 ---
 
-## Verefique a solução:
+## Verifique a solução:
 
 `Solução
 ===================`
 
 %solution%
 
-`Sua Tentativa
+`Sua tentativa
 ===================`
 
 %attempt%

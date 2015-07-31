@@ -4,7 +4,7 @@
 
 Você pode acessar e manipular propriedades de objetos –– as chaves e valores de um objeto –– de uma maneira bem similar como fazemos com arrays.
 
-Aqui está exemplo usando **colchetes**:
+Aqui está um exemplo usando **colchetes**:
 
 ```js
 var example = {

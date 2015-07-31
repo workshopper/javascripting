@@ -24,7 +24,7 @@ O exemplo acima irá imprimir no terminal `hello world`.
 
 Crie um arquivo chamado `function-arguments.js`.
 
-Nesse arquivo, defina uma função chamada `math` que recebe 3 argumentos. É importante compreender que o nome dos argumentos são usados somente para referência-los.
+Nesse arquivo, defina uma função chamada `math` que recebe 3 argumentos. É importante compreender que o nome dos argumentos são usados somente para referenciá-los.
 
 Dê um nome para cada argumento da maneira que você quiser.
 
