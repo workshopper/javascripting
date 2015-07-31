@@ -1,0 +1,23 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "INTRODUÇÃO"
+        , "VARIABLES":              "VARIÁVEIS"
+        , "STRINGS":                "STRINGS"
+        , "STRING LENGTH":          "TAMANHO DAS STRINGS"
+        , "REVISING STRINGS":       "MODIFICANDO STRINGS"
+        , "NUMBERS":                "NÚMEROS"
+        , "ROUNDING NUMBERS":       "ARREDONDANDO NÚMEROS"
+        , "NUMBER TO STRING":       "CONVERTENDO NÚMERO PARA STRING"
+        , "IF STATEMENT":           "CONDICIONAL COM IF"
+        , "FOR LOOP":               "FAZENDO LOOP COM FOR"
+        , "ARRAYS":                 "ARRAYS"
+        , "ARRAY FILTERING":        "FILTRANDO ARRAYS"
+        , "ACCESSING ARRAY VALUES": "ACESSANDO VALORES DE UM ARRAY"
+        , "LOOPING THROUGH ARRAYS": "VARRENDO ARRAYS COM LOOP"
+        , "OBJECTS":                "OBJETOS"
+        , "OBJECT PROPERTIES":      "PROPIEDADES DE OBJETOS"
+        , "FUNCTIONS":              "FUNÇÕES"
+        , "FUNCTION ARGUMENTS":     "ARGUMENTOS DE FUNÇÕES"
+        , "SCOPE":                  "ESCOPO"
+    }
+}
