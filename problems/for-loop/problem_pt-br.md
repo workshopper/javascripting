@@ -16,7 +16,7 @@ A variável `i` é usada para rastrear a quantidade de vezes em que o loop foi e
 A expressão `i < 10;` indica o limite do loop.
 O loop continuará se o valor da variável `i` for menor que `10`.
 
-A expressão `i++` incrementa o valor da variável `i` á cada iteração.
+A expressão `i++` incrementa o valor da variável `i` a cada iteração.
 
 ## Desafio:
 

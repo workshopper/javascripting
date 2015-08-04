@@ -30,7 +30,7 @@ Dê um nome para cada argumento da maneira que você quiser.
 
 A função `math` deverá multiplicar o segundo e o terceiro argumento, e então somar o primeiro argumento ao resultado da multiplicação e então retornar o valor obtido.
 
-Depois disso, dentro dos parênteses do `console.log()`, chame a função `math()` com o número `53` como primeiro argumento, `61` como segundo e `6*7` como terceiro argumento.
+Depois disso, dentro dos parênteses do `console.log()`, chame a função `math()` com o número `53` como primeiro argumento, `61` como segundo e `67` como terceiro argumento.
 
 Verifique se o seu programa está correto executando esse comando:
 

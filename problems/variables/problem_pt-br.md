@@ -2,7 +2,7 @@
 
 # VARIÁVEIS
 
-Uma variável é o nome que pode fazer referência á um valor específico. Variáveis são declaradas usando a palavra `var` seguida do nome da variável.
+Uma variável é o nome que pode fazer referência a um valor específico. Variáveis são declaradas usando a palavra `var` seguida do nome da variável.
 
 Aqui está um exemplo:
 
