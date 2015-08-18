@@ -11,7 +11,7 @@ var pets = ['cat', 'dog', 'rat'];
 ## やってみよう
 
 `arrays.js` ファイルを作りましょう。
-
+
 ファイルの中で、配列を表す変数 `pizzaToppings` を定義してください。配列は次の3つの文字列変数を順番通りに含みます...
 
 `tomato sauce, cheese, pepperoni`
