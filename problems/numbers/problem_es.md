@@ -2,7 +2,7 @@
 
 # NÚMEROS
 
-Los números pueden ser enterios, cómo `3`, `5` o `3337`, o pueden ser decimales,
+Los números pueden ser enteros, cómo `3`, `5` o `3337`, o pueden ser decimales,
 cómo `3.14`, `1.5` o `100.7893423`.
 
 ## El ejercicio:
