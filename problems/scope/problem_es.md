@@ -18,7 +18,7 @@ function foo() {
 					// por las funciones definidas dentro de foo
 	function bar(c) {
 	var b = 2;  // otra variable `b` es creada dentro del ámbito de la función bar
-				// los cambios a esta nueva `b` no afectan a la vieja variable `b` 
+				// los cambios a esta nueva `b` no afectan a la vieja variable `b`
 	console.log( a, b, c );
 	}
 
@@ -27,7 +27,7 @@ function foo() {
 
 foo(); // 4, 2, 48
 ```
-IIFE, Immediately Invoked Function Expression( Expresión de Functión Invocada Inmediatamente ), es un patrón común para crear ámbitos locales.
+IIFE, Immediately Invoked Function Expression( Expresión de Función Invocada Inmediatamente ), es un patrón común para crear ámbitos locales.
 Por ejemplo:
 ```js
 	(function(){ // La expresión de la función está entre paréntesis
@@ -48,7 +48,7 @@ var a = 1, b = 2, c = 3;
 
 	(function secondFunction(){
 		var b = 8;
-		
+
 		(function thirdFunction(){
 			var a = 7, c = 9;
 
@@ -62,7 +62,7 @@ var a = 1, b = 2, c = 3;
 ```
 
 Usa tu conocimiento sobre el ámbito de las variables y ubica el siguiente código dentro de alguna de las funciones
-en `scope.js` para que la salida sea `a: 1, b: 8,c: 6`
+en `scope.js` para que la salida sea `a: 1, b: 8, c: 6`
 ```js
 console.log("a: "+a+", b: "+b+", c: "+c);
 ```

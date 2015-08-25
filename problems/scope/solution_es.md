@@ -1,6 +1,6 @@
 ---
 
-#EXCELENTE!
+# EXCELENTE!
 
 Lo hiciste! La segunda función tiene el ámbito que estabamos buscando.
 
