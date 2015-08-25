@@ -6,7 +6,7 @@ Los operadores básicos son `+`, `-`, `*`, `/`, y `%`.
 
 Para operaciones más complejas, podemos usar el objeto `Math`.
 
-En este ejercicio utilizaremos el objeto  `Math` para redondear números.
+En este ejercicio utilizaremos el objeto `Math` para redondear números.
 
 ## El ejercicio:
 
