@@ -10,7 +10,7 @@ Here is an example:
 var foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
-}
+};
 ```
 
 ## The challenge:
@@ -24,7 +24,7 @@ var pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2
-}
+};
 ```
 
 Use `console.log()` to print the `pizza` object to the terminal.
