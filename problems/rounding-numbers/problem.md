@@ -14,7 +14,7 @@ Create a file named `rounding-numbers.js`.
 
 In that file define a variable named `roundUp` that references the float `1.5`.
 
-We will use the `Math.round()` method to round the number up.
+We will use the `Math.round()` method to round the number up. This method rounds either up or down to the nearest integer.
 
 An example of using `Math.round()`:
 
