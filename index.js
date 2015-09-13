@@ -1,6 +1,6 @@
 var jsing = require('workshopper-adventure')({
     appDir: __dirname
-  , languages: ['en', 'ja', 'ko', 'es', 'zh-cn', 'pt-br', 'nb-no', 'uk']
+  , languages: ['en', 'ja', 'ko', 'es', 'zh-cn', 'pt-br', 'nb-no', 'uk', 'it']
   , header: require('workshopper-adventure/default/header')
   , footer: require('./lib/footer.js')
 });

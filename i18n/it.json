@@ -1,0 +1,23 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "INTRODUZIONE"
+        , "VARIABLES":              "LE VARIABILI"
+        , "STRINGS":                "LE STRINGHE"
+        , "STRING LENGTH":          "LUNGHEZZA DI UNA STRINGA"
+        , "REVISING STRINGS":       "MODIFICARE UNA STRINGA"
+        , "NUMBERS":                "I NUMERI"
+        , "ROUNDING NUMBERS":       "ARROTONDARE UN NUMERO"
+        , "NUMBER TO STRING":       "DA NUMERO A STRINGA"
+        , "IF STATEMENT":           "BLOCCO CONDIZIONALE IF"
+        , "FOR LOOP":               "CICLO FOR"
+        , "ARRAYS":                 "GLI ARRAY"
+        , "ARRAY FILTERING":        "FILTRARE UN ARRAY"
+        , "ACCESSING ARRAY VALUES": "ACCEDERE AD UN ARRAY"
+        , "LOOPING THROUGH ARRAYS": "PERCORRERE UN ARRAY"
+        , "OBJECTS":                "GLI OGGETTI"
+        , "OBJECT PROPERTIES":      "PROPRIETÀ DI UN OGGETTO"
+        , "FUNCTIONS":              "LE FUNZIONI"
+        , "FUNCTION ARGUMENTS":     "ARGOMENTI DELLA FUNZIONE"
+        , "SCOPE":                  "LO SCOPE"
+    }
+}
