@@ -66,4 +66,9 @@ var a = 1, b = 2, c = 3;
 ```js
 console.log("a: "+a+", b: "+b+", c: "+c);
 ```
+
+이 명령어를 실행해 프로그램이 올바른지 확인하세요.
+
+`javascripting verify scope.js`
+
 ---

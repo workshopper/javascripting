@@ -10,7 +10,7 @@
 var foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
-}
+};
 ```
 
 ## 도전 과제
@@ -24,7 +24,7 @@ var pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2
-}
+};
 ```
 
 `console.log()`를 사용해 `pizza` 객체를 터미널에 출력합니다.
