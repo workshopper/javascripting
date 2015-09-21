@@ -5,7 +5,7 @@
 
 `mkdir javascripting` 명령어를 실행해 `javascripting`이라는 디렉터리(다른 이름이어도 됩니다)를 만드세요.
 
-`cd javascripting`로 `javascripting` 폴더 안으로 디렉터리를 변경하세요.
+`cd javascripting`을 통해 `javascripting` 폴더 안으로 디렉터리를 변경하세요.
 
 `touch introduction.js`를 입력해 `introduction.js`이라는 파일을 만드세요.
 윈도우라면 `type NUL > introduction.js`(`type`도 명령어의 일부입니다!)로 만들 수 있습니다.

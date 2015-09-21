@@ -20,7 +20,7 @@ console.log(example);
 
 `revising-strings.js`라는 파일을 만드세요.
 
-`pizza is alright` 문자열을 참조하는 `pizza`라는 변수를 정의합니다.
+`'pizza is alright'` 문자열을 참조하는 `pizza`라는 변수를 정의합니다.
 
 `.replace()` 메소드를 사용해 `alright`을 `wonderful`로 바꿉니다.
 

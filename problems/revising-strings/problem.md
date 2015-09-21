@@ -22,7 +22,7 @@ the right of the equals sign.
 
 Create a file named `revising-strings.js`.
 
-Define a variable named `pizza` that references this string: `pizza is alright`
+Define a variable named `pizza` that references this string: `'pizza is alright'`
 
 Use the `.replace()` method to change `alright` to `wonderful`.
 

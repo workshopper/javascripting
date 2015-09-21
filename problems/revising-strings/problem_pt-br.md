@@ -22,7 +22,7 @@ direito dele.
 
 Crie um arquivo chamado `revising-strings.js`.
 
-Defina uma variável chamada `pizza` que referencia esta string: `pizza is alright`
+Defina uma variável chamada `pizza` que referencia esta string: `'pizza is alright'`
 
 Use o método `.replace()` para modificar o `alright` para `wonderful`.
 

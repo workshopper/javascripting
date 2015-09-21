@@ -20,7 +20,7 @@ console.log(example);
 
 创建一个名为 `revising-strings.js` 的文件。
 
-定义一个名为 `pizza` 的变量，并且让它引用字符串 `pizza is alright`。
+定义一个名为 `pizza` 的变量，并且让它引用字符串 `'pizza is alright'`。
 
 使用 `.replace()` 方法将 `alright` 替换为 `wonderful`。
 
