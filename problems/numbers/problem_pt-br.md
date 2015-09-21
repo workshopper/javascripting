@@ -5,7 +5,7 @@
 O números podem ser inteiros como `2`, `14`, ou `4353`, ou podem ser decimais  
 como `3.14`, `1.5`, ou `100.7893423`.
 
-## Dasafio:
+## Desafio:
 
 Crie um arquivo chamado `numbers.js`.
 
