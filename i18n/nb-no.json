@@ -1,0 +1,23 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "INTRODUKSJON"
+        , "VARIABLES":              "VARIABLER"
+        , "STRINGS":                "STRINGER"
+        , "STRING LENGTH":          "STRINGENS LENGDE"
+        , "REVISING STRINGS":       "ENDRE STRINGER"
+        , "NUMBERS":                "NUMMER"
+        , "ROUNDING NUMBERS":       "AVRUNDE NUMMER"
+        , "NUMBER TO STRING":       "NUMMER TIL STRING"
+        , "IF STATEMENT":           "IF UTTRYKK"
+        , "FOR LOOP":               "FOR LØKKEN"
+        , "ARRAYS":                 "ARRAYER"
+        , "ARRAY FILTERING":        "FILTERING AV ARRAYER"
+        , "ACCESSING ARRAY VALUES": "BRUKE ARRAY VERDIER"
+        , "LOOPING THROUGH ARRAYS": "ITERERE GJENNOM ARRAYER"
+        , "OBJECTS":                "OBJEKTER"
+        , "OBJECT PROPERTIES":      "OBJEKTEGENSKAPER"
+        , "FUNCTIONS":              "FUNKSJONER"
+        , "FUNCTION ARGUMENTS":     "FUNKSJONSARGUMENTER"
+        , "SCOPE":                  "KONTEKST"
+    }
+}
