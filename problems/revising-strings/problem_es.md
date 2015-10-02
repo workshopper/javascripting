@@ -22,7 +22,7 @@ del método `example.replace()` del lado derecho del signo.
 
 Crea un archivo llamado `revising-strings.js`.
 
-Define una variable llamada `pizza` que referencie esta string: `pizza is alright`
+Define una variable llamada `pizza` que referencie esta string: `'pizza is alright'`
 
 Utiliza el método `.replace()` para cambiar `alright` con `wonderful`.
 
