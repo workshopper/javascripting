@@ -6,7 +6,7 @@
         , "STRING LENGTH":          "ДОВЖИНА РЯДКА"
         , "REVISING STRINGS":       "МОДИФІКАЦІЯ РЯДКІВ"
         , "NUMBERS":                "ЧИСЛА"
-        , "ROUNDING NUMBERS":       "ОКРУГЛЕННЯ ЧИСЕС"
+        , "ROUNDING NUMBERS":       "ОКРУГЛЕННЯ ЧИСЕЛ"
         , "NUMBER TO STRING":       "ЧИСЛА В РЯДКИ"
         , "IF STATEMENT":           "ОПЕРАТОР IF"
         , "FOR LOOP":               "ЦИКЛ FOR"
