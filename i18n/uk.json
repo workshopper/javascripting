@@ -8,7 +8,7 @@
         , "NUMBERS":                "ЧИСЛА"
         , "ROUNDING NUMBERS":       "ОКРУГЛЕННЯ ЧИСЕС"
         , "NUMBER TO STRING":       "ЧИСЛА В РЯДКИ"
-        , "IF STATEMENT":           "УМОВНИЙ ОПЕРАТОР"
+        , "IF STATEMENT":           "ОПЕРАТОР IF"
         , "FOR LOOP":               "ЦИКЛ FOR"
         , "ARRAYS":                 "МАСИВИ"
         , "ARRAY FILTERING":        "ФІЛЬТРАЦІЯ МАСИВІВ"
