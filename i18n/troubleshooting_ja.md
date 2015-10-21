@@ -24,5 +24,3 @@
  * ファイル名をタイプミスしていませんか？ ls `%filename%` を実行すれば確認できます。もし ls: cannot access `%filename%`: No such file or directory と表示されたら、新しいファイルを作るか、すでにあるファイルの名前を変えるか、ファイルがあるディレクトリを変更する必要があるかもしれません。
  * カッコを省略していませんか？省略するとコンパイラはJavaScriptファイル正しく読むことができません。
  * ファイルの中身にタイプミスはありませんか？
-
-> **助けが必要ですか？** github.com/nodeschool/discussions/issues で質問してください
