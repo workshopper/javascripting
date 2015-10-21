@@ -1,7 +1,3 @@
----
-
-# 配列のフィルター
-
 配列にはいろいろな操作方法があります。
 
 よくやる処理に、配列にフィルターをかけて、特定の値を取り出す。というものがあります。
@@ -45,6 +41,6 @@ function evenNumbers (number) {
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify array-filtering.js`
-
----
+```bash
+javascripting verify array-filtering.js
+```

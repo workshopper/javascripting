@@ -1,7 +1,3 @@
----
-
-# FOR (BUCLES)
-
 Un bucle for es como lo siguiente:
 
 ```js
@@ -37,6 +33,6 @@ Luego del for, utiliza `console.log()` para imprimir la variable `total` a la te
 
 Comprueba si tu programa es correcto utilizando el siguiente comando:
 
-`javascripting verify for.js`
-
----
+```bash
+javascripting verify for.js
+```

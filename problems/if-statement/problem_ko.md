@@ -1,7 +1,3 @@
----
-
-# IF 구문
-
 지정된 조건을 기반으로, 조건문은 프로그램의 흐름 제어에 사용됩니다.
 
 조건문은 이렇습니다.
@@ -30,6 +26,6 @@ else 블록은 생략 가능하며 구문이 false일 경우 실행될 코드가
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify if-statement.js`
-
----
+```bash
+javascripting verify if-statement.js
+```

@@ -1,7 +1,3 @@
----
-
-# CONDICIONAL COM IF
-
 Instruções condicionais são usadas para alterar o controle de fluxo de um programa, baseado em uma condição de verdadeiro ou falso.
 
 Uma instrução condicional é mais ou menos assim:
@@ -31,6 +27,6 @@ Caso contrário, imprima "**The fruit name has five characters or less.**"
 
 Verifique se o seu programa está correto executando o comando:
 
-`javascripting verify if-statement.js`
-
----
+```bash
+javascripting verify if-statement.js
+```

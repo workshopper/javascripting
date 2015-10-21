@@ -1,7 +1,3 @@
----
-
-# 函数
-
 函数就是一大段代码，这段代码将输入处理，然后产生输出。
 
 例子：
@@ -36,6 +32,6 @@ return food + ' tasted really good.';
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

@@ -1,7 +1,3 @@
----
-
-# 依次访问数组中的值
-
 本次挑战中，我们将使用一个 **for 循环**来访问并操作数组中的值。
 
 访问数组可以使用一个整数轻易办到。
@@ -44,6 +40,6 @@ pets[i] = pets[i] + 's';
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify looping-through-arrays.js`
-
----
+```bash
+javascripting verify looping-through-arrays.js
+```

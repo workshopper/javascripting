@@ -1,7 +1,3 @@
----
-
-# 字符串长度
-
 在程序中我们经常需要知道一个字符串中到底包含了多少字符。
 
 你可以使用 `.length` 来得到它。下面是一个例子：
@@ -11,7 +7,7 @@ var example = 'example string';
 example.length
 ```
 
-# 注
+## 注
 
 不要忘记 `example` 和 `length` 之间的英文句号。
 
@@ -31,5 +27,3 @@ example.length
 **运行下面的命令来检查你的程序是否正确：**
 
 `javascripting verify string-length.js`
-
----

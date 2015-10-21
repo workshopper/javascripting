@@ -1,7 +1,3 @@
----
-
-# FILTERING AV ARRAYER
-
 Det finnes mange måter å manipulere arrayer på.
 
 Noe man ofte gjør er å filtrere et array til å kun inneholde noen ønskede verdier.
@@ -43,6 +39,6 @@ Bruk `console.log()` til å skrive ut `filtered` arrayet til skjermen.
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify array-filtering.js`
-
----
+```bash
+javascripting verify array-filtering.js
+```

@@ -1,7 +1,3 @@
----
-
-# VARIABLES
-
 Una variable es una referencia a un valor. Define una variable usando la palabra reservada `var`.
 
 Por ejemplo:
@@ -32,4 +28,3 @@ Luego usa `console.log()` para imprimir la variable `example` a la consola.
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify variables.js`
----

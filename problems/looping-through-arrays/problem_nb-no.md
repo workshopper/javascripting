@@ -1,7 +1,3 @@
----
-
-# ITERERE GJENNOM ARRAYER
-
 I denne oppgaven skal vi bruke en **for løkke** til å lese og endre en liste av verdier i et array.
 
 Å lese verdier fra et array kan gjøres med et heltall.
@@ -44,6 +40,6 @@ Etter den for løkken, bruk `console.log()` for å skrive ut `pets` arrayet til 
 
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
-`javascripting verify looping-through-arrays.js`
-
----
+```bash
+javascripting verify looping-through-arrays.js
+```

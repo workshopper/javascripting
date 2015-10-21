@@ -1,7 +1,3 @@
----
-
-# NUMMER TIL STRING
-
 Noen ganger må du gjøre om et nummer til en string.
 
 I de tilfelle må du bruke `.toString()` metoden. Eksempel:
@@ -23,6 +19,6 @@ Bruk `console.log()` for å skrive ut resultatet av `.toString()` metoden til sk
 
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
-`javascripting verify number-to-string.js`
-
----
+```bash
+javascripting verify number-to-string.js
+```

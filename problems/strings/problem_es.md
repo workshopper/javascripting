@@ -1,7 +1,3 @@
----
-
-# STRINGS
-
 Una **string** representa una cadena de caracteres y se puede definir con comillas dobles o simples.
 
 Por ejemplo:
@@ -30,5 +26,3 @@ Utiliza `console.log` para imprimir la variable `someString` a la terminal.
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify strings.js`
-
----

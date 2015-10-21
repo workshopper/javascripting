@@ -1,7 +1,3 @@
----
-
-# 修改字符串
-
 实际工作中可能经常需要修改一个字符串。
 
 字符串中包含一些内建的功能允许你查看并修改它们的内容。
@@ -29,5 +25,3 @@ console.log(example);
 运行下面的命令来检查你的程序是否正确：
 
 `javascripting verify revising-strings.js`
-
----

@@ -1,7 +1,3 @@
----
-
-# ЧИСЛА В РЯДКИ
-
 Часом нам потрібно перетворити числа в рядки.
 
 В таких випадках ви можете використати метод `.toString()`. Ось приклад:
@@ -23,6 +19,6 @@ n = n.toString();
 
 Перевірте вашу відповідь запустивши команду:
 
-`javascripting verify number-to-string.js`
-
----
+```bash
+javascripting verify number-to-string.js
+```

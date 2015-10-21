@@ -1,7 +1,3 @@
----
-
-# 숫자 반올림
-
 `+`, `-`, `*`, `/`, `%` 같은 익숙한 연산자를 사용해 기본적인 연산을 할 수 있습니다.
 
 더 복잡한 연산은 `Math` 객체를 사용해 할 수 있습니다.
@@ -28,6 +24,6 @@ Math.round(0.5);
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify rounding-numbers.js`
-
----
+```bash
+javascripting verify rounding-numbers.js
+```

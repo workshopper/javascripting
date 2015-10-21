@@ -1,7 +1,3 @@
----
-
-# BLOQUE CONDICIONAL
-
 Los bloques condicionales son utilizados, partiendo de una condición booleana específica, alterar el control de flujo de un programa.
 
 Un bloque condicional se parece a lo siguiente:
@@ -31,6 +27,6 @@ Imprime "**The fruit name has five characters or less.**" de lo contrario.
 
 Comprueba si tu programa funciona correctamente ejecutando el siguiente comando:
 
-`javascripting verify if-statement.js`
-
----
+```bash
+javascripting verify if-statement.js
+```

@@ -1,7 +1,3 @@
----
-
-# MODIFICANDO STRINGS
-
 Frequentemente você precisará mudar o conteúdo de uma string.
 
 As strings tem funcionalidades que te permitem inspecionar e manipular seus conteúdos.
@@ -31,5 +27,3 @@ Use o `console.log()` para imprimir o resultado do método `.replace()` no termi
 Verifique se o seu programa está correto executando este comando:
 
 `javascripting verify revising-strings.js`
-
----

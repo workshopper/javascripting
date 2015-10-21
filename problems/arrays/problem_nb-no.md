@@ -1,7 +1,3 @@
----
-
-# ARRAYER
-
 Et array er en liste av verdier. Her er et eksempel:
 
 ```js
@@ -18,6 +14,6 @@ Bruk `console.log()` til å skrive ut `pizzaToppings` arrayet til skjermen.
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify arrays.js`
-
----
+```bash
+javascripting verify arrays.js
+```

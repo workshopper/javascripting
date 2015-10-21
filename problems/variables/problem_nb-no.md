@@ -1,7 +1,3 @@
----
-
-# VARIABLER
-
 En variabel er et navn som kan peke til en spesifikk verdi. Variables deklareres ved å bruke `var` etterfulgt av variablens navn.
 
 Her er et eksempel:
@@ -35,5 +31,3 @@ For å skrive ut verdien til `example` til skjermen bruk `console.log()`.
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
 `javascripting verify variables.js`
-
----

@@ -1,7 +1,3 @@
----
-
-# 对象
-
 对象像数组一样，也是一组值的集合，所不同是，对象里的值被关键字所标识，而非整数。
 
 例子：
@@ -31,7 +27,6 @@ var pizza = {
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify objects.js`
-
-
----
+```bash
+javascripting verify objects.js
+```

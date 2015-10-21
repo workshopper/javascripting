@@ -1,7 +1,3 @@
----
-
-# if 文
-
 条件文を使って、次に実行する文を変更します。プログラムの流れを変更できます。条件は真理値で指定します。
 
 たとえば...
@@ -31,6 +27,6 @@ if (n > 1) {
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify if-statement.js`
-
----
+```bash
+javascripting verify if-statement.js
+```

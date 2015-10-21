@@ -1,7 +1,3 @@
----
-
-# STRINGS
-
 A **string** is any value surrounded by quotes.
 
 It can be single or double quotes:
@@ -11,7 +7,8 @@ It can be single or double quotes:
 
 "this is also a string"
 ```
-#NOTE
+
+## NOTE
 
 Try to stay consistent. In this workshop we'll only use single quotes.
 
@@ -30,5 +27,3 @@ Use `console.log` to print the variable **someString** to the terminal.
 Check to see if your program is correct by running this command:
 
 `javascripting verify strings.js`
-
----

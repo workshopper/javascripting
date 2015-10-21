@@ -1,7 +1,3 @@
----
-
-# ARGUMENTOS DE FUNÇÕES
-
 Podemos declarar uma função que recebe qualquer quantidade de argumentos. Os argumentos podem ser de qualquer tipo. Um argumento poderia ser uma string, um número, um array, um objeto e até mesmo outra função.
 
 Aqui está um exemplo:
@@ -34,6 +30,6 @@ Depois disso, dentro dos parênteses do `console.log()`, chame a função `math(
 
 Verifique se o seu programa está correto executando esse comando:
 
-`javascripting verify function-arguments.js`
-
----
+```bash
+javascripting verify function-arguments.js
+```

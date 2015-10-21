@@ -1,7 +1,3 @@
----
-
-# OBJECT PROPERTIES
-
 You can access and manipulate object properties –– the keys and values that an object contains –– using a method very similar to arrays.
 
 Here's an example using **square brackets**:
@@ -42,6 +38,6 @@ Use `console.log()` to print the `types` property of the `food` object to the te
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify object-properties.js`
-
----
+```bash
+javascripting verify object-properties.js
+```

@@ -1,7 +1,3 @@
----
-
-# MODIFICANDO STRINGS
-
 A menudo necesitarás cambiar el contenido de una string.
 
 Las strings tienen una funcionalidad por defecto que te permite reemplazar caracteres.
@@ -31,5 +27,3 @@ Luego, utiliza `console.log()` para imprimir los resultados del método `.replac
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify revising-strings.js`
-
----

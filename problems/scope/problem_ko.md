@@ -1,7 +1,3 @@
----
-
-# 스코프
-
 
 `스코프`는 접근할 수 있는 변수, 객체, 함수의 집합입니다.
 
@@ -69,6 +65,6 @@ console.log("a: "+a+", b: "+b+", c: "+c);
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify scope.js`
-
----
+```bash
+javascripting verify scope.js
+```

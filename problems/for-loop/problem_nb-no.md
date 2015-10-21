@@ -1,7 +1,3 @@
----
-
-# FOR LØKKER
-
 For løkker ser slik ut:
 
 ```js
@@ -38,6 +34,6 @@ Etter for løkken, bruk `console.log()` til å skrive ut verdien av `total` vari
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify for-loop.js`
-
----
+```bash
+javascripting verify for-loop.js
+```

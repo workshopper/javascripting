@@ -1,7 +1,3 @@
----
-
-# STRINGS
-
 En **string** er en verdi omgitt av anførselsteng eller apostrof:
 
 ```js
@@ -28,5 +24,3 @@ For å skrive variabelen **someString** til skjermen kan du bruke `console.log`.
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
 `javascripting verify strings.js`
-
----

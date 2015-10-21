@@ -1,7 +1,3 @@
----
-
-# NÚMERO A STRING
-
 A veces necesitarás convertir un número a una string.
 
 En esos casos, usarás el método `.toString()`. A continuación un ejemplo:
@@ -23,6 +19,6 @@ Utiliza `console.log()` para imprimir los resultados de `.toString()` a la termi
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify number-to-string.js`
-
----
+```bash
+javascripting verify number-to-string.js
+```

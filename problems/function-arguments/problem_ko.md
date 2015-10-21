@@ -1,7 +1,3 @@
----
-
-# 함수 인자
-
 함수는 몇 개의 인자도 받도록 선언할 수 있습니다. 인자는 어떤 타입도 사용 가능합니다. 인자는 문자열, 숫자, 배열, 객체이거나 심지어 다른 함수일 수도 있습니다.
 
 여기 예제가 있습니다.
@@ -35,6 +31,6 @@ example('hello', 'world');
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify function-arguments.js`
-
----
+```bash
+javascripting verify function-arguments.js
+```

@@ -1,11 +1,6 @@
----
-
-# OBJETOS
-
 Los objetos son en cierta forma contenedores y se los puede pensar cómo diccionarios.
 
 Tendrá ciertas **llaves** y cada una se verá referenciada a un **valor**.
-
 
 Por ejemplo:
 
@@ -36,6 +31,6 @@ Utiliza `console.log()` para imprimir el objeto `pizza` a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify objects.js`
-
----
+```bash
+javascripting verify objects.js
+```

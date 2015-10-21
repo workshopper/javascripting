@@ -1,7 +1,3 @@
----
-
-# PROPRIEDADES DE OBJETO
-
 Você pode acessar e manipular propriedades de objetos –– as chaves e valores de um objeto –– de uma maneira bem similar como fazemos com arrays.
 
 Aqui está um exemplo usando **colchetes**:
@@ -42,6 +38,6 @@ Use o `console.log()` para imprimir a propriedade `types` do objeto `food` no te
 
 Verifique se o seu programa está correto usando o comando:
 
-`javascripting verify object-properties.js`
-
----
+```bash
+javascripting verify object-properties.js
+```

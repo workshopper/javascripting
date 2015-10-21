@@ -1,7 +1,3 @@
----
-
-# EN RUNDE TIL MED STRINGS
-
 Du trenger ofte å endre innholdet av en string.
 
 Stringer har innebygd funksjonalitet som lar de manipulere og se på innholdet.
@@ -29,5 +25,3 @@ Bruk `console.log()` for å skrive ut resultatet av `.replace()` metoden til skj
 Kontroller programmet ditt for å se om det er riktig ved å kjøre denne kommandoen:
 
 `javascripting verify revising-strings.js`
-
----

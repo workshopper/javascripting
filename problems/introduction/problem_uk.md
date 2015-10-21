@@ -1,19 +1,28 @@
----
-# ВСТУП
-
 Давайте створемо окрему директорію для цього воркшопу, щоб зберігати чистоту в наших файлах.
 
 Запустіть цю команду, щоб створити директорію, яка називатиметься `javascripting` (або будь-як інакше):
 
-`mkdir javascripting`
+```bash
+mkdir javascripting
+```
 
 Перейдіть в директорію `javascripting` командою:
 
-`cd javascripting`
+```bash
+cd javascripting
+```
 
 Створіть файл `introduction.js`:
 
-`touch introduction.js` або якщо ви на Windows, `type NUL > introduction.js` (`type` це частина команди!)
+```bash
+touch introduction.js
+```
+ або якщо ви на Windows, 
+
+```bash
+type NUL > introduction.js
+```
+ (`type` це частина команди!)
 
 Відкрийте файл у вашому улюбленому текстовому редакторі та додайте цей текст:
 
@@ -22,14 +31,12 @@ console.log('hello');
 ```
 Збережіть файл, а потім перевірте вашу програму запустивши команду:
 
-`javascripting verify introduction.js`
+```bash
+javascripting verify introduction.js
+```
 
 До речі, на процязі цього курсу ви можете можете називати файли так, як вам подобається. Якщо ви хочете назвати файл ім’ям `catsAreAwesome.js` для кожної вправи, то зробіть це. Лише не забудьте потім перевірити його:
 
-`javascripting verify catsAreAwesome.js`
-
----  
-
-
-
-> **Потрібна допомога?** Перегляньте README цього воркшопу: http://github.com/sethvincent/javascripting
+```bash
+javascripting verify catsAreAwesome.js
+```

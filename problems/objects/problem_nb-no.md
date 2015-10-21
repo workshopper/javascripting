@@ -1,7 +1,3 @@
----
-
-# OBJEKTER
-
 Objekter er en samling verdier som arrayer, bortsett ifra at verdiene er identifisert med nøkler istedefor tall.
 
 Her er et eksempel:
@@ -31,7 +27,6 @@ Bruk `console.log()` for å skrive ut `pizza` objektet til skjermen.
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify objects.js`
-
-
----
+```bash
+javascripting verify objects.js
+```

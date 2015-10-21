@@ -1,7 +1,3 @@
----
-
-# SCOPE ( AMBITO )
-
 El `scope` o ámbito es el conjunto de variables, objetos y funciones a las que tienes acceso.
 
 JavaScript tiene dos ámbitos: `global` y `local`. Una variable que es declarada fuera de la definición de una función es una variable `global`, y su valor es accesible y modificable a través de tu programa. Una variable que es declarada dentro de la definición de una función es una variable `local`. Se crea y se destruye cada vez que se ejecuta la función, y no se puede acceder a su valor ni modificarlo por ningún código fuera de la misma.
@@ -66,4 +62,4 @@ en `scope.js` para que la salida sea `a: 1, b: 8, c: 6`
 ```js
 console.log("a: "+a+", b: "+b+", c: "+c);
 ```
----
+

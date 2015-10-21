@@ -1,15 +1,16 @@
----
-# 入门
-
 为了让工作环境整洁有序，我们首先来创建一个文件夹。 
 
 运行下面的这段命令来创建一个名为 `javascripting` 的文件夹（你也可以使用你喜欢的其它名字）：
 
-`mkdir javascripting`
+```bash
+mkdir javascripting
+```
 
 进入 `javascripting` 文件夹：
 
-`cd javascripting`
+```bash
+cd javascripting
+```
 
 创建一个名为 `introduction.js` 的文件：
 
@@ -23,11 +24,6 @@ console.log('hello');
 
 保存文件，运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify introduction.js`
-
----  
-
-
-
-> **需要帮助？** 查看本教程的 README 文件：http://github.com/sethvincent/javascripting
-
+```bash
+javascripting verify introduction.js
+```

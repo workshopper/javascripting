@@ -1,7 +1,3 @@
----
-
-# FUNÇÕES
-
 Uma função basicamente recebe uma entrada, processa a entrada, e então produz uma saída.
 
 Aqui está um exemplo:
@@ -37,6 +33,6 @@ Dentro do parênteses do `console.log()`, chame a função `eat()` com a string 
 
 Verifique se o seu programa está correto executando este comando:
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

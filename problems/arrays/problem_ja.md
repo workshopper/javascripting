@@ -1,7 +1,3 @@
----
-
-# 配列
-
 配列は、値のリストです。たとえば、こう...
 
 ```js
@@ -21,6 +17,7 @@ var pets = ['cat', 'dog', 'rat'];
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify arrays.js`
+```bash
+javascripting verify arrays.js
+```
 
----

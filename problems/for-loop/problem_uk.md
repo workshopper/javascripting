@@ -1,7 +1,3 @@
----
-
-# ЦИКЛ FOR
-
 Цикл for виглядає ось так:
 
 ```js
@@ -38,6 +34,6 @@ total += i;
 
 Перевірте вашу відповідь запустивши команду:
 
-`javascripting verify for-loop.js`
-
----
+```bash
+javascripting verify for-loop.js
+```

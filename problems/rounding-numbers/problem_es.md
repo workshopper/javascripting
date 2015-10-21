@@ -1,7 +1,3 @@
----
-
-# REDONDEANDO NÚMEROS
-
 Los operadores básicos son `+`, `-`, `*`, `/`, y `%`.
 
 Para operaciones más complejas, podemos usar el objeto `Math`.
@@ -28,6 +24,6 @@ Utiliza `console.log()` para imprimir el número a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente commando:
 
-`javascripting verify rounding-numbers.js`
-
----
+```bash
+javascripting verify rounding-numbers.js
+```

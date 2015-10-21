@@ -1,7 +1,3 @@
----
-
-# 数字取整
-
 我们可以对数字进行一些基本的数学运算，比如 `+`，`-`，`*`，`/`，和 `%`。
 
 对于更复杂的数学运算，我们需要使用 `Math` 对象。
@@ -28,6 +24,6 @@ Math.round(0.5);
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify rounding-numbers.js`
-
----
+```bash
+javascripting verify rounding-numbers.js
+```

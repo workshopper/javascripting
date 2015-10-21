@@ -1,7 +1,3 @@
----
-
-# ARRAYS
-
 Un array es una lista ordenada de elementos. Por ejemplo:
 
 ```js
@@ -18,6 +14,7 @@ Utiliza `console.log()` para imprimir la variable `pizzaToppings` a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente commando:
 
-`javascripting verify arrays.js`
+```bash
+javascripting verify arrays.js
+```
 
----

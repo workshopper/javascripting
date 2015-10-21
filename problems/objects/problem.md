@@ -1,7 +1,3 @@
----
-
-# OBJECTS
-
 Objects are lists of values similar to arrays, except values are identified by keys instead of integers.
 
 Here is an example:
@@ -31,7 +27,6 @@ Use `console.log()` to print the `pizza` object to the terminal.
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify objects.js`
-
-
----
+```bash
+javascripting verify objects.js
+```

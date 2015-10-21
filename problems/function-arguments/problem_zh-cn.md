@@ -1,7 +1,3 @@
----
-
-# 函数的参数
-
 一个函数可以被声明为接受任意数量的参数。参数可以是任意的类型，例如字符串，数字，数组，对象，甚至另一个函数。
 
 例子：
@@ -34,6 +30,6 @@ example('hello', 'world');
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify function-arguments.js`
-
----
+```bash
+javascripting verify function-arguments.js
+```

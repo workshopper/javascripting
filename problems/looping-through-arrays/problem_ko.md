@@ -1,7 +1,3 @@
----
-
-# 배열을 루프하기
-
 이 도전 과제에서는 **for 반복문**을 사용해 배열에 있는 값의 목록에 접근하고 조작하겠습니다.
 
 배열 값에 접근하는 것은 정수를 사용해 할 수 있습니다.
@@ -44,6 +40,6 @@ pets[i] = pets[i] + 's';
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify looping-through-arrays.js`
-
----
+```bash
+javascripting verify looping-through-arrays.js
+```

@@ -1,7 +1,3 @@
----
-
-# ESCOPO
-
 `Escopo` é o conjunto de variáveis, objetos, e funções dos quais temos acesso.
 
 O JavaScript tem dois escopos: `global` e `local`. Uma variável que é declarada fora da definição de uma função é uma variável `global`, e o seu valor pode ser acessado e modificado á partir de qualquer parte do seu programa. Uma variável que é declarada dentro da definição de uma função é `local`. Ela é criada e destruída toda vez que a função é executada, e não pode ser acessada por qualquer código fora da função.
@@ -70,6 +66,6 @@ console.log("a: "+a+", b: "+b+", c: "+c);
 
 Verifique se o seu programa está correto executando o comando:
 
-`javascripting verify scope.js`
-
----
+```bash
+javascripting verify scope.js
+```

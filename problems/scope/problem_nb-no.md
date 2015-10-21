@@ -1,7 +1,3 @@
----
-
-# SCOPE
-
 `Scope` er de variablene, objektene og funksjonene du har tilgang til.
 
 JavaScript har to scope: `global` og `lokal`. En variabel som er deklarert utenfor en funksjon er en `global` variabel. Dens verdi er tilgjengelig og kan endres gjennom hele programmet ditt. En variabel som er deklarert inni en funksjon er `lokal`. Den lages og fjernes hver gang funksjonen kjøres og variabelen kan ikke nås av kode som er utenfor funksjonen.
@@ -69,6 +65,6 @@ console.log("a: "+a+", b: "+b+", c: "+c);
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify scope.js`
-
----
+```bash
+javascripting verify scope.js
+```

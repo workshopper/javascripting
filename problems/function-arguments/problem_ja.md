@@ -1,7 +1,3 @@
----
-
-# 関数の引数
-
 関数の引数はいくつでも宣言できます。引数はどんな型でも大丈夫です。文字列、数値、配列、オブジェクト、関数さえも引数になり得ます。
 
 たとえば...
@@ -35,6 +31,6 @@ example('hello', 'world');
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify function-arguments.js`
-
----
+```bash
+javascripting verify function-arguments.js
+```

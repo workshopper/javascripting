@@ -1,7 +1,3 @@
----
-
-# 对象的属性
-
 你可以使用与访问和操作数组非常类似的方法来访问和操作对象的属性——属性就是对象所包含的键和值的对。
 
 这里是一个使用**方括号**的例子：
@@ -42,6 +38,6 @@ var food = {
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify object-properties.js`
-
----
+```bash
+javascripting verify object-properties.js
+```

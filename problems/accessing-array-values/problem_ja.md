@@ -1,7 +1,3 @@
----
-
-# 配列の値にアクセスする
-
 配列の要素には添え字を使ってアクセスできます。
 
 添え字は `0` から `配列の長さ - 1` までの数です。
@@ -46,6 +42,6 @@ var food = ['apple', 'pizza', 'pear'];
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify accessing-array-values.js`
-
----
+```bash
+javascripting verify accessing-array-values.js
+```

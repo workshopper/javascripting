@@ -1,7 +1,3 @@
----
-
-# FILTRANDO ARRAYS
-
 Existem muitas formas de manipular arrays.
 
 Uma tarefa comum é filtrar um array para que ele tenha somente alguns valores.
@@ -44,6 +40,6 @@ Use o `console.log()` para imprimir o array `filtered` no terminal.
 
 Verifique se o seu programa está correto executando este comando:
 
-`javascripting verify array-filtering.js`
-
----
+```bash
+javascripting verify array-filtering.js
+```

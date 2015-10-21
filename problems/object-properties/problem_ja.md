@@ -1,7 +1,3 @@
----
-
-# オブジェクトのプロパティ
-
 オブジェクトのプロパティの値を取得したり変更したりできます。
 プロパティはオブジェクトに含まれるキーと値の組み合わせです。
 オブジェクトのプロパティは配列とよく似た方法で操作します。
@@ -46,6 +42,6 @@ var food = {
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify object-properties.js`
-
----
+```bash
+javascripting verify object-properties.js
+```

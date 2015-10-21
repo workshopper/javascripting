@@ -1,7 +1,3 @@
----
-
-# AVRUNDE NUMMER
-
 Vi kan gjøre enkle regnestykker med operatører som `+`, `-`, `*`, `/`, og `%`.
 
 For mer avanserte regnestykker, kan vi bruke `Math` objektet.
@@ -29,6 +25,6 @@ Bruk `console.log()` for å skrive det nummeret til skjermen.
 
 Se om programmet ditt er riktig ved å kjøre denne:
 
-`javascripting verify rounding-numbers.js`
-
----
+```bash
+javascripting verify rounding-numbers.js
+```

@@ -1,6 +1,3 @@
----
-# 소개
-
 정돈을 위해 이 워크숍을 위한 폴더를 만듭시다.
 
 `mkdir javascripting` 명령어를 실행해 `javascripting`이라는 디렉터리(다른 이름이어도 됩니다)를 만드세요.
@@ -18,14 +15,14 @@ console.log('hello');
 
 파일을 저장하고 프로그램이 올바른지 다음 명령어를 실행해 확인하세요.
 
-`javascripting verify introduction.js`
+```bash
+javascripting verify introduction.js
+```
 
 하지만 튜토리얼 내내 편한 이름을 사용하셔도 됩니다. 모든 연습 문제에 `catsAreAwesome.js` 같은 이름을 사용하시고 싶다면, 그럴 수 있습니다. 그냥 다음 명령어를 실행해 확인하세요.
 
-`javascripting verify catsAreAwesome.js`
+```bash
+javascripting verify catsAreAwesome.js
+```
 
----
-
-
-> **도움이 필요하신가요?** 이 워크숍의 README를 확인하세요. http://github.com/sethvincent/javascripting
 

@@ -1,7 +1,3 @@
----
-
-# 배열 필터
-
 배열을 조작하는 방법은 여러가지가 있습니다.
 
 대표적인 사용법으로 특정 값만 가진 배열로 필터링하는 것이 있습니다.
@@ -44,6 +40,6 @@ function evenNumbers (number) {
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify array-filtering.js`
-
----
+```bash
+javascripting verify array-filtering.js
+```
