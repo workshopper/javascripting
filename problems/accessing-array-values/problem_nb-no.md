@@ -1,7 +1,3 @@
----
-
-# BRUKE ARRAY VERDIER
-
 Verdiene i et array kan nås ved å bruke et indeksnummer.
 
 Indeksnummeret starter fra null opp til antallet verdier i arrayet, minus en.
@@ -9,9 +5,9 @@ Indeksnummeret starter fra null opp til antallet verdier i arrayet, minus en.
 Her er et eksempel:
 
 ```js
-    var dyr = ['katt', 'hund', 'rotte'];
+var dyr = ['katt', 'hund', 'rotte'];
 
-    console.log(dyr[0]);
+console.log(dyr[0]);
 ```
 
 Koden over skriver ut den første verdien i `dyr` arrayet - strengen `katt`.
@@ -23,12 +19,12 @@ Punktum notasjon er ikke gyldig.
 Gyldig:
 
 ```js
-    console.log(dyr[0]);
+console.log(dyr[0]);
 ```
 
 Ugyldig:
 ```
-    console.log(dyr.1);
+console.log(dyr.1);
 ```
 
 ## Oppgaven:
@@ -44,6 +40,6 @@ Bruk `console.log()` til å skrive ut den `andre` verdien av det arrayet til skj
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify accessing-array-values.js`
-
----
+```bash
+javascripting verify accessing-array-values.js
+```

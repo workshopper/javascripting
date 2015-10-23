@@ -1,7 +1,3 @@
----
-
-# 숫자에서 문자열으로
-
 가끔 숫자를 문자열로 변경해야 할 때가 있습니다.
 
 그런 경우에 `.toString()` 메소드를 사용하면 됩니다. 예제를 보세요.
@@ -23,6 +19,6 @@ n = n.toString();
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify number-to-string.js`
-
----
+```bash
+javascripting verify number-to-string.js
+```

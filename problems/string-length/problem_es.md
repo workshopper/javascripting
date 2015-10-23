@@ -1,7 +1,3 @@
----
-
-# LONGITUD DE STRINGS
-
 Muy seguido necesitarás saber cuantos caracteres hay en una string.
 
 Para esto, usarás la propiedad `.length`. Por ejemplo:
@@ -11,7 +7,7 @@ var example = 'example string';
 example.length
 ```
 
-#NOTA
+## NOTA
 
 Asegúrate de que hay un punto entre `example` y `length`
 
@@ -31,5 +27,3 @@ Utiliza `console.log` para imprimir el **length** de la string a la terminal.
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify string-length.js`
-
----

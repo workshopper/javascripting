@@ -1,7 +1,3 @@
----
-
-# FOR 반복문
-
 for 반복문은 이렇게 생겼습니다.
 
 ```js
@@ -38,6 +34,6 @@ for 반복문 다음에, `console.log()`를 사용해 `total` 변수를 터미�
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify for-loop.js`
-
----
+```bash
+javascripting verify for-loop.js
+```

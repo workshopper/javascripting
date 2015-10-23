@@ -1,7 +1,3 @@
----
-
-# IF 语句
-
 条件语句基于一个特定的布尔值（即要么为真要么为假的值）来改变程序的控制流。
 
 条件语句长得像下面这样：
@@ -30,6 +26,6 @@ if (n > 1) {
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify if-statement.js`
-
----
+```bash
+javascripting verify if-statement.js
+```

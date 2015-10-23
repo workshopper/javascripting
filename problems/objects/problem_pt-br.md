@@ -1,7 +1,3 @@
----
-
-# OBJETOS
-
 Um objetos é uma lista de valores similar á um array, exceto que seus valores são identificados por chaves ao invés de inteiros.
 
 Aqui está um exemplo:
@@ -31,7 +27,6 @@ Use o `console.log()` para imprimir o objeto `pizza` no terminal.
 
 Verifique se o seu programa está correto usando este comando:
 
-`javascripting verify objects.js`
-
-
----
+```bash
+javascripting verify objects.js
+```

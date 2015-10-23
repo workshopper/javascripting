@@ -1,7 +1,3 @@
----
-
-# オブジェクト
-
 オブジェクトは、配列に似た値のリストです。配列と違い、各要素を整数ではなくキーで識別します。
 
 たとえば...
@@ -34,6 +30,6 @@ var pizza = {
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう...
 
-`javascripting verify objects.js`
-
----
+```bash
+javascripting verify objects.js
+```

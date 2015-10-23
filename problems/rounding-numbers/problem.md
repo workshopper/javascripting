@@ -1,7 +1,3 @@
----
-
-# ROUNDING NUMBERS
-
 We can do basic math using familiar operators like `+`, `-`, `*`, `/`, and `%`.
 
 For more complex math, we can use the `Math` object.
@@ -28,6 +24,6 @@ Use `console.log()` to print that number to the terminal.
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify rounding-numbers.js`
-
----
+```bash
+javascripting verify rounding-numbers.js
+```

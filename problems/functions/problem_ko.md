@@ -1,7 +1,3 @@
----
-
-# 함수
-
 함수는 입력을 받는 코드의 블록입니다. 그 입력을 처리해서 출력을 만듭니다.
 
 여기에 예제가 있습니다.
@@ -36,6 +32,6 @@ return food + ' tasted really good.';
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

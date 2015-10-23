@@ -1,7 +1,3 @@
----
-
-# IF STATEMENT
-
 Conditional statements are used to alter the control flow of a program, based on a specified boolean condition.
 
 A conditional statement looks like this:
@@ -31,6 +27,6 @@ Otherwise, print "**The fruit name has five characters or less.**"
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify if-statement.js`
-
----
+```bash
+javascripting verify if-statement.js
+```

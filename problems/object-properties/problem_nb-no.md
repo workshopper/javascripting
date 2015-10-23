@@ -1,7 +1,3 @@
----
-
-# OBJEKTEGENSKAPER
-
 Du kan bruke og endre objektegenskaper –– nøklene og verdiene et objekt inneholder –– svært likt som arrayer.
 
 Her er et eksempel som bruker **hakeparantes**:
@@ -42,6 +38,6 @@ Bruk `console.log()` til å skrive ut `types` egenskapen av `food` objektet til 
 
 Se om programmet ditt er riktig ved å kjøre denne kommandoen:
 
-`javascripting verify object-properties.js`
-
----
+```bash
+javascripting verify object-properties.js
+```

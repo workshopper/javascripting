@@ -1,7 +1,3 @@
----
-
-# FUNCTION ARGUMENTS
-
 A function can be declared to receive any number of arguments. Arguments can be from any type. An argument could be a string, a number, an array, an object and even another function.
 
 Here is an example:
@@ -34,6 +30,6 @@ After that, inside the parentheses of `console.log()`, call the `math()` functio
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify function-arguments.js`
-
----
+```bash
+javascripting verify function-arguments.js
+```

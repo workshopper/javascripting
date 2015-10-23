@@ -1,7 +1,3 @@
----
-
-# FOR 循环
-
 For 循环看起来是这样的：
 
 ```js
@@ -38,6 +34,6 @@ For 循环结束后，使用 `console.log()` 打印 `total` 变量到终端。
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify for-loop.js`
-
----
+```bash
+javascripting verify for-loop.js
+```

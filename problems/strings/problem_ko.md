@@ -1,7 +1,3 @@
----
-
-# 문자열
-
 **문자열**은 따옴표로 감싸진 값입니다.
 
 이는 작은따옴표도 될 수 있고 큰따옴표도 될 수 있습니다.
@@ -30,5 +26,3 @@ var someString = 'this is a string';
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
 `javascripting verify strings.js`
-
----

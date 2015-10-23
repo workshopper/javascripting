@@ -1,7 +1,3 @@
----
-
-# 配列をループする
-
 この課題では、**forループ**を使用して、配列の中の値を取得したり変更したりします。
 
 配列の値にアクセスするには、整数を使用します。
@@ -45,6 +41,6 @@ forループが終わったら、 `console.log()` を使って配列 `pets` を�
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify looping-through-arrays.js`
-
----
+```bash
+javascripting verify looping-through-arrays.js
+```

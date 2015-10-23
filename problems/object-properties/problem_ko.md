@@ -1,7 +1,3 @@
----
-
-# 객체 속성
-
 배열과 매우 비슷한 방법으로 객체의 속성(객체가 가지고 있는 키와 값)에 접근하고 그를 조작할 수 있습니다.
 
 **대괄호**를 사용하는 예제입니다.
@@ -42,6 +38,6 @@ var food = {
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify object-properties.js`
-
----
+```bash
+javascripting verify object-properties.js
+```

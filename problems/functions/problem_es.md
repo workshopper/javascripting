@@ -1,7 +1,3 @@
----
-
-# FUNCIONES
-
 Una función es un bloque de código que puede recibir un input y devolver un output.
 
 Vamos a utilizar la palabra reservada `return` para especificar lo que devuelve una función.
@@ -38,6 +34,6 @@ Dentro de los paréntesis de `console.log()`, llama a la función `eat()` con la
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

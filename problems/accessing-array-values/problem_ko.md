@@ -1,7 +1,3 @@
----
-
-# 배열 값에 접근하기
-
 배열 요소는 인덱스 숫자로 접근 할 수 있습니다.
 
 인덱스 숫자는 0에서 시작해 "배열의 프로퍼티 길이 - 1"까지 입니다.
@@ -10,9 +6,9 @@
 
 
 ```js
-	var pets = ['cat', 'dog', 'rat'];
+var pets = ['cat', 'dog', 'rat'];
 
-	console.log(pets[0]);
+console.log(pets[0]);
 ```
 
 위의 코드는 `pet`의 첫 번째 요소인 `cat` 문자열을 출력할 것입니다.
@@ -24,12 +20,12 @@
 유효한 표기법
 
 ```js
-	console.log(pets[0]);
+console.log(pets[0]);
 ```
 
 유효하지 않은 표기법
 ```
-	console.log(pets.1);
+console.log(pets.1);
 ```
 
 ## 도전 과제
@@ -46,6 +42,6 @@ var food = ['apple', 'pizza', 'pear'];
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify accessing-array-values.js`
-
----
+```bash
+javascripting verify accessing-array-values.js
+```

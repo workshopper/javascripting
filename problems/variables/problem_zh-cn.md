@@ -1,7 +1,3 @@
----
-
-# 变量
-
 变量就是一个可以引用具体值的名字。变量通过使用 `var` 及紧随其后的变量名来声明。
 
 下面是一个例子：
@@ -36,4 +32,3 @@ var example = 'some string';
 运行下面的命令来检查你的程序是否正确：
 
 `javascripting verify variables.js`
----

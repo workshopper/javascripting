@@ -17,5 +17,3 @@ En particular, estamos imprimiendo una **string** o cadena de caracteres a la te
 En el siguiente ejercicio nos concentramos en aprender más acerca de **strings**.
 
 Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
-
----

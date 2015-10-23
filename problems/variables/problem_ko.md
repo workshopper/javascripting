@@ -1,7 +1,3 @@
----
-
-# 변수
-
 변수는 특정 값을 참조하는 이름입니다. 변수는 `var`와 변수의 이름으로 선언합니다.
 
 예제를 보세요.
@@ -36,4 +32,3 @@ var example = 'some string';
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
 `javascripting verify variables.js`
----

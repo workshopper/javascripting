@@ -3,18 +3,18 @@
   "description": "Learn JavaScript by adventuring around in the terminal.",
   "version": "2.1.0",
   "repository": {
-    "url": "git://github.com/sethvincent/javascripting.git"
+    "url": "https://github.com/sethvincent/javascripting.git"
   },
   "author": "sethvincent",
   "bin": {
-    "javascripting": "index.js"
+    "javascripting": "./bin/javascripting"
   },
+  "main": "./index.js",
   "preferGlobal": true,
   "dependencies": {
-    "cli-md": "^0.1.0",
     "colors": "^1.0.3",
     "diff": "^1.2.1",
-    "workshopper-adventure": "^3.4.5"
+    "workshopper-adventure": "^4.0.4"
   },
   "license": "MIT"
 }

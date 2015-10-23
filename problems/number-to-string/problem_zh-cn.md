@@ -1,7 +1,3 @@
----
-
-# 数字转字符串
-
 有时候我们需要把一个数字转换成字符串。
 
 这时，你可以使用 `.toString()` 方法。例如：
@@ -23,6 +19,6 @@ n = n.toString();
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify number-to-string.js`
-
----
+```bash
+javascripting verify number-to-string.js
+```

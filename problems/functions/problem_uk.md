@@ -1,7 +1,3 @@
----
-
-# ФУНКЦІЇ
-
 Функція — це блок коду, що приймає деякі аргументи, оперує цими аргументами та повертає результат.
 
 Приклад:
@@ -36,6 +32,6 @@ return food + ' tasted really good.';
 
 Перевірте вашу відповідь запустивши команду:
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

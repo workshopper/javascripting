@@ -1,7 +1,3 @@
----
-
-# TAMANHO DA STRING
-
 Você irá frequentemente precisar saber quantos caracteres estão em uma string.
 
 Para isso você usará a propriedade `.length` da string. Aqui está um exemplo:
@@ -11,7 +7,7 @@ var example = 'example string';
 example.length;
 ```
 
-# OBSERVAÇÕES
+## OBSERVAÇÕES
 
 Tenha certeza de que existe um ponto entre `example` e `length`.
 
@@ -31,5 +27,3 @@ Use o `console.log` para imprimir o **length** (tamanho)  da string no terminal.
 **Verifique se o seu projeto está correto executando o comando:**
 
 `javascripting verify string-length.js`
-
----

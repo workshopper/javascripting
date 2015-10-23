@@ -1,7 +1,3 @@
----
-
-# VARRENDO ARRAYS COM LOOP
-
 Para este desafio usaremos um **loop for** para acessar e manipular uma lista de valores em um array.
 
 Podemos acessar os valores de um array usando um contador.
@@ -44,6 +40,6 @@ Depois do loop, use o `console.log()` para imprimir o array `pets` no terminal.
 
 Verifique se o seu programa está correto usando o comando:
 
-`javascripting verify looping-through-arrays.js`
-
----
+```bash
+javascripting verify looping-through-arrays.js
+```

@@ -1,7 +1,3 @@
----
-
-# 数値丸め
-
 基本的な数値処理には、`+`、 `-`、 `*`、 `/`、 `%` といった、おなじみの演算子を使います。
 
 より複雑な数値処理をするときは、 `Math` オブジェクトを使います。
@@ -29,6 +25,6 @@ Math.round(0.5);
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify rounding-numbers.js`
-
----
+```bash
+javascripting verify rounding-numbers.js
+```

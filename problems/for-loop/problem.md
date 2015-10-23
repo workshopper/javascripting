@@ -1,7 +1,3 @@
----
-
-# FOR LOOPS
-
 For loops look like this:
 
 ```js
@@ -38,6 +34,6 @@ After the for loop, use `console.log()` to print the `total` variable to the ter
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify for-loop.js`
-
----
+```bash
+javascripting verify for-loop.js
+```

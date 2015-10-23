@@ -1,7 +1,3 @@
----
-
-# FUNKSJONER
-
 En funksjon er en samling kode som tar imot data, prosesserer den dataen og lager et resultat.
 
 
@@ -37,6 +33,6 @@ Inni parantesene til `console.log()`, kall `eat()` funksjonen med stringen `bana
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

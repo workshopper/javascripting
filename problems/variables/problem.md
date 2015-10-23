@@ -1,7 +1,3 @@
----
-
-# VARIABLES
-
 A variable is a name that can reference a specific value. Variables are declared using `var` followed by the variable's name.
 
 Here's an example:
@@ -35,4 +31,3 @@ Then use `console.log()` to print the `example` variable to the console.
 Check to see if your program is correct by running this command:
 
 `javascripting verify variables.js`
----

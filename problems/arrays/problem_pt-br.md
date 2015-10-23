@@ -1,7 +1,3 @@
----
-
-# ARRAYS
-
 Um array é uma lista de valores. Aqui está um exemplo:
 
 ```js
@@ -18,6 +14,6 @@ Use o `console.log()` para imprimir o array `pizzaToppings` no terminal.
 
 Verifique se o seu programa está correto executando este comando:
 
-`javascripting verify arrays.js`
-
----
+```bash
+javascripting verify arrays.js
+```

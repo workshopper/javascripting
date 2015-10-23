@@ -1,7 +1,3 @@
----
-
-# for ループ
-
 for ループの例です...
 
 ```js
@@ -39,6 +35,6 @@ total += i;
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify for-loop.js`
-
----
+```bash
+javascripting verify for-loop.js
+```

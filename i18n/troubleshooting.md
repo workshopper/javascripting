@@ -25,4 +25,3 @@
  * Make sure you didn't omit parens, since otherwise compiler would not be able to parse it
  * Make sure you didn't do any typos in the string itself
 
-> **Need help?** Ask a question at: github.com/nodeschool/discussions/issues

@@ -1,7 +1,3 @@
----
-
-# 数组过滤
-
 有许多种方法可以对数组进行操作。
 
 一个常见的任务是过滤一个数组使之仅包含特定的值。
@@ -44,6 +40,6 @@ function evenNumbers (number) {
 
 运行下面的命令来检查你的程序是否正确：
 
-`javascripting verify array-filtering.js`
-
----
+```bash
+javascripting verify array-filtering.js
+```

@@ -1,7 +1,3 @@
----
-
-# STRINGS
-
 Uma **string** pode ser qualquer valor cercado de aspas.
 
 Pode ser usado aspas simples ou aspas duplas:
@@ -30,5 +26,3 @@ Use o `console.log` para imprimir a variável **someString** para o terminal.
 Verifique se o seu programa está correto executando este comando:
 
 `javascripting verify strings.js`
-
----

@@ -1,7 +1,3 @@
----
-
-# FUNKSJONSARGUMENTER
-
 En funksjon kan deklareres til å ta imot så mange argumenter som nødvendig. Argumentene kan være av alle slags typer; en string, et nummer, et array, et objekt og tilogmed en annen funksjon.
 
 Her er et eksempel:
@@ -34,6 +30,6 @@ Tilslutt, inni parantesene til `console.log`, kaller du `match` funksjonen med n
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify function-arguments.js`
-
----
+```bash
+javascripting verify function-arguments.js
+```

@@ -1,7 +1,3 @@
----
-
-# LOOPING THROUGH ARRAYS
-
 For this challenge we will use a **for loop** to access and manipulate a list of values in an array.
 
 Accessing array values can be done using an integer.
@@ -44,6 +40,6 @@ After the for loop, use `console.log()` to print the `pets` array to the termina
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify looping-through-arrays.js`
-
----
+```bash
+javascripting verify looping-through-arrays.js
+```

@@ -1,7 +1,3 @@
----
-
-# 배열
-
 배열은 값의 목록입니다. 예를 들면 다음과 같습니다.
 
 ```js
@@ -18,6 +14,7 @@ var pets = ['cat', 'dog', 'rat'];
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify arrays.js`
+```bash
+javascripting verify arrays.js
+```
 
----

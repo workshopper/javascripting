@@ -1,7 +1,3 @@
----
-
-# FAZENDO LOOP COM FOR
-
 Loops com *for* são dessa forma:
 
 ```js
@@ -38,6 +34,6 @@ Após o loop, use o `console.log()` para imprimir a variável `total` ao termina
 
 Verifique se o seu programa está correto executando este comando:
 
-`javascripting verify for-loop.js`
-
----
+```bash
+javascripting verify for-loop.js
+```

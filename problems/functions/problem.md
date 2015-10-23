@@ -1,7 +1,3 @@
----
-
-# FUNCTIONS
-
 A function is a block of code that takes input, processes that input, and then produces output.
 
 Here is an example:
@@ -37,6 +33,6 @@ Inside of the parentheses of `console.log()`, call the `eat()` function with the
 
 Check to see if your program is correct by running this command:
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

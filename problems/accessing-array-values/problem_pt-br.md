@@ -1,7 +1,3 @@
----
-
-# ACESSANDO VALORES DE UM ARRAY
-
 Podemos acessar elementos de um array através de um número que representa sua posição, conhecido como índice.
 
 O valor do índice inicia com 0 e vai até o valor que representa o tamanho do array menos 1.
@@ -10,9 +6,9 @@ Aqui está um exemplo:
 
 
 ```js
-	var pets = ['cat', 'dog', 'rat'];
+var pets = ['cat', 'dog', 'rat'];
 
-	console.log(pets[0]);
+console.log(pets[0]);
 ```
 
 O código acima imprime o primeiro elemento do array `pets` - a string `cat`.
@@ -24,12 +20,12 @@ Utilizar ponto para acessar o elemento não é válido.
 Uso válido:
 
 ```js
-	console.log(pets[0]);
+console.log(pets[0]);
 ```
 
 Uso invalido:
 ```
-	console.log(pets.1);
+console.log(pets.1);
 ```
 
 ## Desafio:
@@ -46,6 +42,6 @@ Use o `console.log()` para imprimir o segundo valor do array no terminal.
 
 Verifique se o seu programa está correto executando este comando:
 
-`javascripting verify accessing-array-values.js`
-
----
+```bash
+javascripting verify accessing-array-values.js
+```

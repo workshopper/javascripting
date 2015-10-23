@@ -1,7 +1,3 @@
----
-
-# 数値を文字列に
-
 数値を文字列に変換したいことがあります。
 
 そういう時は `toString()` メソッドを使います。たとえば...
@@ -23,6 +19,6 @@ n = n.toString();
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify number-to-string.js`
-
----
+```bash
+javascripting verify number-to-string.js
+```

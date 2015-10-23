@@ -1,7 +1,3 @@
----
-
-# ARREDONDANDO NÚMEROS
-
 Podemos fazer operações simples de matemática usando operadores como `+`, `-`, `*`, `/`, e `%`.
 
 Para cálculos complexos, usamos o objeto `Math`.
@@ -28,6 +24,6 @@ Use o `console.log()` para imprimir o número no terminal.
 
 Verifique se o seu programa está correto executando o comando:
 
-`javascripting verify rounding-numbers.js`
-
----
+```bash
+javascripting verify rounding-numbers.js
+```

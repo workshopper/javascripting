@@ -1,7 +1,3 @@
----
-
-# IF UTTRYKK
-
 En beslutning brukes for å endre kontrollflyten til et program, basert på en valgt betingelse.
 
 En beslutning ser slik ut:
@@ -31,6 +27,6 @@ Hvis ikke, skriv ut "**The fruit name has five characters or less.**" til skjerm
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:
 
-`javascripting verify if-statement.js`
-
----
+```bash
+javascripting verify if-statement.js
+```

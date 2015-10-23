@@ -1,7 +1,3 @@
----
-
-# 数组
-
 数组就是由一组值构成的列表。下面是一个例子：
 
 ```js
@@ -18,6 +14,6 @@ var pets = ['cat', 'dog', 'rat'];
 
 运行下面的命令检查你的程序是否正确：
 
-`javascripting verify arrays.js`
-
----
+```bash
+javascripting verify arrays.js
+```

@@ -1,7 +1,3 @@
----
-
-# 関数
-
 関数はコードのまとまりです。入力を受け取ります。受け取った入力を処理し、結果を返します。
 
 たとえば...
@@ -40,6 +36,6 @@ return food + ' tasted really good.';
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
-`javascripting verify functions.js`
-
----
+```bash
+javascripting verify functions.js
+```

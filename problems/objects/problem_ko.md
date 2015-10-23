@@ -1,7 +1,3 @@
----
-
-# 객체
-
 객체는 배열과 비슷한 값의 목록입니다. 배열과 다른 점은 정수 대신 키를 사용해 값을 확인하는 점입니다.
 
 예제를 보세요.
@@ -31,7 +27,6 @@ var pizza = {
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.
 
-`javascripting verify objects.js`
-
-
----
+```bash
+javascripting verify objects.js
+```

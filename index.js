@@ -1,19 +1,19 @@
-#!/usr/bin/env node
-
-var path = require('path');
-var adventure = require('workshopper-adventure/adventure');
-var jsing = adventure({
-    name: 'javascripting'
-  , appDir: __dirname
+var jsing = require('workshopper-adventure')({
+    appDir: __dirname
   , languages: ['en', 'ja', 'ko', 'es', 'zh-cn', 'pt-br', 'nb-no', 'uk']
+  , header: require('workshopper-adventure/default/header')
+  , footer: require('./lib/footer.js')
 });
 
-var problems = require('./menu.json');
+jsing.addAll(require('./menu.json').map(function (problem) {
+  return {
+    name: problem,
+    fn: function () {
+      var p = problem.toLowerCase().replace(/\s/g, '-');
+      var dir = require('path').join(__dirname, 'problems', p);
+      return require(dir);
+    }
+  }
+}))
 
-problems.forEach(function (problem) {
-  var p = problem.toLowerCase().replace(/\s/g, '-');
-  var dir = path.join(__dirname, 'problems', p);
-  jsing.add(problem, function () { return require(dir); });
-});
-
-jsing.execute(process.argv.slice(2));
+module.exports = jsing;

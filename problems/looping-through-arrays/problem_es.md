@@ -1,7 +1,3 @@
----
-
-# RECORRIENDO ARRAYS
-
 Para este ejercicio usaremos un bucle **for** para acceder y manipular una lista de valores en un array.
 
 Se puede acceder a los valores de un array utilizando un contador.
@@ -45,6 +41,6 @@ Utiliza `console.log()` para imprimir el array `pets` a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify looping-through-arrays.js`
-
----
+```bash
+javascripting verify looping-through-arrays.js
+```
