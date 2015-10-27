@@ -31,8 +31,8 @@ Like above, define a variable named `filtered` that references the result of `nu
 The function that you pass to the `.filter()` method will look something like this:
 
 ```js
-function evenNumbers (number) {
-  return number % 2 === 0;
+function evenNumbers (numbers) {
+  return numbers % 2 === 0;
 }
 ```
 
