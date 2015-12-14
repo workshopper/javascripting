@@ -1,7 +1,7 @@
 {
   "name": "javascripting",
   "description": "Learn JavaScript by adventuring around in the terminal.",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "repository": {
     "url": "https://github.com/sethvincent/javascripting.git"
   },
