@@ -1,6 +1,6 @@
 ---
 
-# WIN: 17 CARACTERES
+# WIN: 14 CARACTERES
 
 Lo hiciste! La string `example string` tiene 14 caracteres.
 
