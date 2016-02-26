@@ -2,7 +2,7 @@
 
 # MAESTRO CONDICIONAL
 
-Lo haz hecho! La string `naranja` tiene más de cinco caracteres.
+Lo haz hecho! El string `orange` tiene más de cinco caracteres.
 
 Preparate para practicar **for loops** en el próximo ejercicio!
 

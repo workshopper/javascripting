@@ -1,8 +1,8 @@
 ---
 
-# WIN: 17 CARACTERES
+# WIN: 14 CARACTERES
 
-Lo hiciste! La string `una string de ejemplo` tiene 17 caracteres.
+Lo hiciste! La string `example string` tiene 14 caracteres.
 
 Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
