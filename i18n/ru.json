@@ -1,0 +1,23 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "ВВЕДЕНИЕ"
+        , "VARIABLES":              "ПЕРЕМЕННЫЕ"
+        , "STRINGS":                "СТРОКИ"
+        , "STRING LENGTH":          "ДЛИНА СТРОКИ"
+        , "REVISING STRINGS":       "МОДИФИКАЦИЯ СТРОКИ"
+        , "NUMBERS":                "ЧИСЛА"
+        , "ROUNDING NUMBERS":       "ОКРУГЛЕНИЕ ЧИСЕЛ"
+        , "NUMBER TO STRING":       "ЧИСЛО В СТРОКУ"
+        , "IF STATEMENT":           "ОПЕРАТОР IF"
+        , "FOR LOOP":               "ЦИКЛ FOR"
+        , "ARRAYS":                 "МАССИВЫ"
+        , "ARRAY FILTERING":        "ФИЛЬТРАЦИЯ МАССИВОВ"
+        , "ACCESSING ARRAY VALUES": "ПОЛУЧЕНИЕ ЭЛЕМЕНТОВ МАССИВА"
+        , "LOOPING THROUGH ARRAYS": "ОБХОД МАССИВА В ЦИКЛЕ"
+        , "OBJECTS":                "ОБЪЕКТЫ"
+        , "OBJECT PROPERTIES":      "СВОЙСТВА ОБЪЕКТОВ"
+        , "FUNCTIONS":              "ФУНКЦИИ"
+        , "FUNCTION ARGUMENTS":     "АРГУМЕНТЫ ФУНКЦИЙ"
+        , "SCOPE":                  "ОБЛАСТЬ ВИДИМОСТИ"
+    }
+}
