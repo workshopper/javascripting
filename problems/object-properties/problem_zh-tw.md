@@ -24,7 +24,7 @@ example['pizza'];
 
 ## 挑戰：
 
-創建名為 `object-properties.js` 的檔案。
+建立一個名為 `object-properties.js` 的檔案。
 
 在檔案中，像這樣定義名為 `food` 的變數：
 

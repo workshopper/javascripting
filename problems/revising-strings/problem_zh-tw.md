@@ -14,7 +14,7 @@ console.log(example);
 
 ## 挑戰：
 
-創建一個名為 `revising-strings.js` 的檔案。
+建立一個名為 `revising-strings.js` 的檔案。
 
 定義一個名為 `pizza` 的變數，並且賦予它字串 `'pizza is alright'`。
 

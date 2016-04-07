@@ -16,9 +16,9 @@ example.length
 
 ## 挑戰：
 
-創建一個名為 `string-length.js` 的檔案。
+建立一個名為 `string-length.js` 的檔案。
 
-在檔案中，創建名為 `example` 的變數。
+在檔案中，建立名為 `example` 的變數。
 
 **將字串 `'example string'` 賦給變數 `example`。**
 

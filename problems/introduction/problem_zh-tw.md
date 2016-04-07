@@ -1,6 +1,6 @@
-為了讓工作環境井然有序，我們首先來創建一個新資料夾。 
+為了讓工作環境井然有序，我們首先來建立一個新資料夾。 
 
-執行下面的這段命令來創建一個名為 `javascripting` 的資料夾（當然你也可以使用其他你喜歡的名字）：
+執行下面的這段命令來建立一個名為 `javascripting` 的資料夾（當然你也可以使用其他你喜歡的名字）：
 
 ```bash
 mkdir javascripting
@@ -12,7 +12,7 @@ mkdir javascripting
 cd javascripting
 ```
 
-創建一個名為 `introduction.js` 的檔案：
+建立一個名為 `introduction.js` 的檔案：
 
 非 Windows 用戶，請執行 `touch introduction.js`；Windows 用戶，請執行 `type NUL > introduction.js`（注意，`type` 也是這個命令的一部分！）
 

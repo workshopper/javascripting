@@ -20,7 +20,7 @@ greetings[1];
 
 ## 挑戰：
 
-創建一個名為 `looping-through-arrays.js` 的檔案。
+建立一個名為 `looping-through-arrays.js` 的檔案。
 
 在檔案中定義一個變數 `pets`，使它引用下面的陣列：
 
@@ -28,7 +28,7 @@ greetings[1];
 ['cat', 'dog', 'rat'];
 ```
 
-創建一個 for 迴圈，把陣列裡的每一個字串都變成複數單字（尾端加上s）。
+建立一個 for 迴圈，把陣列裡的每一個字串都變成複數單字（尾端加上s）。
 
 在 for 迴圈裡，你可以使用下面的語句：
 

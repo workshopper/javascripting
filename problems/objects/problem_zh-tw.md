@@ -11,7 +11,7 @@ var foodPreferences = {
 
 ## 挑戰：
 
-創建名為 `objects.js` 的檔案。
+建立一個名為 `objects.js` 的檔案。
 
 在檔案裡，像這樣定義一個變數 `pizza`：
 

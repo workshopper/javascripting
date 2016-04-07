@@ -18,7 +18,7 @@ var filtered = pets.filter(function (pet) {
 
 ## 挑戰：
 
-創建一個名為 `array-filtering.js` 的檔案。
+建立一個名為 `array-filtering.js` 的檔案。
 
 在該檔案中，定義一個名為 `numbers` 的變數，並賦予下面的值：
 
@@ -28,7 +28,7 @@ var filtered = pets.filter(function (pet) {
 
 像上面的例子那樣，定義一個 `filtered` 變數，使它引用 `numbers.filter()` 的結果。
 
-傳遞給 `.filter()` 方法的函數應該像下面這樣：
+傳遞給 `.filter()` 方法的函式應該像下面這樣：
 
 ```js
 function evenNumbers (number) {

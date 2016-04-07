@@ -6,7 +6,7 @@
 
 ## 挑戰：
 
-創建一個名為 `rounding-numbers.js` 的檔案。
+建立一個名為 `rounding-numbers.js` 的檔案。
 
 在檔案中定義名為 `roundUp` 的變數，並賦值浮點數 `1.5`。
 

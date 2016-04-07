@@ -9,13 +9,13 @@
 ```
 # 注
 
-為了保持一致的風格，本教程中我們將只使用單引號。
+為了保持一致的風格，本教學中我們將只使用單引號。
 
 ## 挑戰：
 
-創建一個名為 `strings.js` 的檔案。
+建立一個名為 `strings.js` 的檔案。
 
-在檔案中像這樣創建一個名為 `someString` 的變數：
+在檔案中像這樣建立一個名為 `someString` 的變數：
 
 ```js
 var someString = 'this is a string';

@@ -16,11 +16,11 @@ if (n > 1) {
 
 ## 挑戰：
 
-創建一個名為 `if-statement.js` 的檔案。
+建立一個名為 `if-statement.js` 的檔案。
 
 在檔案中，宣告一個名為 `fruit` 的變數。
 
-給 `fruit` 變數賦予 **字串** 類型的值 **orange**。
+給 `fruit` 變數賦予 **字串** 型別的值 **orange**。
 
 接下來要使用 `console.log()`。如果 `fruit` 值的長度大於五，印出 "**The fruit name has more than five characters.**"；否則就印出 "**The fruit name has five characters or less.**"
 

@@ -21,7 +21,7 @@ var example = 'some string';
 
 ## 挑戰：
 
-創建一個名為 `variables.js` 的檔案。
+建立一個名為 `variables.js` 的檔案。
 
 在檔案中宣告一個名為 `example` 的變數。
 

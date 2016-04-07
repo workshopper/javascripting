@@ -9,7 +9,7 @@ n = n.toString();
 
 ## 挑戰：
 
-創建名為 `number-to-string.js` 的檔案。
+建立名為 `number-to-string.js` 的檔案。
 
 在檔案中定義名為 `n` 的變數，並賦值 `128`；
 
