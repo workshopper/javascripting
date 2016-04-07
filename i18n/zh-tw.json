@@ -16,8 +16,8 @@
 		, "LOOPING THROUGH ARRAYS": "以迴圈存取陣列中的值"
 		, "OBJECTS":                "物件"
 		, "OBJECT PROPERTIES":      "物件的屬性"
-		, "FUNCTIONS":              "函數"
-		, "FUNCTION ARGUMENTS":     "函數的參數"
+		, "FUNCTIONS":              "函式"
+		, "FUNCTION ARGUMENTS":     "函式的參數"
 		, "SCOPE":                  "作用域"
 	}
 }

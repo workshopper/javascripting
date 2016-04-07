@@ -36,7 +36,7 @@ function evenNumbers (number) {
 }
 ```
 
-使用 `console.log()` 印出變數 `filtered` 陣列到終端上。
+使用 `console.log()` 印出變數 `filtered` 陣列到終端機上。
 
 執行下面的命令來檢查你撰寫的程式是否正確：
 

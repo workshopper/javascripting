@@ -20,7 +20,7 @@ console.log(example);
 
 使用 `.replace()` 方法將 `alright` 替換為 `wonderful`。
 
-用 `console.log()` 將 `.replace()` 方法的結果輸出到終端。
+用 `console.log()` 將 `.replace()` 方法的結果輸出到終端機上。
 
 執行下面的命令來檢查你寫的程式是否正確：
 

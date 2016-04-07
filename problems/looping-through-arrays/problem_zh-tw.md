@@ -22,7 +22,7 @@ greetings[1];
 
 建立一個名為 `looping-through-arrays.js` 的檔案。
 
-在檔案中定義一個變數 `pets`，使它引用下面的陣列：
+在該檔案中定義一個名為 `pets` 的變數，使它引用下面的陣列：
 
 ```js
 ['cat', 'dog', 'rat'];
@@ -36,7 +36,7 @@ greetings[1];
 pets[i] = pets[i] + 's';
 ```
 
-最後，使用 `console.log()` 輸出 `pets` 陣列到終端上。
+最後，使用 `console.log()` 輸出 `pets` 陣列到終端機上。
 
 執行下面的命令檢查你撰寫的程式是否正確：
 

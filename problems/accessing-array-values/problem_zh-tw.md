@@ -31,7 +31,7 @@ console.log(pets.1);
 
 建立一個名為 `accessing-array-values.js` 的檔案。
 
-在檔案中定義一個陣列 `food`：
+在該檔案中定義一個陣列 `food`：
 ```js
 var food = ['apple', 'pizza', 'pear'];
 ```

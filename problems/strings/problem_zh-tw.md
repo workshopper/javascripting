@@ -15,13 +15,13 @@
 
 建立一個名為 `strings.js` 的檔案。
 
-在檔案中像這樣建立一個名為 `someString` 的變數：
+在該檔案中像這樣建立一個名為 `someString` 的變數：
 
 ```js
 var someString = 'this is a string';
 ```
 
-使用 `console.log` 印出變數 **someString** 到終端。
+使用 `console.log` 印出變數 **someString** 到終端機上。
 
 執行下面的命令來檢查你寫的程式是否正確：
 

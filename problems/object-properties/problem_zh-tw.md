@@ -10,7 +10,7 @@ var example = {
 console.log(example['pizza']);
 ```
 
-上面的例子將印出 `'yummy'` 到終端。
+上面的例子將印出 `'yummy'` 到終端機上。
 
 你也可以使用**點**來得到相同的結果：
 
@@ -26,7 +26,7 @@ example['pizza'];
 
 建立一個名為 `object-properties.js` 的檔案。
 
-在檔案中，像這樣定義名為 `food` 的變數：
+在該檔案中，像這樣定義一個名為 `food` 的變數：
 
 ```js
 var food = {
@@ -34,7 +34,7 @@ var food = {
 };
 ```
 
-使用 `console.log()` 印出 `food` 物件的 `types` 屬性到終端。
+使用 `console.log()` 印出 `food` 物件的 `types` 屬性到終端機上。
 
 執行下面的命令來檢查你寫的程式是否正確：
 

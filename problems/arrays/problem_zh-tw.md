@@ -6,9 +6,9 @@ var pets = ['cat', 'dog', 'rat'];
 
 ### 挑戰：
 
-建立名為 `arrays.js` 的檔案。
+建立一個名為 `arrays.js` 的檔案。
 
-在檔案中定義一個變數 `pizzaToppings`，其值依照順序為包含了 `tomato sauce, cheese, pepperoni` 這三個字串的陣列。
+在該檔案中定義一個名為 `pizzaToppings` 的變數，其值依照順序為包含了 `tomato sauce, cheese, pepperoni` 這三個字串的陣列。
 
 使用 `console.log()` 將 `pizzaToppings` 陣列印出來。
 
