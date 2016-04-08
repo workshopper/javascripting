@@ -1,0 +1,23 @@
+{
+	"exercise": {
+		  "INTRODUCTION":           "入門"
+		, "VARIABLES":              "變數"
+		, "STRINGS":                "字串"
+		, "STRING LENGTH":          "字串長度"
+		, "REVISING STRINGS":       "修改字串"
+		, "NUMBERS":                "數字"
+		, "ROUNDING NUMBERS":       "數字取整數"
+		, "NUMBER TO STRING":       "數字轉字串"
+		, "IF STATEMENT":           "IF 條件式"
+		, "FOR LOOP":               "FOR 迴圈"
+		, "ARRAYS":                 "陣列"
+		, "ARRAY FILTERING":        "陣列過濾"
+		, "ACCESSING ARRAY VALUES": "存取陣列中的值"
+		, "LOOPING THROUGH ARRAYS": "以迴圈存取陣列中的值"
+		, "OBJECTS":                "物件"
+		, "OBJECT PROPERTIES":      "物件的屬性"
+		, "FUNCTIONS":              "函式"
+		, "FUNCTION ARGUMENTS":     "函式的參數"
+		, "SCOPE":                  "作用域"
+	}
+}
