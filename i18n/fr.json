@@ -1,0 +1,23 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "INTRODUCTION"
+        , "VARIABLES":              "VARIABLES"
+        , "STRINGS":                "CHAINES DE CARACTERES"
+        , "STRING LENGTH":          "LONGUEUR DE CHAINES LE CARACTERES"
+        , "REVISING STRINGS":       "INVERSER UNE CHAINE DE CARACTERES"
+        , "NUMBERS":                "NOMBRES"
+        , "ROUNDING NUMBERS":       "ARRONDIS"
+        , "NUMBER TO STRING":       "NOMBRES EN CHAINES DE CARACTERES"
+        , "IF STATEMENT":           "OPERATEUR IF"
+        , "FOR LOOP":               "BOUCLE FOR"
+        , "ARRAYS":                 "TABLEAUX"
+        , "ARRAY FILTERING":        "FILTRAGE DE TABLEAUX"
+        , "ACCESSING ARRAY VALUES": "ACCEDER AUX VALEURS D'UN TABLEAU"
+        , "LOOPING THROUGH ARRAYS": "ITERER SUR UN TABLEAU"
+        , "OBJECTS":                "OBJETS"
+        , "OBJECT PROPERTIES":      "PROPRIETES D'OBJETS"
+        , "FUNCTIONS":              "FONCTIONS"
+        , "FUNCTION ARGUMENTS":     "ARGUMENTS DE FONCTIONS"
+        , "SCOPE":                  "SCOPE"
+    }
+}
