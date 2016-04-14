@@ -1,6 +1,8 @@
-A **string** is any value surrounded by quotes.
+A **string** is a sequence of characters. A ***character*** is, roughly
+speaking, a written symbol. Examples of characters are letters, numbers,
+punctuation marks, and spaces.
 
-It can be single or double quotes:
+String values are surrounded by either single or double quotation marks.
 
 ```js
 'this is a string'
@@ -10,7 +12,7 @@ It can be single or double quotes:
 
 ## NOTE
 
-Try to stay consistent. In this workshop we'll only use single quotes.
+Try to stay consistent. In this workshop we'll only use single quotation marks.
 
 ## The challenge:
 
