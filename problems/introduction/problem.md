@@ -18,7 +18,7 @@ Create a file named `introduction.js`:
 touch introduction.js
 ```
 
-or if you're on windows, 
+Or if you're on Windows: 
 ```bash
 type NUL > introduction.js
 ```
