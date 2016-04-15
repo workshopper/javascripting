@@ -2,7 +2,7 @@ Pour ce défi nous utiliserons une **boucle for** pour accéder et manipuler une
 
 L'accès à des valeurs de tableaux peut être effectué en utilisant un nombre entier.
 
-Pour chaque élément du tableau est identifié par un nombre, commençant à `0`.
+Chaque élément du tableau est identifié par un nombre, commençant à `0`.
 
 Donc dans ce tableau, `hi` est identifié par le nombre `1` :
 

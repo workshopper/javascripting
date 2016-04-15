@@ -1,6 +1,6 @@
 Les cases du tableau peuvent être accédées via leur index.
 
-Les indexes doivent être des nombres allant de zero à la longuer du tableaux moins un.
+Les indexes doivent être des nombres allant de zero à la longueur du tableaux moins un.
 
 Voici un exemple :
 

@@ -26,7 +26,7 @@ Dans ce fichier, définissez une variable nommée `numbers` qui contient ce tabl
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
-Comme ci-dessus, définissez une variable nommée `filtered` qui fait contient le résultat de `numbers.filter()`.
+Comme ci-dessus, définissez une variable nommée `filtered` qui contient le résultat de `numbers.filter()`.
 
 La fonction que vous passez la méthode `.filter()` va ressembler à ça :
 

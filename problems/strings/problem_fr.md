@@ -16,7 +16,7 @@ Essayez de rester cohérent. Dans ce TP, nous n'allons utiliser que des guilleme
 
 Pour ce défi, créez un fichier nommé `chaines.js`.
 
-Dans ce fichier, créez uen variable nommée `someString` comme cela :
+Dans ce fichier, créez une variable nommée `someString` comme cela :
 
 ```js
 var someString = 'this is a string';

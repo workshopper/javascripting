@@ -25,5 +25,5 @@ Utilisez `console.log()` pour afficher ce nombre dans le terminal.
 Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
-javascripting verify rounding-numbers.js
+javascripting verify nombres-arrondis.js
 ```
