@@ -20,7 +20,7 @@ L'exemple ci-dessus va afficher dans le terminal `hello world`.
 
 Créer un fichier nommé `arguments-de-fonction.js`.
 
-Dans ce fichier, définissez une fonction nommée `math` qui prend trois arguments. Il est important que vous compreniez que les noms d'arguments ne sont seulement utilisés pour leur faire référence.
+Dans ce fichier, définissez une fonction nommée `math` qui prend trois arguments. Il est important que vous compreniez que les noms d'arguments ne sont seulement utilisés que pour leur faire référence.
 
 Nommez chaque argument comme vous le souhaitez.
 

@@ -27,7 +27,7 @@ foo(); // 4, 2, 48
 IIFE, Immediately Invoked Function Expression, est un schéma commun pour créer des scopes locaux
 exemple:
 ```js
-	(function(){ // l'expression `function` est entourrée par des parenthèses
+	(function(){ // l'expression `function` est entourée par des parenthèses
 		// les variables définies ici
 		// ne sont pas accessibles en dehors
 	})(); // la fonction est appelée immédiatement

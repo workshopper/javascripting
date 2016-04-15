@@ -6,7 +6,7 @@ Dans ce défi, nous allons utiliser l'objet `Math` pour arrondir des nombres.
 
 ## Le défi :
 
-Créer un fichier nomém `nombres-arrondis.js`.
+Créer un fichier nommé `nombres-arrondis.js`.
 
 Dans ce fichier, définissez une variable nommée `roundUp` qui contient le flottant `1.5`.
 

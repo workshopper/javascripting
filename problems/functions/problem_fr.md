@@ -22,7 +22,7 @@ Créer un fichier nommé `fonctions.js`.
 
 Dans ce fichier, définissez une fonction nommée `eat` qui prend un argument nommé `food` qui est considéré comme étant une chaîne de caractères.
 
-Dans cette fonction, retournez l'argument `food` comme celà :
+Dans cette fonction, retournez l'argument `food` comme cela :
 
 ```js
 return food + ' tasted really good.';

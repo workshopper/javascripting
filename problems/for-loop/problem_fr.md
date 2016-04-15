@@ -19,7 +19,7 @@ Créer un fichier nommé `boucle-for.js`.
 
 Dans ce fichier, définissez une variable nommée `total` et assignez lui la valeur `0`.
 
-Créez une seconde variabel nommée `limit` et assignez lui la valeur `10`.
+Créez une seconde variable nommée `limit` et assignez lui la valeur `10`.
 
 Créez une boucle for avec une variable `i` commençant à 0 et s'incrémentant de 1 à chaque itération de la boucle. La boucle doit s'exécuter aussi longtemps que `i` est inférieur à `limit`.
 

@@ -11,7 +11,7 @@ var pets = ['cat', 'dog', 'rat'];
 console.log(pets[0]);
 ```
 
-Le code ci-dessus affichera le premier élément du tableau `pets` - la chaine de caracteres `cat`.
+Le code ci-dessus affichera le premier élément du tableau `pets` - la chaine de caractères `cat`.
 
 Les éléments de tableaux doivent uniquement être accedées au travers de la notation des crochets.
 
