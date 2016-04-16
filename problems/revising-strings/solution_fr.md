@@ -1,8 +1,8 @@
 ---
 
-# OUI, LA PIZZA _EST_ MAGNIFIQUE.
+# OUI, LA PIZZA C'EST _MERVEILLEUX_.
 
-Bon boulot avec cette méthode `.replace()` !
+Bon boulot avec cette méthode `.replace()` !
 
 Nous allons ensuite étudier les **nombres**.
 

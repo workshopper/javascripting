@@ -1,9 +1,8 @@
-Les cases du tableau peuvent être accédées via leur index.
+On peut accéder aux cases du tableau via leurs index.
 
-Les indexes doivent être des nombres allant de zero à la longueur du tableaux moins un.
+Les index doivent être des nombres allant de zero à la longueur du tableaux moins un.
 
 Voici un exemple :
-
 
 ```js
 var pets = ['cat', 'dog', 'rat'];
@@ -13,9 +12,7 @@ console.log(pets[0]);
 
 Le code ci-dessus affichera le premier élément du tableau `pets` - la chaine de caractères `cat`.
 
-Les éléments de tableaux doivent uniquement être accedées au travers de la notation des crochets.
-
-La notation en point est invalide.
+On ne doit accéder aux éléments de tableaux qu'au travers de la notation « crochets » : la notation en point est invalide.
 
 Notation valide :
 

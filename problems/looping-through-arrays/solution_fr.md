@@ -1,8 +1,8 @@
 ---
 
-# SUCCES ! PLEIN D'ANIMAUX !
+# SUCCÈS ! PLEIN D'ANIMAUX !
 
-Tous les éléments dans le tableau `pets` sont maintenant au pluriel !
+Tous les éléments dans le tableau `pets` sont maintenant au pluriel !
 
 Dans le prochain défi, nous allons découvrir les **objets**.
 

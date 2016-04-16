@@ -1,6 +1,6 @@
 ---
 
-# DEUXIEME ELEMENT DU TABLEAU AFFICHE !
+# DEUXIÈME ÉLÉMENT DU TABLEAU AFFICHÉ !
 
 Vous avez réussi à accéder au second élément du tableau.
 

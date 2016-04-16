@@ -1,6 +1,6 @@
 ---
 
-# CE NOMBRE EST MAINTENANT UNE CHAINE DE CARACTERES !
+# CE NOMBRE EST MAINTENANT UNE CHAÎNE DE CARACTÈRES !
 
 Excellent. Vous avez réussi à convertir un nombre en chaîne de caractères.
 

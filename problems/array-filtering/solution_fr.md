@@ -1,6 +1,6 @@
 ---
 
-# FILTRÉ !
+# FILTRÉ !
 
 Vous avez réussi à filtrer le tableau.
 
