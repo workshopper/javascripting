@@ -1,6 +1,6 @@
 ---
 
-# VOUS AVEZ CRÉER UNE VARIABLE !
+# VOUS AVEZ CRÉÉ UNE VARIABLE !
 
 Bon boulot.
 

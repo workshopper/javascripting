@@ -1,6 +1,6 @@
-Vous pouvez accéder et manipuler des propriétés d'objets —— les clés et valeurs qu'un objet contient —— en utilisant des méthodes très similaires aux tableaux.
+Vous pouvez manipuler les propriétés d'objets — les clés et valeurs qu'un objet contient — en utilisant des méthodes très similaires aux tableaux.
 
-Voici un example utilisant des **crochets**:
+Voici un example utilisant des **crochets** :
 
 ```js
 var example = {
@@ -10,9 +10,9 @@ var example = {
 console.log(example['pizza']);
 ```
 
-Le code ci-dessus va afficher la chaine de caractères `'yummy'` dans le terminal.
+Le code ci-dessus va afficher la chaine de caractères `yummy` dans le terminal.
 
-Une alternative consiste à utiliser la **notation en point** pour avoir le même résultat :
+Une alternative consiste à utiliser la **notation en point** pour avoir le même résultat :
 
 ```js
 example.pizza;
@@ -22,11 +22,11 @@ example['pizza'];
 
 Les deux lignes de code ci-dessus renverront `yummy`.
 
-## Le défi :
+## Le défi :
 
 Créez un fichier nommé `proprietes-objet.js`.
 
-Dans ce fichier, définissez une variable nommée `food` comme ceci :
+Dans ce fichier, définissez une variable nommée `food` comme ceci :
 
 ```js
 var food = {

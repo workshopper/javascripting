@@ -1,10 +1,10 @@
 ---
 
-# VOUS L'AVEZ FAIT !
+# VOUS AVEZ RÉUSSI !
 
 Tout ce qui est entre les parenthèses de `console.log()` est affiché dans le terminal.
 
-Donc :
+Donc :
 
 ```js
 console.log('hello');
@@ -12,7 +12,7 @@ console.log('hello');
 
 affiche `hello` dans le terminal.
 
-Actuellement nous affichons une **chaine de caracteres** dans le terminal : `hello`.
+Pour le moment nous affichons une **chaîne de caractères** dans le terminal : `hello`.
 
 Dans le prochain défi, nous allons nous focaliser sur l'apprentissage des **variables**.
 

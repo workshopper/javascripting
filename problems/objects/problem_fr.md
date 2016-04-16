@@ -1,6 +1,6 @@
 Les objets sont des listes de valeurs similaires aux tableaux, sauf que les valeurs sont identifiées par une clé au lieu d'un entier.
 
-Voici un exemple :
+Voici un exemple :
 
 ```js
 var foodPreferences = {
@@ -9,11 +9,11 @@ var foodPreferences = {
 };
 ```
 
-## Le défi :
+## Le défi :
 
 Créez un fichier nommé `objets.js`.
 
-Dans ce fichier, définissez une variable nommée `pizza` comme celà :
+Dans ce fichier, définissez une variable nommée `pizza` comme celà :
 
 ```js
 var pizza = {
@@ -25,7 +25,7 @@ var pizza = {
 
 Utilisez `console.log()` pour afficher l'objet `pizza` dans le terminal.
 
-Vérifiez si votre programme est correct en exécutant la commande :
+Vérifiez si votre programme est correct en exécutant la commande :
 
 ```bash
 javascripting verify objets.js

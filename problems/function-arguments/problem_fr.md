@@ -1,6 +1,6 @@
-Une fonction peut être déclarée pour recevoir n'importe quel nombre d'arguments. Les arguments peuvent être de n'importe quel type. Un argument peut être une chaîne de caractères, un nombre, un tableau, un objet et même une autre fonction.
+On peut déclarer qu'une fonction reçoit n'importe quel nombre d'arguments. Les arguments peuvent être de n'importe quel type : un argument peut être une chaîne de caractères, un nombre, un tableau, un objet et même une autre fonction.
 
-Voici un exemple :
+Voici un exemple :
 
 ```js
 function example (firstArg, secondArg) {
@@ -8,7 +8,7 @@ function example (firstArg, secondArg) {
 }
 ```
 
-Nous pouvons **appeler** cette fonction avec deux arguments comme cela :
+Nous pouvons **appeler** cette fonction avec deux arguments comme cela :
 
 ```js
 example('hello', 'world');
@@ -16,11 +16,11 @@ example('hello', 'world');
 
 L'exemple ci-dessus va afficher dans le terminal `hello world`.
 
-## Le défi:
+## Le défi :
 
-Créer un fichier nommé `arguments-de-fonction.js`.
+Créez un fichier nommé `arguments-de-fonction.js`.
 
-Dans ce fichier, définissez une fonction nommée `math` qui prend trois arguments. Il est important que vous compreniez que les noms d'arguments ne sont seulement utilisés que pour leur faire référence.
+Dans ce fichier, définissez une fonction nommée `math` qui prend trois arguments. Il est important que vous compreniez que les noms d'arguments ne sont seulement utilisés que pour y faire référence.
 
 Nommez chaque argument comme vous le souhaitez.
 
