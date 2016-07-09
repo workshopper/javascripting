@@ -23,8 +23,9 @@ function foo() {
 
 foo(); // 4, 2, 48
 ```
-IIFE, Immediately Invoked Function Expression, is a common pattern for creating local scopes
-example:
+IIFE, Immediately Invoked Function Expression, is a common pattern for creating local scopes.
+
+Example:
 ```js
 	(function(){ // the function expression is surrounded by parenthesis
 		// variables defined here
