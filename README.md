@@ -70,6 +70,10 @@ Open an issue in the nodeschool/discussions repo: https://github.com/nodeschool/
 
 Include the name `javascripting` and the name of the challenge you're working on in the title of the issue.
 
+## Get Involved
+
+Code contributions welcome! Please check our [documentation on contributing](https://github.com/workshopper/javascripting/blob/master/CONTRIBUTING.md) to get started.
+
 ## TODOS:
 
 Add these challenges:
