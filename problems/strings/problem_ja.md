@@ -20,7 +20,7 @@
 var someString = 'this is a string';
 ```
 
-`console.log` を使い、変数 **someStirng** をターミナルに表示しましょう。
+`console.log` を使い、変数 **someString** をターミナルに表示しましょう。
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
