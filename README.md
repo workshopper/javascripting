@@ -81,7 +81,6 @@ Add these challenges:
 - "OBJECT KEYS"
 - "FUNCTION RETURN VALUES"
 - "THIS"
-- "SCOPE"
 
 ## License
 
