@@ -4,6 +4,10 @@
 
 You got it! The second function has the scope we were looking for.
 
-Run javascripting in the console to choose the next challenge.
+Now move on to a more challenging Javascript workshopper **Functional Javascript**:
+
+```
+npm install -g functional-javascript-workshop
+```
 
 ---
