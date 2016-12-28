@@ -1,1 +1,1 @@
-__Потрібна допомога?__ Перегляньте README цього воркшопу: http://github.com/sethvincent/javascripting
+__Потрібна допомога?__ Перегляньте README цього воркшопу: https://github.com/workshopper/javascripting
