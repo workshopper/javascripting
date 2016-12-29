@@ -14,6 +14,7 @@ The role of lead maintainers is to triage and categorize issues, answer question
 - Anshul [@AnshulMalik](https://github.com/AnshulMalik)
 - Martin Splitt [@AVGP](https://github.com/AVGP)
 - Seth [@itzsaga](https://github.com/itzsaga)
+- Lawal Sauban [@sauban](https://github.com/sauban)
 
 ### Volunteer
 
