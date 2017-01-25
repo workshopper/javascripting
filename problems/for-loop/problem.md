@@ -19,7 +19,7 @@ Create a file named `for-loop.js`.
 
 In that file define a variable named `total` and make it equal the number `0`.
 
-Define a second variable named `limit` and make it equal the number `10`.
+Define a second variable named `limit` and make it equal the number `45`.
 
 Create a for loop with a variable `i` starting at 0 and increasing by 1 each time through the loop. The loop should run as long as `i` is less than `limit`.
 
