@@ -13,7 +13,7 @@ Having issues with javascripting? Get help troubleshooting in the [nodeschool di
 
 Make sure Node.js is installed on your computer.
 
-Install it from [nodejs.org/download](http://nodejs.org/download)
+Install it from [nodejs.org](https://nodejs.org/)
 
 On Windows and using v4 or v5 of Node.js? Make sure you are using at least 5.1.0, which provides a fix for a bug on Windows where you can't choose items in the menu.
 
