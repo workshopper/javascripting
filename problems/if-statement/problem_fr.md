@@ -20,7 +20,7 @@ Créez un fichier nommé `instruction-conditionnelle.js`.
 
 Dans ce fichier, déclarez une variable `fruit`.
 
-Assignez à la variable `fruit` la valeur `orange` du type `String`.
+Assignez à la variable `fruit` la chaîne de caractères ***"orange"***.
 
 Utilisez ensuite `console.log()` pour afficher **« The fruit name has more than five characters. »** si la longueur du contenu de la variable `fruit` est supérieure à cinq.
 Sinon, affichez **« The fruit name has five characters or less. »**
