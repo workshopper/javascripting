@@ -1,6 +1,6 @@
 Se puede tener acceso a los elementos de un Array a través del número de índice.
 
-El número de índice comienza en cero y finaliza en el valor de la propiedad longitud (length) del array, restándole uno. 
+El número de índice comienza en cero y finaliza en el valor de la propiedad longitud (length) del array, restándole uno.
 
 A continuación, un ejemplo:
 
@@ -29,7 +29,7 @@ console.log(pets.1);
 
 ## El ejercicio:
 
-Crea un archivo llamado `accediendo-valores-array.js`
+Crea un archivo llamado `accessing-array-values.js`
 
 En ese archivo, define un array llamado `food` :
 ```js
@@ -41,5 +41,5 @@ Usa `console.log()` para imprimir el `segundo` valor del array en la terminal.
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 ```bash
-javascripting verify accediendo-valores-array.js
+javascripting verify accessing-array-values.js
 ```
