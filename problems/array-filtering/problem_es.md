@@ -24,7 +24,7 @@ La variable `filtered` será igual a un array que contiene solo `cat` y `dog`.
 
 ## El ejercicio:
 
-Crea un archivo llamado `filtrado-de-arrays.js`.
+Crea un archivo llamado `array-filtering.js`.
 
 En ese archivo, define una variable llamada `numbers` que referencie al siguiente array:
 
@@ -47,5 +47,5 @@ Utiliza `console.log()` para imprimir el array filtrado a la terminal.
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 ```
-javascripting verify filtrado-de-arrays.js
+javascripting verify array-filtering.js
 ```
