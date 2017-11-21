@@ -7,13 +7,13 @@ Funções definidas dentro de outras funções, conhecidas como funções aninha
 Preste atenção nos comentários do código abaixo:
 
 ```js
-var a = 4;	// uma variável global, pode ser acessada pelas funções abaixo
+const a = 4;	// uma variável global, pode ser acessada pelas funções abaixo
 
 function foo() {
-	var b = a * 3;	// b não pode ser acessada fora da função, mas pode ser acessada pelas funções
+	const b = a * 3;	// b não pode ser acessada fora da função, mas pode ser acessada pelas funções
 					// definidas dentro da função foo
 	function bar(c) {
-		var b = 2;  // uma outra variável `b` é criada dentro do escopo da função bar
+		const b = 2;  // uma outra variável `b` é criada dentro do escopo da função bar
 					// as mudanças dessa nova variável `b` não afeta a outra variável `b`
 	console.log( a, b, c );
 	}
@@ -38,19 +38,19 @@ Crie um arquivo chamado `scope.js`.
 
 Nesse arquivo, copie o seguinte código:
 ```js
-var a = 1, b = 2, c = 3;
+const a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	const b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		const b = 8;
 		
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			const a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				const a = 1, c = 8;
 
 			})();
 		})();

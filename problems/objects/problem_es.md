@@ -5,7 +5,7 @@ Tendrá ciertas **llaves** y cada una se verá referenciada a un **valor**.
 Por ejemplo:
 
 ```js
-var foodPreferences = {
+const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
 }
@@ -20,7 +20,7 @@ Crea un archivo llamado `objects.js`.
 En ese archivo, define una variable llamada `pizza` de la siguiente forma:
 
 ```js
-var pizza = {
+const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2

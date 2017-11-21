@@ -3,7 +3,7 @@
 这里是一个使用**方括号**的例子：
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ example['pizza'];
 在文件中，像这样定义名为 `food` 的变量：
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```

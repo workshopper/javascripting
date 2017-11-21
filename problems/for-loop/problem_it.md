@@ -1,7 +1,7 @@
 I cicli for si presentano come il seguente:
 
 ```js
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   // scrive i numeri da 0 a 9
   console.log(i)
 }

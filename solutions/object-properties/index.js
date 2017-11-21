@@ -1,4 +1,4 @@
-var food = {
+const food = {
   types: 'only pizza'
 };
 

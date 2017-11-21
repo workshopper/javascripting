@@ -1,7 +1,7 @@
 Les boucles `for` vous permettent de répéter l'exécution d'un bloc de code un certain nombre de fois. Cette boucle `for` affiche dans la console dix fois :
 
 ```js
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   // affiche les nombres de 0 a 9
   console.log(i)
 }

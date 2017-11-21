@@ -1,7 +1,7 @@
 For loops allow you to repeatedly run a block of code a certain number of times. This for loop logs to the console ten times:
 
 ```js
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   // log the numbers 0 through 9
   console.log(i)
 }

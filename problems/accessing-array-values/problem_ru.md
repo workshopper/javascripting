@@ -6,9 +6,9 @@
 
 
 ```js
-	var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
-	console.log(pets[0]);
+console.log(pets[0]);
 ```
 
 Приведённый выше код должен вывести первый элемент массива `pets` -- строку `cat`.
@@ -25,7 +25,7 @@
 
 Неправильная запись:
 ```
-	console.log(pets.1);
+console.log(pets.1);
 ```
 
 ## Условие задачи:
@@ -34,7 +34,7 @@
 
 В этом файле объявите массив `food` :
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 

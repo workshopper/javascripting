@@ -5,7 +5,7 @@ As strings tem funcionalidades que te permitem inspecionar e manipular seus cont
 Aqui está um exemplo que usa o método `.replace()`:
 
 ```js
-var example = 'this example exists';
+let example = 'this example exists';
 example = example.replace('exists', 'is awesome');
 console.log(example);
 ```

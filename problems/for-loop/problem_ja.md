@@ -2,7 +2,7 @@ for ループを使うと、コードの塊を何回も繰り返し実行でき�
 次のfor ループはコンソールにログを10回書きます...
 
 ```js
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   // log the numbers 0 through 9
   console.log(i)
 }

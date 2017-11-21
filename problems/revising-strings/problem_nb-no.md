@@ -5,7 +5,7 @@ Stringer har innebygd funksjonalitet som lar de manipulere og se på innholdet.
 Her er et eksempel som bruker `.replace()` metoden:
 
 ```js
-var example = 'dette eksemplet er kjedelig';
+let example = 'dette eksemplet er kjedelig';
 example = example.replace('kjedelig', 'kult');
 console.log(example);
 ```

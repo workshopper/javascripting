@@ -5,7 +5,7 @@ Las strings tienen una funcionalidad por defecto que te permite reemplazar carac
 Por ejemplo a continuación veremos un uso del método `.replace()`:
 
 ```js
-var example = 'this example exists';
+let example = 'this example exists';
 example = example.replace('exists', 'is awesome');
 console.log(example);
 ```

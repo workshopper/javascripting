@@ -4,8 +4,8 @@
 
 You got it! The second function has the scope we were looking for.
 
-Now move on to a more challenging Javascript workshopper **Functional Javascript**:
+Next we will explore the secrets of `let` and  `var`.
 
-npm install -g functional-javascript-workshop
+Run `javascripting` in the console to choose the next challenge.
 
 ---

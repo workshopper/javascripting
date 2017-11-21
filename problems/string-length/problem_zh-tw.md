@@ -3,7 +3,7 @@
 你可以使用 `.length` 來得到它。下面是一個例子：
 
 ```js
-var example = 'example string';
+const example = 'example string';
 example.length
 ```
 

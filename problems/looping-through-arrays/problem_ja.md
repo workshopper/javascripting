@@ -7,7 +7,7 @@
 たとえば、次の配列内の `hi` は、数値 `1` で識別できます...
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 次のようにアクセスします...

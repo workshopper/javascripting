@@ -10,13 +10,13 @@ JavaScriptには、二つのスコープがあります。グローバルとロ�
 次のソースコードのコメントを読んでください...
 
 ```js
-var a = 4;	// a はグローバル変数です。下の全ての関数から参照できます。
+const a = 4;	// a はグローバル変数です。下の全ての関数から参照できます。
 
 function foo() {
-	var b = a * 3;	// b は foo 関数の外からは参照できません。 foo 関数の中で定義した関数 bar からは参照できます。
+	const b = a * 3;	// b は foo 関数の外からは参照できません。 foo 関数の中で定義した関数 bar からは参照できます。
 
 	function bar(c) {
-		var b = 2;  // bar 関数の中でもう一つ b 変数を定義します
+		const b = 2;  // bar 関数の中でもう一つ b 変数を定義します
 					// 新しい b を変更しても、元の b 変数は変わりません。
 		console.log( a, b, c );
 	}
@@ -43,19 +43,19 @@ foo(); // 4, 2, 48
 ファイルの中に、次のソースコードをコピーしましょう...
 
 ```js
-var a = 1, b = 2, c = 3;
+const a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	const b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		const b = 8;
 
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			const a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				const a = 1, c = 8;
 
 			})();
 		})();

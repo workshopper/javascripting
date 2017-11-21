@@ -21,7 +21,7 @@ For this challenge, create a file named `strings.js`.
 In that file create a variable named `someString` like this:
 
 ```js
-var someString = 'this is a string';
+const someString = 'this is a string';
 ```
 
 Use `console.log` to print the variable **someString** to the terminal.

@@ -3,7 +3,7 @@
 Например:
 
 ```js
-var foodPreferences = {
+const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
 };
@@ -16,7 +16,7 @@ var foodPreferences = {
 В этом файле объявите следующим образом переменную `pizza`:
 
 ```js
-var pizza = {
+const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2

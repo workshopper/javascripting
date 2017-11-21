@@ -7,13 +7,13 @@ JavaScript 有兩種類型的作用域：`全域` 以及 `區域`。函式外宣
 注意下面的程式碼：
 
 ```js
-var a = 4;	// a 是一個全域變數，它可以被下面的函式存取
+const a = 4;	// a 是一個全域變數，它可以被下面的函式存取
 
 function foo() {
-	var b = a * 3;	// b 不能夠在 foo 函式以外被存取，但是可以被定義於 foo 內部的其他函式存取
+	const b = a * 3;	// b 不能夠在 foo 函式以外被存取，但是可以被定義於 foo 內部的其他函式存取
 
 	function bar(c) {
-		var b = 2;  // 另一個新的 `b` 變數被建立在 bar 函式的作用域內
+		const b = 2;  // 另一個新的 `b` 變數被建立在 bar 函式的作用域內
 					// 對這個新的 `b` 變數的改變並不會影響到舊的 `b` 變數
 		console.log( a, b, c );
 	}
@@ -37,19 +37,19 @@ foo(); // 4, 2, 48
 
 在該檔案中複製貼上以下的程式碼：
 ```js
-var a = 1, b = 2, c = 3;
+const a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	const b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		const b = 8;
 		
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			const a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				const a = 1, c = 8;
 
 			})();
 		})();

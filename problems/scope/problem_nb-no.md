@@ -7,14 +7,14 @@ Funksjoner som er definert inni andre funksjoner, kjent som nøstede funksjoner,
 Følg nøye med på kommentarene i koden under:
 
 ```js
-var a = 4;  // a er en global variabel, den kan nås av funksjonene under
+const a = 4;  // a er en global variabel, den kan nås av funksjonene under
 
 function foo() {
-    var b = a * 3;  // b kan ikke nås utenfor foo funksjonen, men kan nås av funksjoner
+    const b = a * 3;  // b kan ikke nås utenfor foo funksjonen, men kan nås av funksjoner
                     // definert inni foo
 
     function bar(c) {
-        var b = 2;  // enda en `b` variabel blir lagd i bar funksjonens scope
+        const b = 2;  // enda en `b` variabel blir lagd i bar funksjonens scope
                     // endringer på den nye `b` variabelen endrer ikke den ytre `b` variabelen
         console.log( a, b, c );
     }
@@ -38,19 +38,19 @@ Lag en fil som heter `scope.js`.
 
 Kopier inn følgende kode i den filen:
 ```js
-var a = 1, b = 2, c = 3;
+const a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-    var b = 5, c = 6;
+    const b = 5, c = 6;
 
     (function secondFunction(){
-        var b = 8;
+        const b = 8;
 
         (function thirdFunction(){
-            var a = 7, c = 9;
+            const a = 7, c = 9;
 
             (function fourthFunction(){
-                var a = 1, c = 8;
+                const a = 1, c = 8;
 
             })();
         })();

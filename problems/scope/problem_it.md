@@ -7,13 +7,13 @@ Le funzioni definite all'interno di altre funzioni, note come funzioni annidate,
 Presta attenzione ai commenti nel codice seguente:
 
 ```js
-var a = 4;	// a è una variabile globale, può essere acceduta dalle funzioni seguenti
+const a = 4;	// a è una variabile globale, può essere acceduta dalle funzioni seguenti
 
 function foo() {
-	var b = a * 3;	// b non può essere acceduta fuori dalla funzione foo, ma può essere acceduta dalle funzioni
+	const b = a * 3;	// b non può essere acceduta fuori dalla funzione foo, ma può essere acceduta dalle funzioni
 					// definite all'interno di foo
 	function bar(c) {
-	var b = 2;  // un'altra variabile `b` è creata all'interno dell'ambito della funzione bar
+	const b = 2;  // un'altra variabile `b` è creata all'interno dell'ambito della funzione bar
 				// i cambiamenti a questa nuova variabile `b` non hanno effetto sulla variabile `b` precedente
 	console.log( a, b, c );
 	}
@@ -37,19 +37,19 @@ Crea un file dal nome `scope.js`.
 
 In questo file, copia il codice seguente:
 ```js
-var a = 1, b = 2, c = 3;
+const a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	const b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		const b = 8;
 
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			const a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				const a = 1, c = 8;
 
 			})();
 		})();

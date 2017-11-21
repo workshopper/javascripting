@@ -5,7 +5,7 @@ El número de índice comienza en cero y finaliza en el valor de la propiedad lo
 A continuación, un ejemplo:
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -33,7 +33,7 @@ Crea un archivo llamado `accediendo-valores-array.js`
 
 En ese archivo, define un array llamado `food` :
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 Usa `console.log()` para imprimir el `segundo` valor del array en la terminal.

@@ -7,7 +7,7 @@ Chaque élément du tableau est identifié par un nombre, commençant à `0`.
 Donc dans ce tableau, `hi` est identifié par le nombre `1` :
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 On peut y accéder comme ceci :

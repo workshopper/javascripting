@@ -3,7 +3,7 @@ Vous allez assez souvent avoir besoin de savoir combien de caractères sont cont
 Pour cela vous allez utiliser la propriété `.length`. Voici un exemple :
 
 ```js
-var example = 'example string';
+const example = 'example string';
 example.length
 ```
 
