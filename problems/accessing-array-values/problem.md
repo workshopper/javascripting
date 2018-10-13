@@ -6,7 +6,7 @@ Here is an example:
 
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -34,7 +34,7 @@ Create a file named `accessing-array-values.js`.
 
 In that file, define array `food` :
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 

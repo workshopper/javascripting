@@ -6,7 +6,7 @@
 
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -34,7 +34,7 @@ console.log(pets.1);
 
 그 파일에서, `food`라는 배열을 정의합니다.
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 
