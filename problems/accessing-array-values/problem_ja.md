@@ -5,7 +5,7 @@
 以下に例を示します...
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -34,7 +34,7 @@ console.log(pets.1);
 
 ファイルの中で、次の配列 `food` を定義します。
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 
