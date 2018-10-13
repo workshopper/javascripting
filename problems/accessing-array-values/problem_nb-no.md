@@ -5,7 +5,7 @@ Indeksnummeret starter fra null opp til antallet verdier i arrayet, minus en.
 Her er et eksempel:
 
 ```js
-var dyr = ['katt', 'hund', 'rotte'];
+const dyr = ['katt', 'hund', 'rotte'];
 
 console.log(dyr[0]);
 ```
@@ -33,7 +33,7 @@ Lag en fil som heter `accessing-array-values.js`.
 
 Definer et array `food` i den filen:
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 Bruk `console.log()` til å skrive ut den `andre` verdien av det arrayet til skjermen.
