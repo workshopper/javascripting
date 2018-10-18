@@ -1,7 +1,7 @@
 配列は、値のリストです。たとえば、こう...
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 ```
 
 ## やってみよう
