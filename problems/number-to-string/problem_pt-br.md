@@ -3,7 +3,7 @@
 Nestas situações você usará o método `.toString()`. Veja um exemplo de como usá-lo:
 
 ```js
-const n = 256;
+var n = 256;
 n = n.toString();
 ```
 

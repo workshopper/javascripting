@@ -1,2 +1,2 @@
-const n = 128;
+var n = 128;
 console.log(n.toString());
