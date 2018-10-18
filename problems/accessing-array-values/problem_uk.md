@@ -5,7 +5,7 @@
 Приклад:
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -33,7 +33,7 @@ console.log(pets.1);
 
 У цьому файлі створити масив 'food' :
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 Використайте `console.log()`, щоб надрукувати 'другий' елемент масиву в терміналі.

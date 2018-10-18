@@ -5,7 +5,7 @@
 下面是一个例子：
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -33,7 +33,7 @@ console.log(pets.1);
 
 在文件中定义一个数组 `food`：
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 使用 `console.log()` 打印数组的第二个值到终端。

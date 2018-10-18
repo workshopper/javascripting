@@ -5,7 +5,7 @@
 下面是一個例子：
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -33,7 +33,7 @@ console.log(pets.1);
 
 在該檔案中定義一個陣列 `food`：
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 使用 `console.log()` 印出陣列中的 `第二個` 值。
