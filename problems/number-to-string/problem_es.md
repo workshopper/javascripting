@@ -3,7 +3,7 @@ A veces necesitarás convertir un número a una string.
 En esos casos, usarás el método `.toString()`. A continuación un ejemplo:
 
 ```js
-var n = 256;
+const n = 256;
 n.toString();
 ```
 
