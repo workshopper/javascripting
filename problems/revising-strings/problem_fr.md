@@ -5,7 +5,7 @@ Les chaînes de caractères ont des fonctionnalités directement intégrées qui
 Voici un exemple qui utilise la méthode `.replace()` :
 
 ```js
-var example = 'this example exists';
+let example = 'this example exists';
 example = example.replace('exists', 'is awesome');
 console.log(example);
 ```
