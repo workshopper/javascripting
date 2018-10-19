@@ -1,7 +1,7 @@
 Un bucle for es como lo siguiente:
 
 ```js
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   // imprime los números del 0 al 9
   console.log(i);
 }

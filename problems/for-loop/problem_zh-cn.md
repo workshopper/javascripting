@@ -1,7 +1,7 @@
 For 循环看起来是这样的：
 
 ```js
-for (var i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   // log the numbers 0 through 9
   console.log(i)
 }
