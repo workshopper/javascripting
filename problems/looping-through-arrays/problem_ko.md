@@ -7,7 +7,7 @@
 그래서 이 배열의 `hi`는 숫자 `1`로 확인할 수 있습니다.
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 이렇게 접근할 수 있습니다.

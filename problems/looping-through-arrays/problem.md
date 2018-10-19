@@ -7,7 +7,7 @@ Each item in an array is identified by a number, starting at `0`.
 So in this array `hi` is identified by the number `1`:
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 It can be accessed like this:

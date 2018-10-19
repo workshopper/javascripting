@@ -7,7 +7,7 @@ Hvert innslag i et array identifiseres med et nummer, fra og med `0`.
 Så i denne arrayet er `hei` identifisert ved nummeret `1`:
 
 ```js
-var hilsinger = ['hallo', 'hei', 'god morgen'];
+const hilsinger = ['hallo', 'hei', 'god morgen'];
 ```
 
 Verdien kan nås slik som dette:
