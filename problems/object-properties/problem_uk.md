@@ -3,7 +3,7 @@
 Це приклад з **квадратними дужками**:
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ example['pizza'];
 У цьому файлі оголосити змінну під назвою `food` ось так:
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```
