@@ -1,7 +1,7 @@
 陣列就是由一組值構成的列表。下面是一個例子：
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 ```
 
 ### 挑戰：
