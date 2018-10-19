@@ -4,7 +4,7 @@
 
 
 ```js
-var foodPreferences = {
+const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
 }
@@ -19,7 +19,7 @@ var foodPreferences = {
 ファイルの中で、変数 `pizza` を次のようにして定義してください...
 
 ```js
-var pizza = {
+const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2

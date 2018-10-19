@@ -3,7 +3,7 @@
 範例：
 
 ```js
-var foodPreferences = {
+const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
 }
@@ -16,7 +16,7 @@ var foodPreferences = {
 在該檔案裡，像這樣定義一個變數 `pizza`：
 
 ```js
-var pizza = {
+const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2
