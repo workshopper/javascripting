@@ -18,7 +18,7 @@
 在文件中像这样创建一个名为 `someString` 的变量：
 
 ```js
-var someString = 'this is a string';
+const someString = 'this is a string';
 ```
 
 使用 `console.log` 打印变量 **someString** 到终端。
