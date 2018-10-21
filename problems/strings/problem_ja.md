@@ -17,7 +17,7 @@
 ファイルの中で、次のように変数 `someString` を作りましょう。
 
 ```js
-const someString = 'this is a string';
+var someString = 'this is a string';
 ```
 
 `console.log` を使い、変数 **someString** をターミナルに表示しましょう。
