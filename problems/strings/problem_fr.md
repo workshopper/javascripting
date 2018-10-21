@@ -19,7 +19,7 @@ Pour ce défi, créez un fichier nommé `chaines.js`.
 Dans ce fichier, créez une variable nommée `someString` comme cela :
 
 ```js
-const someString = 'this is a string';
+var someString = 'this is a string';
 ```
 
 Utilisez `console.log` pour afficher la variable **someString** dans le terminal.

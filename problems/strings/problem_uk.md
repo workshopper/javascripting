@@ -18,7 +18,7 @@
 У цьому файлі створіть змінну `someString` ось так:
 
 ```js
-const someString = 'this is a string';
+var someString = 'this is a string';
 ```
 
 Використайте `console.log`, щоб вивести змінну **someString** до терміналу.
