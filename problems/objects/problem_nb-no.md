@@ -3,7 +3,7 @@ Objekter er en samling verdier som arrayer, bortsett ifra at verdiene er identif
 Her er et eksempel:
 
 ```js
-var favorittMat = {
+const favorittMat = {
   pizza: 'nam',
   salat: 'fysjameg'
 }
@@ -16,7 +16,7 @@ Lag en fil som heter `objects.js`.
 Definer en variabel `pizza` i den filen:
 
 ```js
-var pizza = {
+const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2
