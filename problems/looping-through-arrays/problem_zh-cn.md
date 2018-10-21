@@ -7,7 +7,7 @@
 所以下面的数组中，数字 `1` 标识了 `hi`：
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 于是，`hi` 就可以像这样被访问：

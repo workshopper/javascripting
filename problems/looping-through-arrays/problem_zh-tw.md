@@ -7,7 +7,7 @@
 所以下面的陣列中，數字 `1` 標識了 `hi`：
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 於是，`hi` 就可以像這樣被存取：

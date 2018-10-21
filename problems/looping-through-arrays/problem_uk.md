@@ -7,7 +7,7 @@
 Тому в цьому масиві `hi` ідентифікується числом `1`:
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 Доступ до нього можна отримати так:
