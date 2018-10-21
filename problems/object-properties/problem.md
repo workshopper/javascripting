@@ -3,7 +3,7 @@ You can access and manipulate object properties –– the keys and values that 
 Here's an example using **square brackets**:
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ Create a file named `object-properties.js`.
 In that file, define a variable named `food` like this:
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```

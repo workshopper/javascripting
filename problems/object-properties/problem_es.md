@@ -3,7 +3,7 @@ Puedes acceder y manipular propiedades de objetos –– las **llaves** y **valo
 Un ejemplo usando **corchetes**:
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ Crea un archivo llamado `object-properties.js`.
 En ese archivo, define una variable llamada `food` de la siguiente forma:
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```
