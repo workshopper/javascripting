@@ -7,13 +7,13 @@ Les fonctions définies à l'intérieur d'autres fonctions, aussi connues en tan
 Soyez attentif aux commentaires dans le code suivant :
 
 ```js
-var a = 4;	// a est une variable globale, elle est accessible dans les fonctions ci-dessous
+let a = 4;	// a est une variable globale, elle est accessible dans les fonctions ci-dessous
 
 function foo() {
-	var b = a * 3;	// b n'est pas accessible hors de la fonction foo mais l'est
+	let b = a * 3;	// b n'est pas accessible hors de la fonction foo mais l'est
 					// dans les fonctions déclarées à l'intérieur de foo
 	function bar(c) {
-	var b = 2;  // une autre variable `b` est créée à l'intérieur du scope de la fonction
+	let b = 2;  // une autre variable `b` est créée à l'intérieur du scope de la fonction
 				// les changements apportés à cette nouvelle variable `b` n'ont pas d'effet sur
 				// l'ancienne variable `b`
 	console.log( a, b, c );
@@ -39,19 +39,19 @@ Créez un fichier nommé `scope.js`.
 
 Dans ce fichier, copiez le code suivant :
 ```js
-var a = 1, b = 2, c = 3;
+let a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	let b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		let b = 8;
 
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			let a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				let a = 1, c = 8;
 
 			})();
 		})();

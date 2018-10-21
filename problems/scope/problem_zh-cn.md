@@ -7,13 +7,13 @@ JavaScript 有两种类型的作用域：`全局` 以及 `局部`。函数外声
 注意下面的代码：
 
 ```js
-var a = 4;	// a is a global variable, it can be accesed by the functions below
+let a = 4;	// a is a global variable, it can be accesed by the functions below
 
 function foo() {
-	var b = a * 3;	// b cannot be accesed outside foo function, but can be accesed by functions
+	let b = a * 3;	// b cannot be accesed outside foo function, but can be accesed by functions
 					// defined inside foo
 	function bar(c) {
-	var b = 2;  // another `b` variable is created inside bar function scope
+	let b = 2;  // another `b` variable is created inside bar function scope
 				// the changes to this new `b` variable don't affect the old `b` variable
 	console.log( a, b, c );
 	}
@@ -37,19 +37,19 @@ foo(); // 4, 2, 48
 
 在文件中复制粘贴下面的代码：
 ```js
-var a = 1, b = 2, c = 3;
+let a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	let b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		let b = 8;
 		
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			let a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				let a = 1, c = 8;
 
 			})();
 		})();

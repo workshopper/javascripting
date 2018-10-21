@@ -7,13 +7,13 @@ Las funciones definidas dentro de otras funciones, conocidas como funciones anid
 Presta atención a los comentarios en el siguiente código:
 
 ```js
-var a = 4;	// es una variable global, puede ser accedida por las siguientes funciones
+let a = 4;	// es una variable global, puede ser accedida por las siguientes funciones
 
 function foo() {
-	var b = a * 3;	// b no puede ser accedida por fuera de la función foo, pero puede ser accedida
+	let b = a * 3;	// b no puede ser accedida por fuera de la función foo, pero puede ser accedida
 					// por las funciones definidas dentro de foo
 	function bar(c) {
-	var b = 2;  // otra variable `b` es creada dentro del ámbito de la función bar
+	let b = 2;  // otra variable `b` es creada dentro del ámbito de la función bar
 				// los cambios a esta nueva `b` no afectan a la vieja variable `b`
 	console.log( a, b, c );
 	}
@@ -37,19 +37,19 @@ Crea un archivo llamado `scope.js`.
 
 En ese archivo, copia el siguiente código:
 ```js
-var a = 1, b = 2, c = 3;
+let a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	let b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		let b = 8;
 
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			let a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				let a = 1, c = 8;
 
 			})();
 		})();

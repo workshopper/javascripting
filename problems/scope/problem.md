@@ -7,13 +7,13 @@ Functions defined inside other functions, known as nested functions, have access
 Pay attention to the comments in the code below:
 
 ```js
-var a = 4;	// a is a global variable, it can be accessed by the functions below
+let a = 4;	// a is a global variable, it can be accessed by the functions below
 
 function foo() {
-	var b = a * 3;	// b cannot be accessed outside foo function, but can be accessed by functions
+	let b = a * 3;	// b cannot be accessed outside foo function, but can be accessed by functions
 					// defined inside foo
 	function bar(c) {
-        var b = 2;  // another `b` variable is created inside bar function scope
+        let b = 2;  // another `b` variable is created inside bar function scope
                     // the changes to this new `b` variable don't affect the old `b` variable
         console.log( a, b, c );
 	}
@@ -38,19 +38,19 @@ Create a file named `scope.js`.
 
 In that file, copy the following code:
 ```js
-var a = 1, b = 2, c = 3;
+let a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+	let b = 5, c = 6;
 
 	(function secondFunction(){
-		var b = 8;
+		let b = 8;
 
 		(function thirdFunction(){
-			var a = 7, c = 9;
+			let a = 7, c = 9;
 
 			(function fourthFunction(){
-				var a = 1, c = 8;
+				let a = 1, c = 8;
 
 			})();
 		})();
