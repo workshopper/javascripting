@@ -3,7 +3,7 @@ Vous devez parfois transformer un nombre en chaîne de caractère.
 Dans ces cas là, vous utiliserez la méthode `.toString()`. Voici un exemple :
 
 ```js
-const n = 256;
+var n = 256;
 n = n.toString();
 ```
 
