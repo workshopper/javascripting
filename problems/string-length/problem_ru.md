@@ -3,7 +3,7 @@
 Для этого мы будем использовать свойство `.length`. Например:
 
 ```js
-var example = 'example string';
+const example = 'example string';
 example.length;
 ```
 
