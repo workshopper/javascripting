@@ -3,7 +3,7 @@
 Вот пример использования **квадратных скобок**:
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ example['pizza'];
 В этом файле объявите следующим образом переменную `food`:
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```

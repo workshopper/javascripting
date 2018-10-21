@@ -3,7 +3,7 @@
 這裡是一個使用**中括號**的例子：
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ example['pizza'];
 在該檔案中，像這樣定義一個名為 `food` 的變數：
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```

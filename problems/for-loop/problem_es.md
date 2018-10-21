@@ -8,7 +8,7 @@ for (let i = 0; i < 10; i++) {
 ```
 La variable `i` es utilizada como contador, en ella se almacenará la cantidad de veces que se ejecutó el bucle.
 
-La expresión `i < 10;` indica el limite de veces que se ejecutara el código dentro del bucle.  
+La expresión `i < 10;` indica el limite de veces que se ejecutara el código dentro del bucle.
 Este continuara iterando si `i` es menor que `10`.
 
 La expresión `i++` incrementa la variable `i` en uno por cada iteración.

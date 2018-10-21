@@ -5,7 +5,7 @@
 次の例のように角括弧を使います...
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -33,7 +33,7 @@ example['pizza'];
 ファイルの中で、変数 `food` を次のように定義してください...
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```

@@ -3,7 +3,7 @@ Les objets sont des listes de valeurs similaires aux tableaux, sauf que les vale
 Voici un exemple :
 
 ```js
-var foodPreferences = {
+const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
 };
@@ -16,7 +16,7 @@ Créez un fichier nommé `objets.js`.
 Dans ce fichier, définissez une variable nommée `pizza` comme celà :
 
 ```js
-var pizza = {
+const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2

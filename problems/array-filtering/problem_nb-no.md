@@ -7,9 +7,9 @@ For det kan vi bruke `.filter()` metoden.
 Her er et eksempel:
 
 ```js
-var dyr = ['katt', 'hund', 'elefant'];
+const dyr = ['katt', 'hund', 'elefant'];
 
-var filtrert = dyr.filter(function (ettDyr) {
+const filtrert = dyr.filter(function (ettDyr) {
   return (ettDyr !== 'elefant');
 });
 ```

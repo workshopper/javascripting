@@ -3,7 +3,7 @@
 **대괄호**를 사용하는 예제입니다.
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ example['pizza'];
 파일 안에서 `food`라는 변수를 이렇게 정의합니다.
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```
