@@ -7,9 +7,9 @@
 下面是一个例子：
 
 ```js
-var pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant'];
 
-var filtered = pets.filter(function (pet) {
+const filtered = pets.filter(function (pet) {
   return (pet !== 'elephant');
 });
 ```
