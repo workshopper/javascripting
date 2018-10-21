@@ -19,7 +19,7 @@
 В этом файле объявите переменную `someString` таким образом:
 
 ```js
-var someString = 'this is a string';
+const someString = 'this is a string';
 ```
 
 Воспользуйтесь командой `console.log()`, чтобы вывести значение переменной **someString** в консоль.

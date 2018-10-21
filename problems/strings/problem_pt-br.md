@@ -18,7 +18,7 @@ Para este desafio, crie um arquivo chamado `strings.js`.
 No arquivo que foi criado, crie uma variável chamada `someString` da seguinte forma:
 
 ```js
-var someString = 'this is a string';
+const someString = 'this is a string';
 ```
 
 Use o `console.log` para imprimir a variável **someString** para o terminal.
