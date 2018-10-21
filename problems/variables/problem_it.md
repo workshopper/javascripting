@@ -1,9 +1,9 @@
-Una variabile è un nome che può fare riferimento a un valore specifico. Le variabili sono dichiarate usando `var` seguito dal nome della variabile.
+Una variabile è un nome che può fare riferimento a un valore specifico. Le variabili sono dichiarate usando `let` seguito dal nome della variabile.
 
 Ecco un esempio:
 
 ```js
-var example;
+let example;
 ```
 
 La variabile precedente è stata **dichiarata**, ma non è stata definita (non fa ancora riferimento a un valore specifico).
@@ -11,12 +11,12 @@ La variabile precedente è stata **dichiarata**, ma non è stata definita (non f
 Ecco un esempio di definizione di una variabile, che le fa assumere un valore specifico:
 
 ```js
-var example = 'some string';
+let example = 'some string';
 ```
 
 # NOTA
 
-Una variabile è **dichiarata** usando `var` e usa il segno uguale per **definire** il valore che rappresenta. Questa operazione è nota con l'espressione colloquiale "assegnare un valore a una variabile".
+Una variabile è **dichiarata** usando `let` e usa il segno uguale per **definire** il valore che rappresenta. Questa operazione è nota con l'espressione colloquiale "assegnare un valore a una variabile".
 
 ## La sfida:
 

@@ -1,9 +1,9 @@
-Une variable est un nom qui fait référence à une valeur spécifique. Les variables sont déclarées en utilisant le mot clé `var` suivi du le nom de la variable.
+Une variable est un nom qui fait référence à une valeur spécifique. Les variables sont déclarées en utilisant le mot clé `let` suivi du le nom de la variable.
 
 Voici un exemple :
 
 ```js
-var example;
+let example;
 ```
 
 La variable ci-dessus est **déclarée**, mais elle n'est pas définie ( elle ne référence aucune valeur pour le moment ).
@@ -11,12 +11,12 @@ La variable ci-dessus est **déclarée**, mais elle n'est pas définie ( elle 
 Voici un exemple de définition de variable, la faisant contenir une valeur spécifique :
 
 ```js
-var example = 'some string';
+let example = 'some string';
 ```
 
 # NOTE 
 
-Une variable est **déclarée** en utilisant `var` et utilise le signe égal pour **assigner** la valeur qu'elle référence. Nous utilisons communément l'expression "Assigner une valeur à une variable".
+Une variable est **déclarée** en utilisant `let` et utilise le signe égal pour **assigner** la valeur qu'elle référence. Nous utilisons communément l'expression "Assigner une valeur à une variable".
 
 ## Le défi :
 
