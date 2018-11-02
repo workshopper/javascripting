@@ -47,7 +47,7 @@ const a = 1, b = 2, c = 3;
 		const b = 8;
 
 		(function thirdFunction(){
-			vconstar a = 7, c = 9;
+			const a = 7, c = 9;
 
 			(function fourthFunction(){
 				const a = 1, c = 8;
