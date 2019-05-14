@@ -29,6 +29,8 @@ On each iteration of the loop, add the number `i` to the `total` variable. To do
 total += i;
 ```
 
+When this statement is used in a for loop, it can also be known as _an accumulator_.  Think of it like a cash register's running total while each item is scanned and added up.  For this challenge, you have 10 items and they just happen to be increasing in price by 1 each item (with the first item free!).
+
 After the for loop, use `console.log()` to print the `total` variable to the terminal.
 
 Check to see if your program is correct by running this command:
