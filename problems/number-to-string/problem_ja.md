@@ -3,7 +3,7 @@
 そういう時は `toString()` メソッドを使います。たとえば...
 
 ```js
-const n = 256;
+let n = 256;
 n = n.toString();
 ```
 
