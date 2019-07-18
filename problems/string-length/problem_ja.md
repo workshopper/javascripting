@@ -3,7 +3,7 @@
 そういう時は `.length` プロパティを使います。たとえば...
 
 ```js
-var example = 'example string';
+const example = 'example string';
 example.length
 ```
 

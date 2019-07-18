@@ -8,18 +8,18 @@ JavaScript에는 `전역`과 `지역` 두 개의 스코프가 있습니다. 함�
 아래 코드의 주석을 잘 읽어보세요.
 
 ```js
-var a = 4;	// 전연 변수 아래에 있는 함수에서 접근 가능
+const a = 4; // 전연 변수 아래에 있는 함수에서 접근 가능
 
 function foo() {
-	var b = a * 3;	// b는 foo 함수 밖에서 접근할 수 없지만, foo 함수 안에서
-					// 선언된 함수에서는 접근 가능
-	function bar(c) {
-	var b = 2;  // bar 함수 스코프 안에서 생성한 다른 `b` 변수
-				// 새로 만든 `b` 변수를 변경해도 오래된 `b` 변수에는 영향이 없음
-	console.log( a, b, c );
-	}
+  let b = a * 3; // b는 foo 함수 밖에서 접근할 수 없지만, foo 함수 안에서
 
-	bar(b * 4);
+  function bar(c) {
+    let b = 2; // bar 함수 스코프 안에서 생성한 다른 `b` 변수
+              // 새로 만든 `b` 변수를 변경해도 오래된 `b` 변수에는 영향이 없음
+    console.log( a, b, c );
+  }
+
+  bar(b * 4);
 }
 
 foo(); // 4, 2, 48
@@ -27,10 +27,10 @@ foo(); // 4, 2, 48
 즉시 실행하는 함수식(IIFE, Immediately Invoked Function Expression)은 지역 스코프를 만드는 일반적인 패턴입니다.
 예제:
 ```js
-	(function(){ // 함수식은 괄호로 둘러 쌈
+(function(){ // 함수식은 괄호로 둘러 쌈
 		// 변수 선언은 여기서
 		// 밖에서 접근할 수 없음
-	})(); // 함수는 즉시 실행됨
+})(); // 함수는 즉시 실행됨
 ```
 ## 도전 과제:
 
@@ -38,29 +38,29 @@ foo(); // 4, 2, 48
 
 이 파일에 다음 코드를 복사합니다.
 ```js
-var a = 1, b = 2, c = 3;
+let a = 1, b = 2, c = 3;
 
 (function firstFunction(){
-	var b = 5, c = 6;
+  let b = 5, c = 6;
 
-	(function secondFunction(){
-		var b = 8;
-		
-		(function thirdFunction(){
-			var a = 7, c = 9;
+  (function secondFunction(){
+    let b = 8;
 
-			(function fourthFunction(){
-				var a = 1, c = 8;
+    (function thirdFunction(){
+      let a = 7, c = 9;
 
-			})();
-		})();
-	})();
+      (function fourthFunction(){
+        let a = 1, c = 8;
+
+      })();
+    })();
+  })();
 })();
 ```
 
 변수의 `스코프`에 관한 지식을 활용해 다음 코드를 `scope.js` 안의 함수 안에 넣어 `a: 1, b: 8,c: 6`를 출력하게 하세요.
 ```js
-console.log("a: "+a+", b: "+b+", c: "+c);
+console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```
 
 이 명령어를 실행해 프로그램이 올바른지 확인하세요.

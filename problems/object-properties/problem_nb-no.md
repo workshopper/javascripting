@@ -3,7 +3,7 @@ Du kan bruke og endre objektegenskaper –– nøklene og verdiene et objekt inn
 Her er et eksempel som bruker **hakeparantes**:
 
 ```js
-var eksempel = {
+const eksempel = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ Lag en fil som heter `object-properties.js`.
 Definer en variabel med navnet `food` i den filen:
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```

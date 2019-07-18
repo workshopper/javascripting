@@ -3,7 +3,7 @@ Gli oggetti sono liste di valori simili agli array, con l'eccezione che i valori
 Ecco un esempio
 
 ```js
-var foodPreferences = {
+const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
 };
@@ -16,7 +16,7 @@ Crea un file dal nome `objects.js`.
 In questo file, definisci una variabile chiamata `pizza` come segue:
 
 ```js
-var pizza = {
+const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2

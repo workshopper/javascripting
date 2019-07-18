@@ -3,7 +3,7 @@ Noen ganger må du gjøre om et nummer til en string.
 I de tilfelle må du bruke `.toString()` metoden. Eksempel:
 
 ```js
-var nummer = 256;
+let nummer = 256;
 nummer = nummer.toString();
 ```
 

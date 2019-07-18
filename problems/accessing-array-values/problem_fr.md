@@ -5,7 +5,7 @@ Les index doivent être des nombres allant de zero à la longueur du tableaux mo
 Voici un exemple :
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 
 console.log(pets[0]);
 ```
@@ -31,7 +31,7 @@ Créez un fichier nommé `acces-valeurs-tableau.js`
 
 Dans ce fichier, définissez un tableau `food` :
 ```js
-var food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear'];
 ```
 
 

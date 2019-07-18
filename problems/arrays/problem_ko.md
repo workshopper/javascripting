@@ -1,7 +1,7 @@
 배열은 값의 목록입니다. 예를 들면 다음과 같습니다.
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat'];
 ```
 
 ### 도전 과제

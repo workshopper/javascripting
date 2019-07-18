@@ -1,9 +1,9 @@
-Uma variável é o nome que pode fazer referência a um valor específico. Variáveis são declaradas usando a palavra `var` seguida do nome da variável.
+Uma variável é o nome que pode fazer referência a um valor específico. Variáveis são declaradas usando a palavra `let` seguida do nome da variável.
 
 Aqui está um exemplo:
 
 ```js
-var example;
+let example;
 ```
 
 A variável acima foi **declarada**, mas ainda não foi definida (ou seja, ainda não faz referência á um valor específico).
@@ -11,12 +11,12 @@ A variável acima foi **declarada**, mas ainda não foi definida (ou seja, ainda
 Aqui está um exemplo de como definir uma variável, fazendo ela referenciar um valor específico:
 
 ```js
-var example = 'some string';
+let example = 'some string';
 ```
 
 # OBSERVAÇÃO
 
-Um variável é **declarada** quando usamos `var`, e o `=` é usado para **definir** o valor pelo qual a variável vai fazer referência. 
+Um variável é **declarada** quando usamos `let`, e o `=` é usado para **definir** o valor pelo qual a variável vai fazer referência. 
 
 Coloquialmente dizemos que "criamos uma variável com um valor".
 

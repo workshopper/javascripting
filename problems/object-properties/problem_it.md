@@ -3,7 +3,7 @@ Puoi accedere e manipolare proprietà degli oggetti –– le chiavi e i valori 
 Ecco un esempio usando le **parentesi quadre**:
 
 ```js
-var example = {
+const example = {
   pizza: 'yummy'
 };
 
@@ -29,7 +29,7 @@ Crea un file dal nome `object-properties.js`.
 In questo file, definisci una variabile chiamata `food` come segue:
 
 ```js
-var food = {
+const food = {
   types: 'only pizza'
 };
 ```

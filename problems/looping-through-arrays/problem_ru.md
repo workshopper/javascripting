@@ -7,7 +7,7 @@
 Например в этом массиве элементу `hi` соответствует номер `1`:
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 
 Получить доступ к нему можно вот так:

@@ -9,7 +9,7 @@ Los índices comienzan desde el cero.
 Entonces en este array, el elemento `hi` es identificado por el número `1`:
 
 ```js
-var greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning'];
 ```
 Puede ser accedido de la siguiente forma:
 
