@@ -79,7 +79,6 @@ Code contributions welcome! Please check our [documentation on contributing](htt
 
 Add these challenges:
 
-- "OBJECT KEYS"
 - "FUNCTION RETURN VALUES"
 - "THIS"
 
