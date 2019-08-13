@@ -1,4 +1,4 @@
-Javascript provides a native way of listing all the available keys of an object. This can be helpful for looping through all the properties of an object and manipulating their values accordingly.
+JavaScript provides a native way of listing all the available keys of an object. This can be helpful for looping through all the properties of an object and manipulating their values accordingly.
 
 Here's an example of listing all object keys using the **Object.keys()**
 prototype method.
