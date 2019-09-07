@@ -4,7 +4,7 @@
 
 Ottimo lavoro nell'accedere a quella proprietà.
 
-La prossima sfida è interamente centrata sulle **funzioni**.
+La prossima sfida è interamente centrata sulle **chiavi degli oggetti**.
 
 Esegui `javascripting` nella console per scegliere la prossima sfida.
 

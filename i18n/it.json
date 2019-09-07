@@ -16,6 +16,7 @@
         , "LOOPING THROUGH ARRAYS": "PERCORRERE UN ARRAY"
         , "OBJECTS":                "GLI OGGETTI"
         , "OBJECT PROPERTIES":      "PROPRIETÀ DI UN OGGETTO"
+        , "OBJECT KEYS":            "LE CHIAVI DI UN OGGETTO"
         , "FUNCTIONS":              "LE FUNZIONI"
         , "FUNCTION ARGUMENTS":     "ARGOMENTI DELLA FUNZIONE"
         , "SCOPE":                  "LO SCOPE"
