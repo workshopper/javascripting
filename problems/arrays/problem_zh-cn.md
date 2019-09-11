@@ -1,7 +1,7 @@
 数组就是由一组值构成的列表。下面是一个例子：
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 ```
 
 ### 挑战：

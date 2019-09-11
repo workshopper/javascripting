@@ -1,1 +1,1 @@
-module.exports = require("../../lib/problem")(__dirname)
+module.exports = require('../../lib/problem')(__dirname)

@@ -7,7 +7,7 @@ Alt mellom parantesene i `console.log()` skrives ut til skjermen.
 Det vil si:
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 skriver ut `hello` til skjermen.

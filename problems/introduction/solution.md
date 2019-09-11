@@ -7,7 +7,7 @@ Anything between the parentheses of `console.log()` are printed to the terminal.
 So this: 
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 prints `hello` to the terminal.

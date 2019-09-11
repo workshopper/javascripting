@@ -10,11 +10,11 @@ In the `index.js` file, the workshopper is instantiated with a list of supported
 
 ```js
 const workshopper = require('workshopper-adventure')({
-    appDir: __dirname
-  , languages: ['en', 'ja', 'zh-cn']
-  , header: require('workshopper-adventure/default/header')
-  , footer: require('./lib/footer.js')
-});
+  appDir: __dirname,
+  languages: ['en', 'ja', 'zh-cn'],
+  header: require('workshopper-adventure/default/header'),
+  footer: require('./lib/footer.js')
+})
 ```
 
 If you want to add a new language, e.g. Spanish, add an entry `'es'` to the array:

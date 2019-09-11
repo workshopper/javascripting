@@ -4,7 +4,7 @@ Aqui está um exemplo:
 
 ```js
 function example (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -20,13 +20,13 @@ O exemplo acima assume que a função `example` irá receber um número como um 
 
 Crie um arquivo chamado `functions.js`.
 
-Neste arquivo, defina uma função chamada `eat` que recebe um argumento chamado `food`  
+Neste arquivo, defina uma função chamada `eat` que recebe um argumento chamado `food`
 que deverá ser uma string.
 
 De dentro da função retorne o argumento `food` dessa maneira:
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 Dentro do parênteses do `console.log()`, chame a função `eat()` com a string `bananas` como argumento.

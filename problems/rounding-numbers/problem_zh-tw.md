@@ -15,7 +15,7 @@
 `Math.round()` 的例子：
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 再定義一個名為 `rounded` 的變數，讓它引用 `Math.round()` 的結果。將 `roundUp` 作為參數傳遞。

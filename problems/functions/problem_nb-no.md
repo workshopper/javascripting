@@ -5,7 +5,7 @@ Her er et eksempel:
 
 ```js
 function eksempel (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -26,7 +26,7 @@ Definer en funksjon med navnet `eat` i den filen som tar i mot argumentet med na
 På innsiden av den funksjonen skal du returnere `food` argumentet slik som dette:
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 Inni parantesene til `console.log()`, kall `eat()` funksjonen med stringen `bananas` som argument.

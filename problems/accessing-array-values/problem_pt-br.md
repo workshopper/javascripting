@@ -6,9 +6,9 @@ Aqui está um exemplo:
 
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 O código acima imprime o primeiro elemento do array `pets` - a string `cat`.
@@ -20,7 +20,7 @@ Utilizar ponto para acessar o elemento não é válido.
 Uso válido:
 
 ```js
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 Uso invalido:
@@ -34,7 +34,7 @@ Crie um arquivo chamado `accessing-array-values.js`.
 
 Neste arquivo, defina o array `food` :
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 

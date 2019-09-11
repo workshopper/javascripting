@@ -7,32 +7,32 @@ Les fonctions définies à l'intérieur d'autres fonctions, aussi connues en tan
 Soyez attentif aux commentaires dans le code suivant :
 
 ```js
-const a = 4; // a est une variable globale, elle est accessible dans les fonctions ci-dessous
+const a = 4 // a est une variable globale, elle est accessible dans les fonctions ci-dessous
 
-function foo() {
-  let b = a * 3; // b n'est pas accessible hors de la fonction foo mais l'est
-		// dans les fonctions déclarées à l'intérieur de foo
+function foo () {
+  const b = a * 3 // b n'est pas accessible hors de la fonction foo mais l'est
+  // dans les fonctions déclarées à l'intérieur de foo
 
-  function bar(c) {
-    let b = 2; // une autre variable `b` est créée à l'intérieur du scope de la fonction
+  function bar (c) {
+    const b = 2 // une autre variable `b` est créée à l'intérieur du scope de la fonction
     		// les changements apportés à cette nouvelle variable `b` n'ont pas d'effet sur
-			// l'ancienne variable `b`
-    console.log( a, b, c );
+    // l'ancienne variable `b`
+    console.log(a, b, c)
   }
 
-  bar(b * 4);
+  bar(b * 4)
 }
 
-foo(); // 4, 2, 48
+foo() // 4, 2, 48
 ```
 
 IIFE, Immediately Invoked Function Expression, est un schéma commun pour créer des scopes locaux :
 
 ```js
-(function(){ // l'expression `function` est entourée par des parenthèses
-		// les variables définies ici
-		// ne sont pas accessibles en dehors
-})(); // la fonction est appelée immédiatement
+(function () { // l'expression `function` est entourée par des parenthèses
+  // les variables définies ici
+  // ne sont pas accessibles en dehors
+})() // la fonction est appelée immédiatement
 ```
 ## Le défi :
 
@@ -40,29 +40,28 @@ Créez un fichier nommé `scope.js`.
 
 Dans ce fichier, copiez le code suivant :
 ```js
-let a = 1, b = 2, c = 3;
+const a = 1; const b = 2; const c = 3;
 
-(function firstFunction(){
-  let b = 5, c = 6;
+(function firstFunction () {
+  const b = 5; const c = 6;
 
-  (function secondFunction(){
-    let b = 8;
+  (function secondFunction () {
+    const b = 8;
 
-    (function thirdFunction(){
-      let a = 7, c = 9;
+    (function thirdFunction () {
+      const a = 7; const c = 9;
 
-      (function fourthFunction(){
-        let a = 1, c = 8;
-
-      })();
-    })();
-  })();
-})();
+      (function fourthFunction () {
+        const a = 1; const c = 8
+      })()
+    })()
+  })()
+})()
 ```
 
 Utilisez vos connaissances des `scopes` de variables et placez le code suivant à l'intérieur d'une fonction de `scope.js` afin d'obtenir la sortie `a: 1, b: 8, c: 6`
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`);
+console.log(`a: ${a}, b: ${b}, c: ${c}`)
 ```
 
 Vérifiez si votre programme est correct en exécutant la commande :

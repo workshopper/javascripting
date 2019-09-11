@@ -15,7 +15,7 @@ Useremo il metodo `Math.round()` per arrotondare il numero per eccesso. Questo m
 Un esempio dell'uso di `Math.round()`:
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 Definisci una seconda variabile chiamata `rounded` che referenzia l'output del metodo `Math.round()`, passando la variabile `roundUp` come argomento.

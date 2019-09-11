@@ -5,14 +5,14 @@
 
 ```js
 function example (firstArg, secondArg) {
-  console.log(firstArg, secondArg);
+  console.log(firstArg, secondArg)
 }
 ```
 
 引数が2つの関数を**呼び出す**には、次のようにします。
 
 ```js
-example('hello', 'world');
+example('hello', 'world')
 ```
 
 上の例を実行すると、ターミナルに `hello world` と出力されるでしょう。

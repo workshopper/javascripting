@@ -5,9 +5,9 @@ Le stringhe possiedono funzionalità integrata che ti permette di ispezionarne e
 Ecco un esempio che usa il metodo `.replace()`:
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 Nota che per cambiare il valore referenziato dalla variabile `example`, dobbiamo usare  

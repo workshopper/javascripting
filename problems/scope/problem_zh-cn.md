@@ -7,29 +7,29 @@ JavaScript 有两种类型的作用域：`全局` 以及 `局部`。函数外声
 注意下面的代码：
 
 ```js
-const a = 4; // a is a global variable, it can be accesed by the functions below
+const a = 4 // a is a global variable, it can be accesed by the functions below
 
-function foo() {
-  let b = a * 3; // b cannot be accesed outside foo function, but can be accesed by functions
-								// defined inside foo
-  function bar(c) {
-    let b = 2; // another `b` variable is created inside bar function scope
-              // the changes to this new `b` variable don't affect the old `b` variable
-    console.log( a, b, c );
+function foo () {
+  const b = a * 3 // b cannot be accesed outside foo function, but can be accesed by functions
+  // defined inside foo
+  function bar (c) {
+    const b = 2 // another `b` variable is created inside bar function scope
+    // the changes to this new `b` variable don't affect the old `b` variable
+    console.log(a, b, c)
   }
 
-  bar(b * 4);
+  bar(b * 4)
 }
 
-foo(); // 4, 2, 48
+foo() // 4, 2, 48
 ```
 立即函式（IIFE, Immediately Invoked Function Expression）是用来创建局部作用域的常用方法。
 例子：
 ```js
-(function(){ // the function expression is surrounded by parenthesis
-		// variables defined here
-		// can't be accesed outside
-})(); // the function is immediately invoked
+(function () { // the function expression is surrounded by parenthesis
+  // variables defined here
+  // can't be accesed outside
+})() // the function is immediately invoked
 ```
 ## 挑战：
 
@@ -37,27 +37,26 @@ foo(); // 4, 2, 48
 
 在文件中复制粘贴下面的代码：
 ```js
-let a = 1, b = 2, c = 3;
+const a = 1; const b = 2; const c = 3;
 
-(function firstFunction(){
-  let b = 5, c = 6;
+(function firstFunction () {
+  const b = 5; const c = 6;
 
-  (function secondFunction(){
-    let b = 8;
+  (function secondFunction () {
+    const b = 8;
 
-    (function thirdFunction(){
-      let a = 7, c = 9;
+    (function thirdFunction () {
+      const a = 7; const c = 9;
 
-      (function fourthFunction(){
-        let a = 1, c = 8;
-
-      })();
-    })();
-  })();
-})();
+      (function fourthFunction () {
+        const a = 1; const c = 8
+      })()
+    })()
+  })()
+})()
 ```
 
 依你对 `作用域` 的理解，将下面这段代码插入上述代码里，使得代码的输出为 `a: 1, b: 8,c: 6`。
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`);
+console.log(`a: ${a}, b: ${b}, c: ${c}`)
 ```

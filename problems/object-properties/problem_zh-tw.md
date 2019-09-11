@@ -5,9 +5,9 @@
 ```js
 const example = {
   pizza: 'yummy'
-};
+}
 
-console.log(example['pizza']);
+console.log(example['pizza'])
 ```
 
 上面的例子將印出 `'yummy'` 到終端機上。
@@ -15,9 +15,9 @@ console.log(example['pizza']);
 你也可以使用**點**來得到相同的結果：
 
 ```js
-example.pizza;
+example.pizza
 
-example['pizza'];
+example['pizza']
 ```
 
 上面的兩行程式碼都會返回 `yummy`。
@@ -31,7 +31,7 @@ example['pizza'];
 ```js
 const food = {
   types: 'only pizza'
-};
+}
 ```
 
 使用 `console.log()` 印出 `food` 物件的 `types` 屬性到終端機上。

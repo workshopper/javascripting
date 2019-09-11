@@ -1,7 +1,7 @@
 Um array é uma lista de valores. Aqui está um exemplo:
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 ```
 
 ### Desafio:

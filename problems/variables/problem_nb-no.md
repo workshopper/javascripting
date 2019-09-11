@@ -3,7 +3,7 @@ En variabel er et navn som kan peke til en spesifikk verdi. Variables deklareres
 Her er et eksempel:
 
 ```js
-let example;
+let example
 ```
 
 Variabelen over er **deklarert**, men den er ikke definert (den peker ikke til en spesifikk verdi ennå).
@@ -11,7 +11,7 @@ Variabelen over er **deklarert**, men den er ikke definert (den peker ikke til e
 Her er et eksempel som definerer en variabel, ved å peke til en spesifikk verdi:
 
 ```js
-let example = 'some string';
+const example = 'some string'
 ```
 
 # OBS

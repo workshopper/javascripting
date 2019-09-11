@@ -5,9 +5,9 @@
 ```js
 const example = {
   pizza: 'yummy'
-};
+}
 
-console.log(example['pizza']);
+console.log(example['pizza'])
 ```
 
 Код приведенный выше выведет в терминал строку `'yummy'`.
@@ -15,9 +15,9 @@ console.log(example['pizza']);
 В качестве альтернативы, вы можете использовать **запись с точкой** и получить идентичный результат:
 
 ```js
-example.pizza;
+example.pizza
 
-example['pizza'];
+example['pizza']
 ```
 
 Обе строки кода, приведенные выше, вернут одинаковое значение `yummy`.
@@ -31,7 +31,7 @@ example['pizza'];
 ```js
 const food = {
   types: 'only pizza'
-};
+}
 ```
 
 Используйте `console.log()` и выведите в терминал свойство `types` объекта `food`.

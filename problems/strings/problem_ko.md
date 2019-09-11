@@ -5,7 +5,7 @@
 ```js
 'this is a string'
 
-"this is also a string"
+'this is also a string'
 ```
 
 ## 주의
@@ -19,7 +19,7 @@
 그 파일 안에서 `someString`이라는 변수를 만드세요. 이렇게 하면 됩니다.
 
 ```js
-const someString = 'this is a string';
+const someString = 'this is a string'
 ```
 
 `console.log`를 사용해 **someString** 변수를 터미널에 출력합니다.

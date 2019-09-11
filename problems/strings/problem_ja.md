@@ -5,7 +5,7 @@
 ```js
 'this is a string'
 
-"this is also a string"
+'this is also a string'
 ```
 
 どちらかの引用符を使うルールを決め、守りましょう。 このワークショップでは一重引用符だけを使います。
@@ -17,7 +17,7 @@
 ファイルの中で、次のように変数 `someString` を作りましょう。
 
 ```js
-const someString = 'this is a string';
+const someString = 'this is a string'
 ```
 
 `console.log` を使い、変数 **someString** をターミナルに表示しましょう。

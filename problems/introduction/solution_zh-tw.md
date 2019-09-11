@@ -7,7 +7,7 @@
 所以：
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 會印出 `hello` 到你的終端機。

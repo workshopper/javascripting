@@ -3,7 +3,7 @@ A variable is a name that can reference a specific value. Variables are declared
 Here's an example:
 
 ```js
-let example;
+let example
 ```
 
 The above variable is **declared**, but it isn't defined (it does not yet reference a specific value).
@@ -11,7 +11,7 @@ The above variable is **declared**, but it isn't defined (it does not yet refere
 Here's an example of defining a variable, making it reference a specific value:
 
 ```js
-let example = 'some string';
+const example = 'some string'
 ```
 
 # NOTE 

@@ -7,7 +7,7 @@
 Тому це:
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 виведе `hello` до терміналу.

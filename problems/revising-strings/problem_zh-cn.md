@@ -5,9 +5,9 @@
 这里是一个使用 `.replace()` 方法的例子：
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 为了改变 `example` 变量引用的值，我们需要再一次使用等号。这一次出现在等号右边的是 `example.replace()` 方法。

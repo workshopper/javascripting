@@ -5,9 +5,9 @@ Les chaînes de caractères ont des fonctionnalités directement intégrées qui
 Voici un exemple qui utilise la méthode `.replace()` :
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 Notez que pour modifier la valeur contenue dans la variable `example`, nous devons utiliser encore une fois le signe égal, mais cette fois avec la méthode `example.replace()` à la droite du égal.

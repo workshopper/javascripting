@@ -4,14 +4,14 @@ Voici un exemple :
 
 ```js
 function example (firstArg, secondArg) {
-  console.log(firstArg, secondArg);
+  console.log(firstArg, secondArg)
 }
 ```
 
 Nous pouvons **appeler** cette fonction avec deux arguments comme cela :
 
 ```js
-example('hello', 'world');
+example('hello', 'world')
 ```
 
 L'exemple ci-dessus va afficher dans le terminal `hello world`.

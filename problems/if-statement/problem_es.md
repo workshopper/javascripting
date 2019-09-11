@@ -3,10 +3,10 @@ Los bloques condicionales son utilizados, partiendo de una condición booleana e
 Un bloque condicional se parece a lo siguiente:
 
 ```js
-if(n > 1) {
-  console.log('la variable n es mayor a 1.');
+if (n > 1) {
+  console.log('la variable n es mayor a 1.')
 } else {
-  console.log('la variable n es menor o igual a 1.');
+  console.log('la variable n es menor o igual a 1.')
 }
 ```
 

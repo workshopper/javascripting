@@ -2,7 +2,7 @@ Una variable es una referencia a un valor. Define una variable usando la palabra
 
 Por ejemplo:
 ```js
-let example;
+let example
 ```
 
 La variable anterior es **declarada**, pero no definida.
@@ -10,7 +10,7 @@ La variable anterior es **declarada**, pero no definida.
 A continuación damos un ejemplo de cómo definir una variable, haciendo que referencie a un valor específico:
 
 ```js
-let example = 'some string';
+const example = 'some string'
 ```
 
 Nota que empieza con la palabra reserva `let` y usa el signo de igualdad entre en nombre de la variable y el valor que referencia.

@@ -3,8 +3,8 @@
 Для этого мы будем использовать свойство `.length`. Например:
 
 ```js
-const example = 'example string';
-example.length;
+const example = 'example string'
+example.length
 ```
 
 ## НА ЗАМЕТКУ

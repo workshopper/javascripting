@@ -4,7 +4,7 @@
 
 ```js
 function example (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -25,7 +25,7 @@ example(5)
 Внутри функции используйте аргумент `food` и верните следующий результат:
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 Внутри скобок выражения `console.log()` вызовите функцию `eat()`, указав в качестве аргумента строку `bananas`.

@@ -7,11 +7,11 @@ Per fare ciò possiamo utilizzare il metodo `.filter()`.
 Ecco un esempio:
 
 ```js
-const pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant']
 
 const filtered = pets.filter(function (pet) {
-  return (pet !== 'elephant');
-});
+  return (pet !== 'elephant')
+})
 ```
 
 La variabile `filtered` conterrà soltanto `cat` e `dog`.
@@ -23,7 +23,7 @@ Crea un file dal nome `array-filtering.js`.
 In questo file, definisci una variabile chiamata `numbers` che fa riferimento a questo array:
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 Come sopra, definisci una variabile chiamata `filtered` che fa riferimento al risultato di `numbers.filter()`.
@@ -32,7 +32,7 @@ La funzione che passerai al metodo `.filter()` dovrà apparire come segue:
 
 ```js
 function evenNumbers (number) {
-  return number % 2 === 0;
+  return number % 2 === 0
 }
 ```
 

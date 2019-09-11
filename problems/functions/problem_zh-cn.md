@@ -4,7 +4,7 @@
 
 ```js
 function example (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -25,7 +25,7 @@ example(5)
 在函数中将 `food` 参数处理后像下面这样返回：
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 在 `console.log()` 的括号中，调用 `eat()` 函数，并把字符串 `bananas` 当做参数传递给它。

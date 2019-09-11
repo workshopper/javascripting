@@ -3,8 +3,8 @@
 这时，你可以使用 `.toString()` 方法。例如：
 
 ```js
-let n = 256;
-n = n.toString();
+let n = 256
+n = n.toString()
 ```
 
 ## 挑战：

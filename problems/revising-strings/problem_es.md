@@ -5,9 +5,9 @@ Las strings tienen una funcionalidad por defecto que te permite reemplazar carac
 Por ejemplo a continuación veremos un uso del método `.replace()`:
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 Nota que para cambiar el valor que la variable `example` referencia, 

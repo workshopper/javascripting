@@ -5,9 +5,9 @@ As strings tem funcionalidades que te permitem inspecionar e manipular seus cont
 Aqui está um exemplo que usa o método `.replace()`:
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 Perceba que para mudar o valor da string da variável `example`, nós precisamos  

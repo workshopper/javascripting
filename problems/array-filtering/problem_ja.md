@@ -7,11 +7,11 @@
 たとえば...
 
 ```js
-const pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant']
 
 const filtered = pets.filter(function (pet) {
-  return (pet !== 'elephant');
-});
+  return (pet !== 'elephant')
+})
 ```
 
 `フィルターした` 配列の中には `cat` と `dog` だけが残ります。
@@ -24,7 +24,7 @@ const filtered = pets.filter(function (pet) {
 ファイルの中で、 次の配列を表す、変数 `numbers` を定義しましょう。
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 同様に、 `numbers.filter()` の実行結果を表す、変数 `filtered` を定義しましょう。
@@ -33,7 +33,7 @@ const filtered = pets.filter(function (pet) {
 
 ```js
 function evenNumbers (number) {
-  return number % 2 === 0;
+  return number % 2 === 0
 }
 ```
 

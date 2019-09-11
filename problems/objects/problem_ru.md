@@ -6,7 +6,7 @@
 const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
-};
+}
 ```
 
 ## Условие задачи:
@@ -20,7 +20,7 @@ const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2
-};
+}
 ```
 
 Используйте `console.log()` и введите в терминал объект `pizza`.

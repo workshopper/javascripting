@@ -3,7 +3,7 @@ En **string** er en verdi omgitt av anførselsteng eller apostrof:
 ```js
 'dette er en string'
 
-"dette er også en string"
+'dette er også en string'
 ```
 #OBS
 
@@ -16,7 +16,7 @@ I denne oppgaven, lage en fil med navnet `strings.js`.
 Lage en variabel `someString`, slik som dette:
 
 ```js
-const someString = 'this is a string';
+const someString = 'this is a string'
 ```
 
 For å skrive variabelen **someString** til skjermen kan du bruke `console.log`.

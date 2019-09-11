@@ -3,8 +3,8 @@
 그런 경우에 `.toString()` 메소드를 사용하면 됩니다. 예제를 보세요.
 
 ```js
-let n = 256;
-n = n.toString();
+let n = 256
+n = n.toString()
 ```
 
 ## 도전 과제

@@ -3,7 +3,7 @@ Du har ofte behov for å vite hvor mange tegn det er i en streng.
 For å finne ut det kan du bruke `.length` egenskapen. Slik som dette:
 
 ```js
-const example = 'eksempel streng';
+const example = 'eksempel streng'
 example.length
 ```
 

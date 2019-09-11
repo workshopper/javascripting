@@ -26,7 +26,7 @@ Créez une boucle `for` avec une variable `i` commençant à 0 et s'incrémentan
 À chaque itération de la boucle, ajoutez le nombre `i` à la variable `total`. Pour faire cela, vous pouvez utiliser l'instruction suivante :
 
 ```js
-total += i;
+total += i
 ```
 
 Après la boucle, utilisez `console.log()` pour afficher la variable `total` dans le terminal.

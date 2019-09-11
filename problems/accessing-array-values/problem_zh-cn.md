@@ -5,9 +5,9 @@
 下面是一个例子：
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 上面的代码将打印出 `pets` 数组的第一个元素，也就是字符串 `cat`。
@@ -19,7 +19,7 @@ console.log(pets[0]);
 这是一个正确的例子：
 
 ```js
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 下面的用法是错误的：
@@ -33,7 +33,7 @@ console.log(pets.1);
 
 在文件中定义一个数组 `food`：
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 使用 `console.log()` 打印数组的第二个值到终端。

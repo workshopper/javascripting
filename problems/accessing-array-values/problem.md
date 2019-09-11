@@ -6,9 +6,9 @@ Here is an example:
 
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 The above code will print the first element of `pets` array - string `cat`.
@@ -20,7 +20,7 @@ Dot notation is invalid.
 Valid notation:
 
 ```js
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 Invalid notation:
@@ -34,7 +34,7 @@ Create a file named `accessing-array-values.js`.
 
 In that file, define array `food` :
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 

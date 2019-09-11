@@ -5,13 +5,13 @@ prototype method.
 
 ```js
 const car = {
-    make: 'Toyota',
-    model: 'Camry',
-    year: 2020
-};
-const keys = Object.keys(car);
+  make: 'Toyota',
+  model: 'Camry',
+  year: 2020
+}
+const keys = Object.keys(car)
 
-console.log(keys);
+console.log(keys)
 ```
 
 The above code will print an array of strings, where each string is a key in the car object. `['make', 'model', 'year']`
@@ -27,12 +27,12 @@ const car = {
   make: 'Honda',
   model: 'Accord',
   year: 2020
-};
+}
 ```
 
 Then define another variable named `keys` like this:
 ```js
-const keys = Object.keys(car);
+const keys = Object.keys(car)
 ```
 
 Use `console.log()` to print the `keys` variable to the terminal.

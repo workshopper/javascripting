@@ -4,7 +4,7 @@
 
 ```js
 function example (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -25,7 +25,7 @@ example(5)
 함수 안에서 `food` 인자를 이렇게 반환합니다.
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 `console.log()`의 괄호 안에서 문자열 `bananas`를 인자로 하는 `eat()` 함수를 호출합니다.

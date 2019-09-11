@@ -3,8 +3,8 @@ A volte è necessario trasformare un numero in una stringa.
 In quei casi, userai il metodo `.toString()`. Ecco un esempio:
 
 ```js
-let n = 256;
-n = n.toString();
+let n = 256
+n = n.toString()
 ```
 
 ## La sfida:

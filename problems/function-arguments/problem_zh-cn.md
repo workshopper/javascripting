@@ -4,14 +4,14 @@
 
 ```js
 function example (firstArg, secondArg) {
-  console.log(firstArg, secondArg);
+  console.log(firstArg, secondArg)
 }
 ```
 
 我们可以**调用**这个函数，并给它两个参数：
 
 ```js
-example('hello', 'world');
+example('hello', 'world')
 ```
 
 上面的代码将打印 `hello world` 到终端。

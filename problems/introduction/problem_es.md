@@ -25,7 +25,7 @@ type NUL > introduction.js
 Agrega el siguiente texto al archivo:
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
   
 Comprueba si tu programa es correcto ejecutando el siguiente comando:

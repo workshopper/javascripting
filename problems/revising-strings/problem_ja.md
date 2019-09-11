@@ -5,9 +5,9 @@
 たとえば `.replace()` メソッドは次のように使います...
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 等号を使って `example` 変数を、もう一度変更することに注意してください。

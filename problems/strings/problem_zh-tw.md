@@ -5,7 +5,7 @@
 ```js
 'this is a string'
 
-"this is also a string"
+'this is also a string'
 ```
 # 注
 
@@ -18,7 +18,7 @@
 在該檔案中像這樣建立一個名為 `someString` 的變數：
 
 ```js
-const someString = 'this is a string';
+const someString = 'this is a string'
 ```
 
 使用 `console.log` 印出變數 **someString** 到終端機上。

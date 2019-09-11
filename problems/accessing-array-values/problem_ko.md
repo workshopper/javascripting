@@ -6,9 +6,9 @@
 
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 위의 코드는 `pet`의 첫 번째 요소인 `cat` 문자열을 출력할 것입니다.
@@ -20,7 +20,7 @@ console.log(pets[0]);
 유효한 표기법
 
 ```js
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 유효하지 않은 표기법
@@ -34,7 +34,7 @@ console.log(pets.1);
 
 그 파일에서, `food`라는 배열을 정의합니다.
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 

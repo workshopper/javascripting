@@ -17,5 +17,11 @@
     "diff": "^4.0.1",
     "workshopper-adventure": "^6.0.4"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.2.0"
+  },
+  "scripts": {
+    "test": "standard"
+  }
 }
