@@ -1,4 +1,4 @@
-JavaScript nos da una manera nativa de listar _todas_ las _llaves_ (_keys_) de
+JavaScript nos da una manera nativa de listar todas las _llaves_ (_keys_) de
 un objeto. Esto puede ser muy útil para iterar sobre las propiedades de un
 objeto y manipular sus valores.
 
@@ -16,10 +16,10 @@ const keys = Object.keys(car);
 console.log(keys);
 ```
 
-El código de arriba imprime una arreglo de _strings_, donde cada _string_ es una
+El código de arriba imprime un arreglo de _strings_, donde cada _string_ es una
 _llave_ (_key_) en el objeto `car` (`['make', 'model', 'year']`).
 
-## El reto:
+## El ejercicio:
 
 Crea un archivo llamado `object-keys.js`.
 
@@ -39,7 +39,7 @@ Después define otra variable llamada `keys`:
 const keys = Object.keys(car);
 ```
 
-Usa `console.log()` para imprimir la variable `keys` a la consola.
+Usa `console.log()` para imprimir la variable `keys` en la consola.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
