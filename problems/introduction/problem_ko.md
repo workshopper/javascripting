@@ -29,7 +29,7 @@ type NUL > introduction.js
 좋아하는 편집기에서 파일을 열고 다음 내용을 넣으세요.
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 파일을 저장하고 프로그램이 올바른지 다음 명령어를 실행해 확인하세요.

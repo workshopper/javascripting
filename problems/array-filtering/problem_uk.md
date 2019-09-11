@@ -7,11 +7,11 @@
 Приклад:
 
 ```js
-const pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant']
 
 const filtered = pets.filter(function (pet) {
-return (pet !== 'elephant');
-});
+  return (pet !== 'elephant')
+})
 ```
 
 Змінна `filtered` буде містили лише елементи `cat` та `dog`.
@@ -23,7 +23,7 @@ return (pet !== 'elephant');
 У цьому файлі, створіть змінну 'numbers', що міститиме такий масив:
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 Як у прикладі вище, оголосіть змінну `filtered`, що міститиме результат виконання `numbers.filter()`.
@@ -32,7 +32,7 @@ return (pet !== 'elephant');
 
 ```js
 function evenNumbers (number) {
-return number % 2 === 0;
+  return number % 2 === 0
 }
 ```
 

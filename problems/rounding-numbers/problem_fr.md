@@ -15,7 +15,7 @@ Nous allons utiliser la méthode `Math.round()` pour arrondir notre nombre. Cett
 Un exemple d'utilisation de `Math.round()` :
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 Définissez une seconde variable nommée `rounded` qui contient le résultat de la méthode `Math.round()`, en lui passant la variable `roundUp` en argument.

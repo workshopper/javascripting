@@ -7,7 +7,7 @@ Todo lo que esté dentro de los paréntesis de `console.log()` será impreso a l
 Entonces esto: 
 
 ```js
-console.log('hola mundo');
+console.log('hola mundo')
 ```
 
 imprime `hola mundo` a la terminal.

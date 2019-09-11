@@ -3,8 +3,8 @@
 Nestas situações você usará o método `.toString()`. Veja um exemplo de como usá-lo:
 
 ```js
-let n = 256;
-n = n.toString();
+let n = 256
+n = n.toString()
 ```
 
 ## Desafio:

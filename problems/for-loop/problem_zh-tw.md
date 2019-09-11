@@ -27,7 +27,7 @@ for (let i = 0; i < 10; i++) {
 每次迴圈中，將 `i` 加到 `total` 上。你可以這樣做：
 
 ```js
-total += i;
+total += i
 ```
 
 For 迴圈結束後，使用 `console.log()` 印出 `total` 變數的值到終端機上。

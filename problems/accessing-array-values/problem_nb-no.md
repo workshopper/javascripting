@@ -5,9 +5,9 @@ Indeksnummeret starter fra null opp til antallet verdier i arrayet, minus en.
 Her er et eksempel:
 
 ```js
-const dyr = ['katt', 'hund', 'rotte'];
+const dyr = ['katt', 'hund', 'rotte']
 
-console.log(dyr[0]);
+console.log(dyr[0])
 ```
 
 Koden over skriver ut den første verdien i `dyr` arrayet - strengen `katt`.
@@ -19,7 +19,7 @@ Punktum notasjon er ikke gyldig.
 Gyldig:
 
 ```js
-console.log(dyr[0]);
+console.log(dyr[0])
 ```
 
 Ugyldig:
@@ -33,7 +33,7 @@ Lag en fil som heter `accessing-array-values.js`.
 
 Definer et array `food` i den filen:
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 Bruk `console.log()` til å skrive ut den `andre` verdien av det arrayet til skjermen.

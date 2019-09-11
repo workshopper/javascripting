@@ -1,7 +1,7 @@
 Un tableau est une liste de valeurs. Voici un exemple :
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 ```
 
 ### Le défi :

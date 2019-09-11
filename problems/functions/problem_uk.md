@@ -4,7 +4,7 @@
 
 ```js
 function example (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -25,7 +25,7 @@ example(5)
 Всередині функції повернуть аргумент `food` ось так:
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 Всередині круглих дужок в `console.log()`, викличіть функцію `eat()` з рядком `bananas` в якості аргументу.

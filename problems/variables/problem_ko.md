@@ -3,7 +3,7 @@
 예제를 보세요.
 
 ```js
-let example;
+let example
 ```
 
 위 변수는 **선언**되었지만, 정의되지는 않았습니다.(아직 특정 값을 참조하지 않았습니다.)
@@ -11,7 +11,7 @@ let example;
 특정 값을 참조하게 만든, 변수를 정의하는 예제입니다.
 
 ```js
-let example = 'some string';
+const example = 'some string'
 ```
 
 # 주의

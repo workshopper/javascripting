@@ -4,9 +4,9 @@ En beslutning ser slik ut:
 
 ```js
 if (n > 1) {
-  console.log('variablen n er større enn 1.');
+  console.log('variablen n er større enn 1.')
 } else {
-  console.log('variablen n er mindre eller lik 1.');
+  console.log('variablen n er mindre eller lik 1.')
 }
 ```
 

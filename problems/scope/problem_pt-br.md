@@ -7,30 +7,30 @@ Funções definidas dentro de outras funções, conhecidas como funções aninha
 Preste atenção nos comentários do código abaixo:
 
 ```js
-const a = 4; // uma variável global, pode ser acessada pelas funções abaixo
+const a = 4 // uma variável global, pode ser acessada pelas funções abaixo
 
-function foo() {
-  let b = a * 3; // b não pode ser acessada fora da função, mas pode ser acessada pelas funções
-								// definidas dentro da função foo
-  function bar(c) {
-    let b = 2; // uma outra variável `b` é criada dentro do escopo da função bar
-              // as mudanças dessa nova variável `b` não afeta a outra variável `b`
-    console.log( a, b, c );
+function foo () {
+  const b = a * 3 // b não pode ser acessada fora da função, mas pode ser acessada pelas funções
+  // definidas dentro da função foo
+  function bar (c) {
+    const b = 2 // uma outra variável `b` é criada dentro do escopo da função bar
+    // as mudanças dessa nova variável `b` não afeta a outra variável `b`
+    console.log(a, b, c)
   }
 
-  bar(b * 4);
+  bar(b * 4)
 }
 
-foo(); // 4, 2, 48
+foo() // 4, 2, 48
 ```
 IIFE, Immediately Invoked Function Expression (Expressão de Função Executada Imediatamente em tradução livre), é um padrão bastante usado para criar escopos locais.
 
 Exemplo:
 ```js
-(function(){ // a expressão da função é cercada por parênteses
-		// as variáveis definidas aqui
-		// não podem ser acessadas do lado de fora
-})(); // a função é executada imediatamente
+(function () { // a expressão da função é cercada por parênteses
+  // as variáveis definidas aqui
+  // não podem ser acessadas do lado de fora
+})() // a função é executada imediatamente
 ```
 ## Desafio:
 
@@ -38,30 +38,29 @@ Crie um arquivo chamado `scope.js`.
 
 Nesse arquivo, copie o seguinte código:
 ```js
-let a = 1, b = 2, c = 3;
+const a = 1; const b = 2; const c = 3;
 
-(function firstFunction(){
-  let b = 5, c = 6;
+(function firstFunction () {
+  const b = 5; const c = 6;
 
-  (function secondFunction(){
-    let b = 8;
+  (function secondFunction () {
+    const b = 8;
 
-    (function thirdFunction(){
-      let a = 7, c = 9;
+    (function thirdFunction () {
+      const a = 7; const c = 9;
 
-      (function fourthFunction(){
-        let a = 1, c = 8;
-
-      })();
-    })();
-  })();
-})();
+      (function fourthFunction () {
+        const a = 1; const c = 8
+      })()
+    })()
+  })()
+})()
 ```
 
 Utilize seus conhecimentos sobre `escopo` de variáveis e posicione o seguinte código dentro de uma das funções no 'scope.js'
 fazendo o resultado ser `a: 1, b: 8,c: 6`
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`);
+console.log(`a: ${a}, b: ${b}, c: ${c}`)
 ```
 
 Verifique se o seu programa está correto executando o comando:

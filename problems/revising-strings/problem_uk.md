@@ -5,9 +5,9 @@
 Ось приклад використання методу `.replace()`:
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 Зверніть увагу, що для зміни значення змінної `example` ми повинні використати оператор присвоєння знову, цього разу з методом `example.replace()` праворуч від операторa присвоєння.

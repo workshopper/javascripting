@@ -5,9 +5,9 @@ Stringer har innebygd funksjonalitet som lar de manipulere og se på innholdet.
 Her er et eksempel som bruker `.replace()` metoden:
 
 ```js
-let example = 'dette eksemplet er kjedelig';
-example = example.replace('kjedelig', 'kult');
-console.log(example);
+let example = 'dette eksemplet er kjedelig'
+example = example.replace('kjedelig', 'kult')
+console.log(example)
 ```
 
 Merk deg at for å endre verdien variabelen `example` refererer til så bruker vi likhetstegnet. Denne gangen med `example.replace()` metoden på høyre siden av likhetstegnet.

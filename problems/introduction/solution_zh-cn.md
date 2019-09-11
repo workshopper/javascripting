@@ -7,7 +7,7 @@
 所以：
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 打印出 `hello` 到你的终端。

@@ -5,9 +5,9 @@
 下面是一個例子：
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 上面的程式碼將印出 `pets` 陣列的第一個元素，也就是字串 `cat`。
@@ -19,7 +19,7 @@ console.log(pets[0]);
 這是一個正確的例子：
 
 ```js
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 下面的用法是錯誤的：
@@ -33,7 +33,7 @@ console.log(pets.1);
 
 在該檔案中定義一個陣列 `food`：
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 使用 `console.log()` 印出陣列中的 `第二個` 值。

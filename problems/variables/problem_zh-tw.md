@@ -3,7 +3,7 @@
 下面是一個例子：
 
 ```js
-let example;
+let example
 ```
 
 這個例子裡的變數被**宣告**，但是沒有被定義（也就是說，它目前還沒有引用一個值）。
@@ -12,7 +12,7 @@ let example;
 
 
 ```js
-let example = 'some string';
+const example = 'some string'
 ```
 
 # 注 

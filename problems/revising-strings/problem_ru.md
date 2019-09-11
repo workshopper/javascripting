@@ -5,9 +5,9 @@
 Рассмотрим пример использования метода `.replace()`:
 
 ```js
-let example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+let example = 'this example exists'
+example = example.replace('exists', 'is awesome')
+console.log(example)
 ```
 
 Обратите внимание: чтобы изменить значение переменной `example` нам нужно воспользоваться знаком _равно_ ещё раз, в этот раз вместе с вызовом метода `example.replace()` справа от знака _равно_.

@@ -5,7 +5,7 @@
 ```js
 'this is a string'
 
-"this is also a string"
+'this is also a string'
 ```
 
 ## НА ЗАМЕТКУ
@@ -19,7 +19,7 @@
 В этом файле объявите переменную `someString` таким образом:
 
 ```js
-const someString = 'this is a string';
+const someString = 'this is a string'
 ```
 
 Воспользуйтесь командой `console.log()`, чтобы вывести значение переменной **someString** в консоль.

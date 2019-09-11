@@ -5,7 +5,7 @@ Il peut s'agir de guillemets simples ou doubles :
 ```js
 'this is a string'
 
-"this is also a string"
+'this is also a string'
 ```
 
 ## NOTE
@@ -19,7 +19,7 @@ Pour ce défi, créez un fichier nommé `chaines.js`.
 Dans ce fichier, créez une variable nommée `someString` comme cela :
 
 ```js
-const someString = 'this is a string';
+const someString = 'this is a string'
 ```
 
 Utilisez `console.log` pour afficher la variable **someString** dans le terminal.

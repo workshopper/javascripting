@@ -22,7 +22,7 @@ touch introduction.js
 お好みのエディタでファイルを開きます。次の文を書き足しましょう。
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 ファイルを保存します。次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。

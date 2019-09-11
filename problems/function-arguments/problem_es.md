@@ -4,7 +4,7 @@ Un ejemplo:
 
 ```js
 function example (firstArg, secondArg) {
-  console.log(firstArg, secondArg);
+  console.log(firstArg, secondArg)
 }
 ```
 
@@ -12,7 +12,7 @@ Podemos **llamar** a la función con dos argumentos de la siguiente forma:
 
 
 ```js
-example('hello', 'world');
+example('hello', 'world')
 ```
 
 El ejemplo anterior imprimirá `hello world` a la terminal.

@@ -7,7 +7,7 @@
 그래서
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 는 `hello`를 터미널에 출력합니다.

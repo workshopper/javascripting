@@ -15,7 +15,7 @@ Vi vil bruke `Math.round()` metoden for å runde opp til nærmeste heltall.
 Et eksempel på bruk av `Math.round()`:
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 Definer en andre variabel med navnet `rounded` som referer resultat av `Math.round()` methoden,

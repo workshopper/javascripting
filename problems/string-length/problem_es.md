@@ -3,7 +3,7 @@ Muy seguido necesitarás saber cuantos caracteres hay en una string.
 Para esto, usarás la propiedad `.length`. Por ejemplo:
 
 ```js
-const example = 'example string';
+const example = 'example string'
 example.length
 ```
 

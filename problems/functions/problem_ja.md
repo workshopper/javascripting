@@ -5,7 +5,7 @@
 
 ```js
 function example (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -29,7 +29,7 @@ example(5)
 関数内で、 `food` 引数を次のように処理して返してください...
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 `console.log()` の括弧の中で、 `eat()` 関数を呼んで、引数として `bananas` という文字列を与えてください。

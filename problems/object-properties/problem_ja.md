@@ -7,9 +7,9 @@
 ```js
 const example = {
   pizza: 'yummy'
-};
+}
 
-console.log(example['pizza']);
+console.log(example['pizza'])
 ```
 
 上のコードは、 `'yummy'` とターミナルに出力します。
@@ -17,9 +17,9 @@ console.log(example['pizza']);
 別のやりかたとして、ドット記法を使って同じ結果を得ることもできます...
 
 ```js
-example.pizza;
+example.pizza
 
-example['pizza'];
+example['pizza']
 ```
 
 上の二つの行は、両方とも `yummy` という値を返します。
@@ -35,7 +35,7 @@ example['pizza'];
 ```js
 const food = {
   types: 'only pizza'
-};
+}
 ```
 
 `console.log()` を使って、 `food` オブジェクトの `types` プロパティをターミナルに表示しましょう。

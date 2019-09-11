@@ -7,11 +7,11 @@
 下面是一个例子：
 
 ```js
-const pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant']
 
 const filtered = pets.filter(function (pet) {
-  return (pet !== 'elephant');
-});
+  return (pet !== 'elephant')
+})
 ```
 
 变量 `filtered` 现在仅包含 `cat` 和 `dog`。
@@ -23,7 +23,7 @@ const filtered = pets.filter(function (pet) {
 在文件中，定义一个名为 `numbers` 的变量，并赋予下面的值：
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 像上面的例子那样，定义一个 `filtered` 变量，使它引用 `numbers.filter()` 的结果。
@@ -32,7 +32,7 @@ const filtered = pets.filter(function (pet) {
 
 ```js
 function evenNumbers (number) {
-  return number % 2 === 0;
+  return number % 2 === 0
 }
 ```
 

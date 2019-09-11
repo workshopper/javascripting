@@ -7,13 +7,13 @@ Each item in an array is identified by a number, starting at `0`.
 So in this array `hi` is identified by the number `1`:
 
 ```js
-const greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning']
 ```
 
 It can be accessed like this:
 
 ```js
-greetings[1];
+greetings[1]
 ```
 
 So inside a **for loop** we would use the `i` variable inside the square brackets instead of directly using an integer.
@@ -25,7 +25,7 @@ Create a file named `looping-through-arrays.js`.
 In that file, define a variable named `pets` that references this array:
 
 ```js
-['cat', 'dog', 'rat'];
+['cat', 'dog', 'rat']
 ```
 
 Create a for loop that changes each string in the array so that they are plural.
@@ -33,7 +33,7 @@ Create a for loop that changes each string in the array so that they are plural.
 You will use a statement like this inside the for loop:
 
 ```js
-pets[i] = pets[i] + 's';
+pets[i] = pets[i] + 's'
 ```
 
 After the for loop, use `console.log()` to print the `pets` array to the terminal.

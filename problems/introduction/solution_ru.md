@@ -7,7 +7,7 @@
 Поэтому вот это выражение:
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 выведет в терминал `hello`.

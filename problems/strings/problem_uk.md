@@ -5,7 +5,7 @@
 ```js
 'this is a string'
 
-"this is also a string"
+'this is also a string'
 ```
 # ЗАУВАЖЕННЯ
 
@@ -18,7 +18,7 @@
 У цьому файлі створіть змінну `someString` ось так:
 
 ```js
-const someString = 'this is a string';
+const someString = 'this is a string'
 ```
 
 Використайте `console.log`, щоб вивести змінну **someString** до терміналу.

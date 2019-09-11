@@ -1,7 +1,7 @@
 Et array er en liste av verdier. Her er et eksempel:
 
 ```js
-const dyr = ['katt', 'hund', 'rotte'];
+const dyr = ['katt', 'hund', 'rotte']
 ```
 
 ### Oppgaven:

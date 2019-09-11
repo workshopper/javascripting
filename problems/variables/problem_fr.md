@@ -3,7 +3,7 @@ Une variable est un nom qui fait référence à une valeur spécifique. Les vari
 Voici un exemple :
 
 ```js
-let example;
+let example
 ```
 
 La variable ci-dessus est **déclarée**, mais elle n'est pas définie ( elle ne référence aucune valeur pour le moment ).
@@ -11,7 +11,7 @@ La variable ci-dessus est **déclarée**, mais elle n'est pas définie ( elle 
 Voici un exemple de définition de variable, la faisant contenir une valeur spécifique :
 
 ```js
-let example = 'some string';
+const example = 'some string'
 ```
 
 # NOTE 

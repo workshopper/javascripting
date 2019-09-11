@@ -4,14 +4,14 @@
 
 ```js
 function example (firstArg, secondArg) {
-  console.log(firstArg, secondArg);
+  console.log(firstArg, secondArg)
 }
 ```
 
 Вот так можно **вызвать** эту функцию с двумя аргументами:
 
 ```js
-example('hello', 'world');
+example('hello', 'world')
 ```
 
 Указанный пример выведет на экран терминала `hello world`.

@@ -4,9 +4,9 @@
 
 ```js
 const foodPreferences = {
-pizza: 'yum',
-salad: 'gross'
-};
+  pizza: 'yum',
+  salad: 'gross'
+}
 ```
 
 ## Завдання:
@@ -17,10 +17,10 @@ salad: 'gross'
 
 ```js
 const pizza = {
-toppings: ['cheese', 'sauce', 'pepperoni'],
-crust: 'deep dish',
-serves: 2
-};
+  toppings: ['cheese', 'sauce', 'pepperoni'],
+  crust: 'deep dish',
+  serves: 2
+}
 ```
 
 Використайте `console.log()`, щоб вивести об’єкт `pizza` до терміналу.

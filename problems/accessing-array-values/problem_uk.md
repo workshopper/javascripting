@@ -5,9 +5,9 @@
 Приклад:
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 Код вище виведе перший елемент масиву `pets` - рядок `cat`.
@@ -19,12 +19,12 @@ console.log(pets[0]);
 Правильний запис:
 
 ```js
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 Неправильний запис:
 ```js
-console.log(pets.1);
+console.log(pets.1)
 ```
 
 ## Завдання:
@@ -33,7 +33,7 @@ console.log(pets.1);
 
 У цьому файлі створити масив 'food' :
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 Використайте `console.log()`, щоб надрукувати 'другий' елемент масиву в терміналі.

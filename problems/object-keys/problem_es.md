@@ -7,13 +7,13 @@ usando el método **Object.keys()**:
 
 ```js
 const car = {
-    make: 'Toyota',
-    model: 'Camry',
-    year: 2020
-};
-const keys = Object.keys(car);
+  make: 'Toyota',
+  model: 'Camry',
+  year: 2020
+}
+const keys = Object.keys(car)
 
-console.log(keys);
+console.log(keys)
 ```
 
 El código de arriba imprime un arreglo de _strings_, donde cada _string_ es una
@@ -30,13 +30,13 @@ const car = {
   make: 'Honda',
   model: 'Accord',
   year: 2020
-};
+}
 ```
 
 Después define otra variable llamada `keys`:
 
 ```js
-const keys = Object.keys(car);
+const keys = Object.keys(car)
 ```
 
 Usa `console.log()` para imprimir la variable `keys` en la consola.

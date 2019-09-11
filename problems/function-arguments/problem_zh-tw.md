@@ -4,14 +4,14 @@
 
 ```js
 function example (firstArg, secondArg) {
-  console.log(firstArg, secondArg);
+  console.log(firstArg, secondArg)
 }
 ```
 
 我們可以**呼叫**這個函式，並給它兩個參數：
 
 ```js
-example('hello', 'world');
+example('hello', 'world')
 ```
 
 上面的程式碼將印出 `hello world` 到終端機上。

@@ -19,7 +19,7 @@ cd javascripting
 使用你最喜歡的編輯器，打開這個檔案，然後將下面這行程式碼加入到檔案中：
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 儲存檔案，執行下面的命令來檢查你的程式是否正確：

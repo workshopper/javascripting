@@ -4,7 +4,7 @@ Voici un exemple :
 
 ```js
 function example (x) {
-  return x * 2;
+  return x * 2
 }
 ```
 
@@ -25,7 +25,7 @@ Dans ce fichier, définissez une fonction nommée `eat` qui prend un argument no
 Dans cette fonction, retournez l'argument `food` comme cela :
 
 ```js
-return food + ' tasted really good.';
+return food + ' tasted really good.'
 ```
 
 Dans les parenthèses de `console.log()`, appelez la fonction `eat()` avec la chaîne de caractères `bananas` comme argument.

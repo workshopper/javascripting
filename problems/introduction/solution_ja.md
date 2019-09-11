@@ -7,7 +7,7 @@
 たとえば...
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 ターミナルに `hello` を表示します。

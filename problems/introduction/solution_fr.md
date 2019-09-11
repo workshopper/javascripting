@@ -7,7 +7,7 @@ Tout ce qui est entre les parenthèses de `console.log()` est affiché dans le t
 Donc :
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 affiche `hello` dans le terminal.

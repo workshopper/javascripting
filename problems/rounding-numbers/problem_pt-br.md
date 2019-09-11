@@ -15,7 +15,7 @@ Usaremos o método `Math.round()` para arredondar o valor para cima.
 Veja um exemplo de utilização do método `Math.round()`:
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 Defina uma segunda variável chamada `rounded` que referencia a saída do método `Math.round()`, passando a variável `roundUp` como argumento.

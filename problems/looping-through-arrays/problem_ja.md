@@ -7,13 +7,13 @@
 たとえば、次の配列内の `hi` は、数値 `1` で識別できます...
 
 ```js
-const greetings = ['hello', 'hi', 'good morning'];
+const greetings = ['hello', 'hi', 'good morning']
 ```
 
 次のようにアクセスします...
 
 ```js
-greetings[1];
+greetings[1]
 ```
 
 **forループ**の中では、変数 `i` を角括弧の中に入れて使います。整数を直接使うことはありません。
@@ -26,7 +26,7 @@ greetings[1];
 ファイルの中で、次の配列を表す、変数 `pets` を定義しましょう。
 
 ```js
-['cat', 'dog', 'rat'];
+['cat', 'dog', 'rat']
 ```
 
 forループを作って、配列内の各文字列が複数形になるように変更します。
@@ -34,7 +34,7 @@ forループを作って、配列内の各文字列が複数形になるよう�
 forループの中は次のようになるでしょう...
 
 ```js
-pets[i] = pets[i] + 's';
+pets[i] = pets[i] + 's'
 ```
 
 forループが終わったら、 `console.log()` を使って配列 `pets` をターミナルに表示しましょう。

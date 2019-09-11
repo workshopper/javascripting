@@ -6,9 +6,9 @@ Ecco un esempio:
 
 
 ```js
-const pets = ['cat', 'dog', 'rat'];
+const pets = ['cat', 'dog', 'rat']
 
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 Il codice precedente stampa il primo elemento dell'array `pets` - la stringa `cat`.
@@ -20,7 +20,7 @@ La notazione puntata non è valida.
 Notazione valida:
 
 ```js
-console.log(pets[0]);
+console.log(pets[0])
 ```
 
 Notazione non valida:
@@ -34,7 +34,7 @@ Crea un file dal nome `accessing-array-values.js`.
 
 In questo file, definisci l'array `food` :
 ```js
-const food = ['apple', 'pizza', 'pear'];
+const food = ['apple', 'pizza', 'pear']
 ```
 
 

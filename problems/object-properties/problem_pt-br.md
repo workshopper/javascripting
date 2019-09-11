@@ -5,9 +5,9 @@ Aqui está um exemplo usando **colchetes**:
 ```js
 const example = {
   pizza: 'yummy'
-};
+}
 
-console.log(example['pizza']);
+console.log(example['pizza'])
 ```
 
 O código acima vai imprimir no terminal a string `'yummy'`.
@@ -15,9 +15,9 @@ O código acima vai imprimir no terminal a string `'yummy'`.
 Como alternativa você pode utilizar **ponto** para obter o mesmo resultado:
 
 ```js
-example.pizza;
+example.pizza
 
-example['pizza'];
+example['pizza']
 ```
 
 As duas linhas de código acima retornarão `yummy`.
@@ -31,7 +31,7 @@ Neste arquivo, defina uma variável chamada `food` desta maneira:
 ```js
 const food = {
   types: 'only pizza'
-};
+}
 ```
 
 Use o `console.log()` para imprimir a propriedade `types` do objeto `food` no terminal.

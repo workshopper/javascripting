@@ -5,9 +5,9 @@
 ```js
 const example = {
   pizza: 'yummy'
-};
+}
 
-console.log(example['pizza']);
+console.log(example['pizza'])
 ```
 
 Код вище виведе рядок `'yummy'` до терміналу.
@@ -15,9 +15,9 @@ console.log(example['pizza']);
 Окрім того, ви можете використати **крапковий запис (dot notation)**, щоб отримати ідентичний результат:
 
 ```js
-example.pizza;
+example.pizza
 
-example['pizza'];
+example['pizza']
 ```
 
 Обидва рядки коду повернуть `yummy`.
@@ -31,7 +31,7 @@ example['pizza'];
 ```js
 const food = {
   types: 'only pizza'
-};
+}
 ```
 
 Використайте `console.log()`, щоб вивести властивість `types` об’єкту `food` до терміналу.

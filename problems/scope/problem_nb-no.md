@@ -7,29 +7,29 @@ Funksjoner som er definert inni andre funksjoner, kjent som nøstede funksjoner,
 Følg nøye med på kommentarene i koden under:
 
 ```js
-const a = 4;  // a er en global variabel, den kan nås av funksjonene under
+const a = 4 // a er en global variabel, den kan nås av funksjonene under
 
-function foo() {
-  let b = a * 3;  // b kan ikke nås utenfor foo funksjonen, men kan nås av funksjoner
-                    // definert inni foo
-  function bar(c) {
-    let b = 2;  // enda en `b` variabel blir lagd i bar funksjonens scope
-                    // endringer på den nye `b` variabelen endrer ikke den ytre `b` variabelen
-    console.log( a, b, c );
+function foo () {
+  const b = a * 3 // b kan ikke nås utenfor foo funksjonen, men kan nås av funksjoner
+  // definert inni foo
+  function bar (c) {
+    const b = 2 // enda en `b` variabel blir lagd i bar funksjonens scope
+    // endringer på den nye `b` variabelen endrer ikke den ytre `b` variabelen
+    console.log(a, b, c)
   }
 
-  bar(b * 4);
+  bar(b * 4)
 }
 
-foo(); // 4, 2, 48
+foo() // 4, 2, 48
 ```
 IIFE, Immediately Invoked Function Expression, er et pattern for å lage lokale scope
 eksempel:
 ```js
-(function(){ // funksjonsuttrykket omgis av paranteser
-        // variabler defineres her
-        // kan ikke nås utenfor denne funksjonen
-})(); // funksjonen kjøres med engang
+(function () { // funksjonsuttrykket omgis av paranteser
+  // variabler defineres her
+  // kan ikke nås utenfor denne funksjonen
+})() // funksjonen kjøres med engang
 ```
 ## Oppgaven:
 
@@ -37,29 +37,28 @@ Lag en fil som heter `scope.js`.
 
 Kopier inn følgende kode i den filen:
 ```js
-let a = 1, b = 2, c = 3;
+const a = 1; const b = 2; const c = 3;
 
-(function firstFunction(){
-  let b = 5, c = 6;
+(function firstFunction () {
+  const b = 5; const c = 6;
 
-  (function secondFunction(){
-    let b = 8;
+  (function secondFunction () {
+    const b = 8;
 
-    (function thirdFunction(){
-      let a = 7, c = 9;
+    (function thirdFunction () {
+      const a = 7; const c = 9;
 
-      (function fourthFunction(){
-        let a = 1, c = 8;
-
-      })();
-    })();
-  })();
-})();
+      (function fourthFunction () {
+        const a = 1; const c = 8
+      })()
+    })()
+  })()
+})()
 ```
 
 Bruk din kunnskap om variablenes `scope` og sett inn følgende kode i en av funksjonene som finnes i 'scope.js' slik at det skrives ut `a: 1, b: 8, c: 6` på skjermen:
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`);
+console.log(`a: ${a}, b: ${b}, c: ${c}`)
 ```
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:

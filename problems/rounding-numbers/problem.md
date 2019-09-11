@@ -15,7 +15,7 @@ We will use the `Math.round()` method to round the number up. This method rounds
 An example of using `Math.round()`:
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 Define a second variable named `rounded` that references the output of the `Math.round()` method, passing in the `roundUp` variable as the argument.

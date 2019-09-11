@@ -3,7 +3,7 @@
 이는 `.length` 속성을 이용하면 알 수 있습니다. 다음 예제를 보세요.
 
 ```js
-const example = 'example string';
+const example = 'example string'
 example.length
 ```
 

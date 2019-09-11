@@ -7,11 +7,11 @@
 Например:
 
 ```js
-const pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant']
 
 const filtered = pets.filter(function (pet) {
-  return (pet !== 'elephant');
-});
+  return (pet !== 'elephant')
+})
 ```
 
 Переменная `filtered` теперь будет содержать массив с элементами `cat` и `dog`.
@@ -23,7 +23,7 @@ const filtered = pets.filter(function (pet) {
 В этом файле требуется объявить переменную `numbers`, которой должен быть присвоен следующий массив:
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 Как было показано выше, объявите переменную `filtered` и присвойте ей результат выполнения `numbers.filter()`.
@@ -32,7 +32,7 @@ const filtered = pets.filter(function (pet) {
 
 ```js
 function evenNumbers (number) {
-  return number % 2 === 0;
+  return number % 2 === 0
 }
 ```
 

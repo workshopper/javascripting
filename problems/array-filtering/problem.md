@@ -7,11 +7,11 @@ For this we can use the `.filter()` method.
 Here is an example:
 
 ```js
-const pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant']
 
 const filtered = pets.filter(function (pet) {
-  return (pet !== 'elephant');
-});
+  return (pet !== 'elephant')
+})
 ```
 
 The `filtered` variable will now only contain `cat` and `dog`.
@@ -23,7 +23,7 @@ Create a file named `array-filtering.js`.
 In that file, define a variable named `numbers` that references this array:
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 Like above, define a variable named `filtered` that references the result of `numbers.filter()`.
@@ -32,7 +32,7 @@ The function that you pass to the `.filter()` method will look something like th
 
 ```js
 function evenNumbers (number) {
-  return number % 2 === 0;
+  return number % 2 === 0
 }
 ```
 

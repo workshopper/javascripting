@@ -4,13 +4,13 @@ Ecco un esempio di elencazione di tutte le chiavi dell'oggetto usando il metodo 
 
 ```js
 const car = {
-    make: 'Toyota',
-    model: 'Camry',
-    year: 2020
-};
-const keys = Object.keys(car);
+  make: 'Toyota',
+  model: 'Camry',
+  year: 2020
+}
+const keys = Object.keys(car)
 
-console.log(keys);
+console.log(keys)
 ```
 
 Il codice sopra stamperà una matrice di stringhe, in cui ogni stringa è una chiave nell'oggetto car. `['make', 'model', 'year']`
@@ -26,12 +26,12 @@ const car = {
   make: 'Honda',
   model: 'Accord',
   year: 2020
-};
+}
 ```
 
 Quindi definire un'altra variabile denominata `keys` come questa:
 ```js
-const keys = Object.keys(car);
+const keys = Object.keys(car)
 ```
 
 Usa `console.log ()` per stampare la variabile `keys` sul terminale

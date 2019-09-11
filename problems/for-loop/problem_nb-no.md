@@ -27,7 +27,7 @@ Lag en for løkke med en variabel `i` som starter på 0 og økes med 1 hver rund
 I hver runde av løkken, legg til nummeret i variablen `i` til verdien i `total` variablen. Det kan gjøres på følgende måte:
 
 ```js
-total += i;
+total += i
 ```
 
 Etter for løkken, bruk `console.log()` til å skrive ut verdien av `total` variablen til skjermen.

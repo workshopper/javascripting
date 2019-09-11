@@ -16,7 +16,7 @@ rounding-numbers.jsファイルを作りましょう。
 `Math.round()` メソッドの使用例です...
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 第二の変数 `rounded` を定義します。この変数は `Math.round()` メソッドの結果を表します。引数には `roundUp` 変数を指定します。

@@ -6,7 +6,7 @@ Ecco un esempio
 const foodPreferences = {
   pizza: 'yum',
   salad: 'gross'
-};
+}
 ```
 
 ## La sfida:
@@ -20,7 +20,7 @@ const pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
   serves: 2
-};
+}
 ```
 
 Usa `console.log()` per stampare l'oggetto `pizza` sul terminale.

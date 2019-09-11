@@ -7,7 +7,7 @@ Qualsiasi cosa contenuta tra le parentesi `console.log()` viene stampata sul ter
 Quindi questo:
 
 ```js
-console.log('hello');
+console.log('hello')
 ```
 
 stampa `hello` sul terminal.

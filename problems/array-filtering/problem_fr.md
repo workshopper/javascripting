@@ -7,11 +7,11 @@ Pour cela nous pouvons utiliser la méthode `.filter()`.
 Voici un exemple :
 
 ```js
-const pets = ['cat', 'dog', 'elephant'];
+const pets = ['cat', 'dog', 'elephant']
 
 const filtered = pets.filter(function (pet) {
-  return (pet !== 'elephant');
-});
+  return (pet !== 'elephant')
+})
 ```
 
 La variable `filtered` ne va contenir que `cat` et `dog`.
@@ -23,7 +23,7 @@ Créer un fichier nommé `filtrage-de-tableau.js`.
 Dans ce fichier, définissez une variable nommée `numbers` qui contient ce tableau :
 
 ```js
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
 Comme ci-dessus, définissez une variable nommée `filtered` qui contient le résultat de `numbers.filter()`.
@@ -32,7 +32,7 @@ La fonction que vous passerez à la méthode `.filter()` va ressembler à ça :
 
 ```js
 function evenNumbers (number) {
-  return number % 2 === 0;
+  return number % 2 === 0
 }
 ```
 

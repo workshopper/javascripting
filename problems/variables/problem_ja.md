@@ -3,7 +3,7 @@
 例...
 
 ```js
-let example;
+let example
 ```
 
 上の例は変数を**宣言**しています。しかし、定義していません（この変数はまだなんの値も示しません）。
@@ -11,7 +11,7 @@ let example;
 次の例は変数を定義します。定義した変数は特定の値を示します。
 
 ```js
-let example = 'some string';
+const example = 'some string'
 ```
 
 `let` を使って**宣言**します。つづいて、等号を使い、変数が示す値を**定義**します。

@@ -15,7 +15,7 @@
 `Math.round()`을 사용하는 예입니다.
 
 ```js
-Math.round(0.5);
+Math.round(0.5)
 ```
 
 `roundUp` 변수를 인자로 `Math.round()` 메소드에 넘긴 결과를 참조하는 `rounded`라는 두 번째 변수를 정의합니다.

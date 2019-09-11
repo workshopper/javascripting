@@ -5,9 +5,9 @@
 ```js
 const example = {
   pizza: 'yummy'
-};
+}
 
-console.log(example['pizza']);
+console.log(example['pizza'])
 ```
 
 上面的例子将打印出 `'yummy'` 到终端。
@@ -15,9 +15,9 @@ console.log(example['pizza']);
 你也可以使用**英文句号**来得到相同的结果：
 
 ```js
-example.pizza;
+example.pizza
 
-example['pizza'];
+example['pizza']
 ```
 
 上面的两行代码都会返回 `yummy`。
@@ -31,7 +31,7 @@ example['pizza'];
 ```js
 const food = {
   types: 'only pizza'
-};
+}
 ```
 
 使用 `console.log()` 打印 `food` 对象的 `types` 属性到终端。
