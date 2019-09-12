@@ -3,7 +3,7 @@ En **string** er en verdi omgitt av anførselsteng eller apostrof:
 ```js
 'dette er en string'
 
-'dette er også en string'
+"dette er også en string"
 ```
 #OBS
 

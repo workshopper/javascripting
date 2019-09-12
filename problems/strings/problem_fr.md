@@ -5,7 +5,7 @@ Il peut s'agir de guillemets simples ou doubles :
 ```js
 'this is a string'
 
-'this is also a string'
+"this is also a string"
 ```
 
 ## NOTE

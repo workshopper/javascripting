@@ -5,7 +5,7 @@ Pode ser usado aspas simples ou aspas duplas:
 ```js
 'this is a string'
 
-'this is also a string'
+"this is also a string"
 ```
 # OBSERVAÇÃO
 

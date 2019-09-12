@@ -5,7 +5,7 @@ Sono ammessi sia apici singoli che doppi:
 ```js
 'questa è una stringa'
 
-'anche questa è una stringa'
+"anche questa è una stringa"
 ```
 
 ## NOTA

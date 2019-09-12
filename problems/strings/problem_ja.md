@@ -5,7 +5,7 @@
 ```js
 'this is a string'
 
-'this is also a string'
+"this is also a string"
 ```
 
 どちらかの引用符を使うルールを決め、守りましょう。 このワークショップでは一重引用符だけを使います。

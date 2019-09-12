@@ -7,7 +7,7 @@ String values are surrounded by either single or double quotation marks.
 ```js
 'this is a string'
 
-'this is also a string'
+"this is also a string"
 ```
 
 ## NOTE

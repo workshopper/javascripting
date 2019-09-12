@@ -5,7 +5,7 @@
 ```js
 'this is a string'
 
-'this is also a string'
+"this is also a string"
 ```
 
 ## НА ЗАМЕТКУ
