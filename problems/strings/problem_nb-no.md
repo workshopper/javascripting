@@ -5,7 +5,8 @@ En **string** er en verdi omgitt av anførselsteng eller apostrof:
 
 "dette er også en string"
 ```
-#OBS
+
+## OBS
 
 Det lønner seg å være konsekvent på om du bruker anførselstegn eller apostrof. I denne oppgaven skal vi bare bruke apostrof.
 

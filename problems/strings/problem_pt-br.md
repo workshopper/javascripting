@@ -7,7 +7,8 @@ Pode ser usado aspas simples ou aspas duplas:
 
 "this is also a string"
 ```
-# OBSERVAÇÃO
+
+## OBSERVAÇÃO
 
 Tente ser consistente. Neste workshop usaremos apenas aspas simples.
 

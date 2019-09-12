@@ -7,7 +7,8 @@ Por ejemplo:
 
 "this is also a string"
 ```
-#NOTA
+
+## NOTA
 
 Trata de permanecer consistente. En este workshop usaremos comillas simples.
 
