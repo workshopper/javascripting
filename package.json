@@ -13,7 +13,6 @@
   "preferGlobal": true,
   "dependencies": {
     "colors": "^1.3.3",
-    "promise": "^8.0.3",
     "diff": "^4.0.1",
     "workshopper-adventure": "^6.0.4"
   },
