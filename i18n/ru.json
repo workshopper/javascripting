@@ -16,6 +16,7 @@
         , "LOOPING THROUGH ARRAYS": "ОБХОД МАССИВА В ЦИКЛЕ"
         , "OBJECTS":                "ОБЪЕКТЫ"
         , "OBJECT PROPERTIES":      "СВОЙСТВА ОБЪЕКТОВ"
+        , "OBJECT KEYS":            "КЛЮЧИ ОБЪЕКТОВ"
         , "FUNCTIONS":              "ФУНКЦИИ"
         , "FUNCTION ARGUMENTS":     "АРГУМЕНТЫ ФУНКЦИЙ"
         , "SCOPE":                  "ОБЛАСТЬ ВИДИМОСТИ"
