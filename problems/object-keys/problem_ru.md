@@ -1,7 +1,6 @@
-JavaScript provides a native way of listing all the available keys of an object. This can be helpful for looping through all the properties of an object and manipulating their values accordingly.
+JavaScript предоставляет собственный способ перечисления всех доступных ключей объекта. Это может быть полезно для перебора всех свойств объекта и соответственно манипулирования их значениями.
 
-Here's an example of listing all object keys using the **Object.keys()**
-prototype method.
+Вот пример перечисления всех ключей объекта с использованием метода-прототипа **Object.keys()**.
 
 ```js
 const car = {
@@ -14,13 +13,13 @@ const keys = Object.keys(car)
 console.log(keys)
 ```
 
-The above code will print an array of strings, where each string is a key in the car object. `['make', 'model', 'year']`
+Код выше выведет массив строк, где каждая строка - ключ в объекте "авто". `['make', 'model', 'year']`
 
 ## The challenge:
 
-Create a file named `object-keys.js`.
+Создайте файл с именем `object-keys.js`.
 
-In that file, define a variable named `car` like this:
+В этом файле объявите переменную с именем `car` вот так:
 
 ```js
 const car = {
@@ -30,14 +29,14 @@ const car = {
 }
 ```
 
-Then define another variable named `keys` like this:
+Затем объявите другую переменную с именем `keys` вот так:
 ```js
 const keys = Object.keys(car)
 ```
 
-Use `console.log()` to print the `keys` variable to the terminal.
+Используйте `console.log()` для вывода переменной `keys` в терминал.
 
-Check to see if your program is correct by running this command:
+Проверьте, правильна ли ваша программа, выполнив эту команду:
 
 ```bash
 javascripting verify object-keys.js
