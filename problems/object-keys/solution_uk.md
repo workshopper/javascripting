@@ -1,11 +1,11 @@
 ---
 
-# CORRECT.
+# ВІРНО.
 
-Good job using the Object.keys() prototype method. Remember to use it when you need to list the keys of an object.
+Гарна робота з використанням методу прототипу Object.keys(). Не забувайте використовувати його, коли вам потрібно перелічити ключі об’єкта.
 
-The next challenge is all about **functions**.
+Наступне завдання буде виключно про **функції**.
 
-Run `javascripting` in the console to choose the next challenge.
+Запустіть 'javascripting' в консолі, щоб обрати наступне завдання.
 
 ---
