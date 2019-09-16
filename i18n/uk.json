@@ -1,4 +1,4 @@
-{
+﻿{
     "exercise": {
           "INTRODUCTION":           "ВСТУП"
         , "VARIABLES":              "ЗМІННІ"
@@ -16,6 +16,7 @@
         , "LOOPING THROUGH ARRAYS": "ПРОХІД ПО МАСИВАХ"
         , "OBJECTS":                "ОБ'ЄКТИ"
         , "OBJECT PROPERTIES":      "ВЛАСТИВОСТІ ОБ'ЄКТІВ"
+        , "OBJECT KEYS":            "КЛЮЧІ ОБ'ЄКТІВ"
         , "FUNCTIONS":              "ФУНКЦІЇ"
         , "FUNCTION ARGUMENTS":     "АРГУМЕНТИ ФУНКЦІЙ"
         , "SCOPE":                  "ОБЛАСТЬ ВИДИМОСТІ"
