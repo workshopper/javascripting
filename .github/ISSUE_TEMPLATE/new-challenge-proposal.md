@@ -1,6 +1,9 @@
 ---
 name: New Challenge Proposal
 about: Propose a new challenge for learning JavaScript
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
