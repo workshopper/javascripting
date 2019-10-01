@@ -1,3 +1,9 @@
+---
+name: New Challenge Proposal
+about: Propose a new challenge for learning JavaScript
+
+---
+
 **Title**
 <!-- Just a title for your challenge -->
 <!-- Ex: FUNCTION RETURN VALUES -->
