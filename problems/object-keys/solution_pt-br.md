@@ -1,11 +1,11 @@
 ---
 
-# CORRECT.
+# CORRETO.
 
-Good job using the Object.keys() prototype method. Remember to use it when you need to list the keys of an object.
+Bom trabalho utilizando o método Object.keys(). Lembre-se de utilizar ele quando você precisar listas as propriedades de um objeto.
 
-The next challenge is all about **functions**.
+O próximo desafio será sobre **functions**.
 
-Run `javascripting` in the console to choose the next challenge.
+Execute `javascripting` no console para escolher o próximo desafio.
 
 ---
