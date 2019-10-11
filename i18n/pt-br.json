@@ -16,6 +16,7 @@
         , "LOOPING THROUGH ARRAYS": "VARRENDO ARRAYS COM LOOP"
         , "OBJECTS":                "OBJETOS"
         , "OBJECT PROPERTIES":      "PROPRIEDADES DE OBJETOS"
+        , "OBJECT KEYS":            "CHAVES DE OBJETOS"
         , "FUNCTIONS":              "FUNÇÕES"
         , "FUNCTION ARGUMENTS":     "ARGUMENTOS DE FUNÇÕES"
         , "SCOPE":                  "ESCOPO"
