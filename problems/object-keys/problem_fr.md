@@ -1,7 +1,6 @@
-JavaScript provides a native way of listing all the available keys of an object. This can be helpful for looping through all the properties of an object and manipulating their values accordingly.
+JavaScript fournit un moyen natif de lister toutes les clés disponibles d'un objet. Ceci peut être utile pour parcourir en boucle toutes les propriétés d'un objet et manipuler leurs valeurs en conséquence.
 
-Here's an example of listing all object keys using the **Object.keys()**
-prototype method.
+Voici un exemple de liste de toutes les clés d'objets utilisant la méthode prototype **Object.keys()**.
 
 ```js
 const car = {
@@ -14,13 +13,13 @@ const keys = Object.keys(car)
 console.log(keys)
 ```
 
-The above code will print an array of strings, where each string is a key in the car object. `['make', 'model', 'year']`
+Le code ci-dessus imprimera un tableau de _strings_, où chaque _string_ est une _clé_ (_key_) dans l'objet `car`. `['make', 'model', 'year']`
 
 ## The challenge:
 
-Create a file named `object-keys.js`.
+Créez un fichier nommé `object-keys.js`.
 
-In that file, define a variable named `car` like this:
+Dans ce fichier, définissez une variable nommée `car` comme ceci:
 
 ```js
 const car = {
@@ -30,14 +29,14 @@ const car = {
 }
 ```
 
-Then define another variable named `keys` like this:
+Définissez ensuite une autre variable nommée `keys` comme ceci:
 ```js
 const keys = Object.keys(car)
 ```
 
-Use `console.log()` to print the `keys` variable to the terminal.
+Utilisez `console.log()` pour imprimer la variable `keys` sur le terminal.
 
-Check to see if your program is correct by running this command:
+Vérifiez si votre programme est correct en exécutant cette commande:
 
 ```bash
 javascripting verify object-keys.js

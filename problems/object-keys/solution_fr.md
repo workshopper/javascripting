@@ -2,10 +2,10 @@
 
 # CORRECT.
 
-Good job using the Object.keys() prototype method. Remember to use it when you need to list the keys of an object.
+Bon travail avec la méthode du prototype Object.keys(). N'oubliez pas de l'utiliser lorsque vous devez lister les clés d'un objet.
 
-The next challenge is all about **functions**.
+Le prochain défi portera sur les **functions**.
 
-Run `javascripting` in the console to choose the next challenge.
+Exécutez `javascripting` dans la console pour choisir le prochain défi.
 
 ---

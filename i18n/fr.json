@@ -16,6 +16,7 @@
         , "LOOPING THROUGH ARRAYS": "ITÉRER SUR UN TABLEAU"
         , "OBJECTS":                "OBJETS"
         , "OBJECT PROPERTIES":      "PROPRIÉTÉS D'OBJETS"
+        , "OBJECT KEYS":            "CLÉS D'OBJETS"
         , "FUNCTIONS":              "FONCTIONS"
         , "FUNCTION ARGUMENTS":     "ARGUMENTS DE FONCTIONS"
         , "SCOPE":                  "SCOPE"
