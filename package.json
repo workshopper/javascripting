@@ -1,7 +1,7 @@
 {
   "name": "javascripting",
   "description": "Learn JavaScript by adventuring around in the terminal.",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "repository": {
     "url": "https://github.com/workshopper/javascripting"
   },
