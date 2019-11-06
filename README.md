@@ -62,13 +62,6 @@ Include the name `javascripting` and the name of the challenge you're working on
 
 Code contributions welcome! Please check our [documentation on contributing](https://github.com/workshopper/javascripting/blob/master/CONTRIBUTING.md) to get started.
 
-## TODOS:
-
-Add these challenges:
-
-- "FUNCTION RETURN VALUES"
-- "THIS"
-
 ## License
 
 MIT
