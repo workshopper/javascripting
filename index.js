@@ -11,7 +11,7 @@ jsing.addAll(require('./menu.json').map(function (name) {
   return {
     name,
     fn: function () {
-      var p = name.toLowerCase().replace(/\s/g, '-')
+      var p = name.toLowerCase().replace(/\s/g, '_')
       var dir = require('path').join(__dirname, 'problems', p)
       return problem(dir)
     }
