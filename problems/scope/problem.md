@@ -52,7 +52,7 @@ const a = 1; const b = 2; const c = 3;
       const a = 7; const c = 9;
 
       (function fourthFunction () {
-        const a = 1; const c = 8
+        const a = 1; const c = 8;
       })()
     })()
   })()
