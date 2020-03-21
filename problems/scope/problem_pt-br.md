@@ -60,7 +60,7 @@ const a = 1; const b = 2; const c = 3;
 Utilize seus conhecimentos sobre `escopo` de variáveis e posicione o seguinte código dentro de uma das funções no 'scope.js'
 fazendo o resultado ser `a: 1, b: 8,c: 6`
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`)
+console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```
 
 Verifique se o seu programa está correto executando o comando:

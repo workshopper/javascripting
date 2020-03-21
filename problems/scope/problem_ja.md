@@ -66,5 +66,5 @@ const a = 1; const b = 2; const c = 3;
 そして、目指す出力は `a: 1, b: 8,c: 6` です。
 
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`)
+console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```
