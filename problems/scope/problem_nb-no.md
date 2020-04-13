@@ -58,7 +58,7 @@ const a = 1; const b = 2; const c = 3;
 
 Bruk din kunnskap om variablenes `scope` og sett inn følgende kode i en av funksjonene som finnes i 'scope.js' slik at det skrives ut `a: 1, b: 8, c: 6` på skjermen:
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`)
+console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```
 
 Se om programmet ditt er riktig ved å kjøre kommandoen:

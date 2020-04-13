@@ -58,5 +58,5 @@ const a = 1; const b = 2; const c = 3;
 
 依你對 `作用域` 的理解，將下面這段程式碼插入上述程式碼裡，使得程式碼的輸出為 `a: 1, b: 8,c: 6`。
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`)
+console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```

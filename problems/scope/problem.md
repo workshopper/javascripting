@@ -62,7 +62,7 @@ const a = 1; const b = 2; const c = 3;
 Use your knowledge of the variables' `scope` and place the following code inside one of the functions in `scope.js`
 so the output is `a: 1, b: 8, c: 6`
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`)
+console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```
 
 Check to see if your program is correct by running this command:

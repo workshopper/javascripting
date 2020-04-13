@@ -59,7 +59,7 @@ const a = 1; const b = 2; const c = 3;
 Usa la tua comprensione dell'`ambito` delle variabili e posiziona il codice seguente dentro una delle funzioni in `scope.js`
 in maniera tale che il risultato sia `a: 1, b: 8,c: 6`
 ```js
-console.log(`a: ${a}, b: ${b}, c: ${c}`)
+console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```
 
 Verifica che il tuo programma sia corretto eseguendo questo comando:
