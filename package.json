@@ -18,9 +18,10 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "standard": "^14.3.3"
+    "standard": "^14.3.3",
+    "workshopper-adventure-test": "^1.2.0"
   },
   "scripts": {
-    "test": "standard"
+    "test": "standard && workshopper-adventure-test"
   }
 }
