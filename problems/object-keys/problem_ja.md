@@ -1,7 +1,6 @@
-JavaScript provides a native way of listing all the available keys of an object. This can be helpful for looping through all the properties of an object and manipulating their values accordingly.
+JavaScriptはオブジェクトの利用可能なキーを全て列挙する方法を提供しています．これは，ループ処理によってオブジェクトに応じた値の操作に役立ちます．
 
-Here's an example of listing all object keys using the **Object.keys()**
-prototype method.
+これは **Object.keys()** を使って全てのオブジェクトのキーを列挙する例です．
 
 ```js
 const car = {
@@ -14,13 +13,13 @@ const keys = Object.keys(car)
 console.log(keys)
 ```
 
-The above code will print an array of strings, where each string is a key in the car object. `['make', 'model', 'year']`
+上記のコードでは，文字列の配列が表示されます．各文字列はオブジェクトのキーです． `['make', 'model', 'year']`
 
-## The challenge:
+## やってみよう
 
-Create a file named `object-keys.js`.
+`object-keys.js`ファイルを作りましょう．
 
-In that file, define a variable named `car` like this:
+ファイルの中で，変数`car`を定義します．
 
 ```js
 const car = {
@@ -30,15 +29,16 @@ const car = {
 }
 ```
 
-Then define another variable named `keys` like this:
+そして，別の変数`keys`を定義します．
 ```js
 const keys = Object.keys(car)
 ```
 
-Use `console.log()` to print the `keys` variable to the terminal.
+`console.log()`を使って，変数`keys` をターミナルに表示しましょう．
 
-Check to see if your program is correct by running this command:
+次のコマンドを実行し，あなたのプログラムが正しく動くか確認しましょう．
 
 ```bash
 javascripting verify object-keys.js
 ```
+
