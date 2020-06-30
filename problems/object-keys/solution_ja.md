@@ -1,11 +1,11 @@
 ---
 
-# CORRECT.
+# よろしい.
 
-Good job using the Object.keys() prototype method. Remember to use it when you need to list the keys of an object.
+Object.keys()を使用することで，キーをうまく表示させることができました．オブジェクトのキーを列挙する必要があるときは，この方法を思い出してください．
 
-The next challenge is all about **functions**.
+次の課題は関数です．
 
-Run `javascripting` in the console to choose the next challenge.
+コンソールで `javascripting` コマンドを実行します．次の課題を選択しましょう.
 
 ---
