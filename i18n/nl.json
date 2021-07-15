@@ -1,0 +1,24 @@
+{
+    "exercise": {
+          "INTRODUCTION":           "INTRODUCTIE"
+        , "VARIABLES":              "VARIABELEN"
+        , "STRINGS":                "STRINGS"
+        , "STRING LENGTH":          "LENGTE VAN STRINGS"
+        , "REVISING STRINGS":       "AANPASSEN VAN STRINGS"
+        , "NUMBERS":                "NUMMERS"
+        , "ROUNDING NUMBERS":       "NUMMERS AFRONDEN"
+        , "NUMBER TO STRING":       "NUMMER NAAR STRING"
+        , "IF STATEMENT":           "IF STATEMENT"
+        , "FOR LOOP":               "FOR LOOP"
+        , "ARRAYS":                 "ARRAYS"
+        , "ARRAY FILTERING":        "ARRAYS FILTEREN"
+        , "ACCESSING ARRAY VALUES": "ARRAY WAARDEN OPVRAGEN"
+        , "LOOPING THROUGH ARRAYS": "LOOPEN DOOR ARRAYS"
+        , "OBJECTS":                "OBJECTEN"
+        , "OBJECT PROPERTIES":      "OBJECT EIGENSCHAPPEN"
+        , "OBJECT KEYS":            "OBJECT KEYS"
+        , "FUNCTIONS":              "FUNCTIES"
+        , "FUNCTION ARGUMENTS":     "FUNCTIE ARGUMENTEN"
+        , "SCOPE":                  "SCOPE"
+    }
+}
