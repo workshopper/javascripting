@@ -4,25 +4,6 @@ In computing, localization is the process of adapting software to different lang
 
 This guide explains how to contribute a new localization to this workshopper. If you are an international user and would like to bring Nodeschool workshops to a broader audience, please consider contributing a localization! It is simple, fun, and enables more people to learn and practice.
 
-## Add the language option
-
-In the `index.js` file, the workshopper is instantiated with a list of supported translations. In order to add a new language, add its code to the array:
-
-```js
-const workshopper = require('workshopper-adventure')({
-  appDir: __dirname,
-  languages: ['en', 'ja', 'zh-cn'],
-  header: require('workshopper-adventure/default/header'),
-  footer: require('./lib/footer.js')
-})
-```
-
-If you want to add a new language, e.g. Spanish, add an entry `'es'` to the array:
-
-```js
-  , languages: ['en', 'es', 'ja', 'zh-cn']
-```
-
 ## Menu
 
 The menu of the workshopper greets the user with a list of problem names. The strings for these names are contained in the top level `menu.json` file. Translations of problem names should be placed in a JSON file inside the `i18n` folder named with the language code, e.g. `es.json`. Use an existing translation file as reference, ensuring it's up to date with the contents of `menu.json`.
