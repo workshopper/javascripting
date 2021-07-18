@@ -1,8 +1,15 @@
+const path = require('path')
+const fs = require('fs')
 const problem = require('./lib/problem')
 
+const i18nDir = path.join(__dirname, 'i18n')
+const languages = ['en'].concat(fs.readdirSync(i18nDir)
+  .filter((f) => f.match(/\w+\.json/))
+  .map((f) => f.replace('.json', ''))
+)
 var jsing = require('workshopper-adventure')({
   appDir: __dirname,
-  languages: ['en', 'ja', 'ko', 'es', 'zh-cn', 'zh-tw', 'pt-br', 'nb-no', 'uk', 'it', 'ru', 'fr', 'nl'],
+  languages,
   header: require('workshopper-adventure/default/header'),
   footer: require('./lib/footer.js')
 })
