@@ -7,7 +7,7 @@ const languages = ['en'].concat(fs.readdirSync(i18nDir)
   .filter((f) => f.match(/\w+\.json/))
   .map((f) => f.replace('.json', ''))
 )
-var jsing = require('workshopper-adventure')({
+const jsing = require('workshopper-adventure')({
   appDir: __dirname,
   languages,
   header: require('workshopper-adventure/default/header'),
@@ -18,8 +18,8 @@ jsing.addAll(require('./menu.json').map(function (name) {
   return {
     name,
     fn: function () {
-      var p = name.toLowerCase().replace(/\s/g, '-')
-      var dir = require('path').join(__dirname, 'problems', p)
+      const p = name.toLowerCase().replace(/\s/g, '-')
+      const dir = require('path').join(__dirname, 'problems', p)
       return problem(dir)
     }
   }
