@@ -15,6 +15,9 @@
     "standard": "^14.3.3",
     "workshopper-adventure-test": "^1.2.0"
   },
+  "engines": {
+    "node": ">=12.22.4"
+  },
   "license": "MIT",
   "main": "./index.js",
   "preferGlobal": true,
