@@ -9,7 +9,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "diff": "^5.0.0",
-    "workshopper-adventure": "^6.1.1"
+    "workshopper-adventure": "^7.0.0"
   },
   "devDependencies": {
     "standard": "^16.0.3",
