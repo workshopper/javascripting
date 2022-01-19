@@ -11,7 +11,13 @@ The above variable is **declared**, but it isn't defined (it does not yet refere
 Here's an example of defining a variable, making it reference a specific value:
 
 ```js
-const example = 'some string'
+let example = 'some string'
+```
+
+When we declare a variable using `let`, we are able to redefine it. If you want to create a variable that never needs to be changed, **declare** it with the keyword `const`. If you try to redefine a `const` variable, you will see an error.
+
+```js
+const example = 'this will never change'
 ```
 
 # NOTE 
