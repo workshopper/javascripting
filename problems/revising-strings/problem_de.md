@@ -14,7 +14,7 @@ Um den Wert zu ändern, auf den die Variable `example` verweist, müssen wir
 wieder das Gleichheitszeichen verwenden, diesmal mit der Methode `example.replace()` rechts vom  
 rechts vom Gleichheitszeichen.
 
-## Die Herausforderung:
+## Die Aufgabe:
 
 Erstelle eine Datei namens `revising-strings.js`.
 

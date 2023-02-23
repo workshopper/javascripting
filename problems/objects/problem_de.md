@@ -9,7 +9,7 @@ const foodPreferences = {
 }
 ```
 
-## The challenge:
+## Die Aufgabe:
 
 Erstelle eine Datei mit dem Namen `objects.js.`
 
