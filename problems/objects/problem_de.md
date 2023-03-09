@@ -23,7 +23,7 @@ const pizza = {
 }
 ```
 
-Verwende `console.log()`, um das pizza-Objekt im Terminal auszugeben.
+Verwende `console.log()`, um das `pizza`-Objekt im Terminal auszugeben.
 
 Überprüfe, ob dein Programm korrekt ist, indem du folgenden Befehl ausführst:
 
