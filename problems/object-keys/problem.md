@@ -14,7 +14,7 @@ const keys = Object.keys(car)
 console.log(keys)
 ```
 
-The above code will print an array of strings, where each string is a key in the car object. `['make', 'model', 'year']`
+The above code will print an array of strings, where each string is a key in the `car` object. `['make', 'model', 'year']`
 
 ## The challenge:
 
