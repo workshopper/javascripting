@@ -96,7 +96,7 @@ console.log((false || "default") === "<fill here>");
 console.log((false ?? "default") === "<fill here>");
 ```
 
-全ての `console.log` による出力が `true` となるように、`'<fill hehre>'` と書かれた場所を書き換えてください。 (文字列である必要はありません。)
+全ての `console.log` による出力が `true` となるように、`'<fill here>'` と書かれた場所を書き換えてください。 (文字列である必要はありません。)
 
 次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
