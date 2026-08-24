@@ -20,7 +20,7 @@ if (n > 1) {
 
 ファイルの中で、変数 `fruit` を定義しましょう。
 
-変数 `fruit` は**文字列型**の**orange**を表します。
+変数 `fruit` に文字列値 **"orange"** を代入しましょう。
 
 `fruit` の文字数が5より大きかったら、console.log() を使い、**The fruit name has more than five characters.**をターミナルに表示しましょう。
 そうでなければ**The fruit name has five characters or less.**を表示しましょう。
