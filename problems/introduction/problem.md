@@ -12,17 +12,27 @@ Change directory into the `javascripting` folder:
 cd javascripting
 ```
 
-Create a file named `introduction.js`:
+Create a file named `introduction.js`.
+
+On macOS or Linux:
 
 ```bash
 touch introduction.js
 ```
 
-Or if you're on Windows: 
-```bash
+On Windows PowerShell:
+
+```powershell
+New-Item introduction.js -ItemType File
+```
+
+On Windows Command Prompt (`cmd.exe`):
+
+```bat
 type NUL > introduction.js
 ```
-(`type` is part of the command!)
+
+You can also create the file directly in your text editor. Make sure it is saved as UTF-8.
 
 Open the file in your favorite editor, and add this text:
 
@@ -41,4 +51,3 @@ By the way, throughout this tutorial, you can give the file you work with any na
 ```bash
 javascripting verify catsAreAwesome.js
 ```
-

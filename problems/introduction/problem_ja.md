@@ -12,12 +12,27 @@ mkdir javascripting
 cd javascripting
 ```
 
-次のコマンドで `introduction.js` ファイルを作成します。
+`introduction.js` という名前のファイルを作成します。
+
+macOS または Linux の場合：
 
 ```bash
 touch introduction.js
 ```
- (Windowsを使っているのであれば `type NUL > introduction.js`)
+
+Windows PowerShell の場合：
+
+```powershell
+New-Item introduction.js -ItemType File
+```
+
+Windows のコマンドプロンプト（`cmd.exe`）の場合：
+
+```bat
+type NUL > introduction.js
+```
+
+テキストエディタから直接ファイルを作成しても構いません。その場合は UTF-8 で保存してください。
 
 お好みのエディタでファイルを開きます。次の文を書き足しましょう。
 
@@ -30,4 +45,3 @@ console.log('hello')
 ```bash
 javascripting verify introduction.js
 ```
-
