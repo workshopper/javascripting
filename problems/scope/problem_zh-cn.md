@@ -60,3 +60,9 @@ const a = 1; const b = 2; const c = 3;
 ```js
 console.log(`a: ${a}, b: ${b}, c: ${c}`);
 ```
+
+通过运行以下命令检查你的程序是否正确：
+
+```bash
+javascripting verify scope.js
+```
