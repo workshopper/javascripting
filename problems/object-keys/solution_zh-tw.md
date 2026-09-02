@@ -1,11 +1,11 @@
 ---
 
-# CORRECT.
+# 正確！
 
-Good job using the Object.keys() prototype method. Remember to use it when you need to list the keys of an object.
+很好，你使用了 Object.keys() 原型方法。當你需要列出物件的鍵時，記得使用它。
 
-The next challenge is all about **functions**.
+下一個挑戰是關於 **函式（functions）** 的。
 
-Run `javascripting` in the console to choose the next challenge.
+在終端機執行 `javascripting` 來選擇下一個挑戰。
 
 ---

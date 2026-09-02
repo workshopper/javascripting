@@ -1,7 +1,6 @@
-JavaScript provides a native way of listing all the available keys of an object. This can be helpful for looping through all the properties of an object and manipulating their values accordingly.
+JavaScript 提供了一种原生的方式，用来列出对象的所有键（keys）。当你需要遍历对象的所有属性并相应地操作它们的值时，这会很有用。
 
-Here's an example of listing all object keys using the **Object.keys()**
-prototype method.
+下面是一个使用 **Object.keys()** 原型方法来列出对象所有键的例子。
 
 ```js
 const car = {
@@ -14,13 +13,13 @@ const keys = Object.keys(car)
 console.log(keys)
 ```
 
-The above code will print an array of strings, where each string is a key in the car object. `['make', 'model', 'year']`
+上面的代码会打印一个字符串数组，其中每个字符串都是 car 对象中的一个键。`['make', 'model', 'year']`
 
-## The challenge:
+## 挑战任务：
 
-Create a file named `object-keys.js`.
+创建一个名为 `object-keys.js` 的文件。
 
-In that file, define a variable named `car` like this:
+在该文件中，像这样定义一个名为 `car` 的变量：
 
 ```js
 const car = {
@@ -30,14 +29,14 @@ const car = {
 }
 ```
 
-Then define another variable named `keys` like this:
+然后像这样定义另一个名为 `keys` 的变量：
 ```js
 const keys = Object.keys(car)
 ```
 
-Use `console.log()` to print the `keys` variable to the terminal.
+使用 `console.log()` 将 `keys` 变量打印到终端。
 
-Check to see if your program is correct by running this command:
+通过运行以下命令来检查你的程序是否正确：
 
 ```bash
 javascripting verify object-keys.js
